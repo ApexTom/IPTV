@@ -1,0 +1,106 @@
+/**
+ * 🚀 IPTV 变量管理增强版 V3.1.0
+ * 功能：黑白名单解耦，支持从环境变量读取配置
+ */
+
+const safePrefix = "/proxy";
+
+export default {
+    async fetch(request, env) {
+        const url = new URL(request.url);
+        const proxyOrigin = url.origin;
+
+        // --- 🎯 变量解析逻辑 ---
+        // 将环境变量中的逗号分隔字符串转为数组，并过滤空值
+        const directWhiteList = (env.WHITE_LIST || "").split(",").map(i => i.trim()).filter(i => i !== "");
+        const forceProxyList = (env.BLACK_LIST || "").split(",").map(i => i.trim()).filter(i => i !== "");
+        const myProxyHost = env.BACKUP_PROXY || "";
+        const adminKey = env.ADMIN_KEY || ""; // 预留管理密钥
+
+        // 1. 首页检查 (展示当前生效配置，不展示机密)
+        if (url.pathname === "/" || url.pathname === "") {
+            return new Response(
+                `IPTV 转发引擎 V3.1.0\n` +
+                `--------------------------\n` +
+                `反代状态: ${myProxyHost ? '已启用 (' + myProxyHost + ')' : '原生模式'}\n` +
+                `直连白名单: ${directWhiteList.length} 条\n` +
+                `强制黑名单: ${forceProxyList.length} 条\n` +
+                `管理模式: ${adminKey ? '已就绪' : '未配置'}`, 
+                { headers: { "Content-Type": "text/plain; charset=utf-8" } }
+            );
+        }
+
+        // 2. 核心转发逻辑
+        if (url.pathname.startsWith(safePrefix + '/')) {
+            const prefixPath = proxyOrigin + safePrefix + '/';
+            let actualUrlStr = request.url.substring(prefixPath.length);
+            actualUrlStr = actualUrlStr.replace(/^(https?):\/+(?!\/)/, "$1://");
+
+            try {
+                const targetUrl = new URL(actualUrlStr);
+                const newHeaders = new Headers();
+                
+                newHeaders.set("User-Agent", "AppleCoreMedia/1.0.0.21E213 (iPhone; CPU OS 17_4_1 like Mac OS X)");
+                newHeaders.set("Host", targetUrl.hostname);
+                newHeaders.set("Referer", targetUrl.origin + "/");
+                newHeaders.set("Connection", "close");
+
+                // 抹除 CF 特征
+                ["cf-connecting-ip", "x-forwarded-for", "x-real-ip", "cf-ray", "cdn-loop"].forEach(h => newHeaders.delete(h));
+
+                // 🎯 逻辑判断：如果不是白名单，且配置了反代，则走反代
+                const isDirect = directWhiteList.some(k => targetUrl.hostname.toLowerCase().includes(k.toLowerCase()));
+                const isBlack = forceProxyList.some(k => targetUrl.hostname.toLowerCase().includes(k.toLowerCase()));
+
+                let fetchUrl = actualUrlStr;
+                // 只有在非直连，或者属于黑名单的情况下，才尝试走反代
+                if (myProxyHost && (!isDirect || isBlack)) {
+                    fetchUrl = `https://${myProxyHost}${targetUrl.pathname}${targetUrl.search}`;
+                }
+
+                const response = await fetch(fetchUrl, {
+                    method: "GET",
+                    headers: newHeaders,
+                    redirect: "follow"
+                });
+
+                let resHeaders = new Headers(response.headers);
+                resHeaders.set("Access-Control-Allow-Origin", "*");
+
+                // 3. 列表重写逻辑
+                const contentType = (resHeaders.get("Content-Type") || "").toLowerCase();
+                if ((actualUrlStr.includes(".m3u") || contentType.includes("mpegurl")) && response.status === 200) {
+                    let text = await response.text();
+                    const rewrittenText = text.split(/\r?\n/).map(line => {
+                        let trimmed = line.trim();
+                        if (trimmed && !trimmed.startsWith("#")) {
+                            let finalUrl = trimmed;
+                            if (!trimmed.startsWith("http")) {
+                                try { finalUrl = new URL(trimmed, targetUrl.href).href; } catch(e) { return line; }
+                            }
+                            
+                            // 动态判断分流
+                            const checkDirect = directWhiteList.some(k => finalUrl.toLowerCase().includes(k.toLowerCase()));
+                            const checkBlack = forceProxyList.some(k => finalUrl.toLowerCase().includes(k.toLowerCase()));
+                            
+                            // 黑名单优先级高于白名单（确保 stream-link 必走代理）
+                            if (checkBlack) return `${proxyOrigin}${safePrefix}/${finalUrl}`;
+                            if (checkDirect) return finalUrl;
+                            return `${proxyOrigin}${safePrefix}/${finalUrl}`;
+                        }
+                        return line;
+                    }).join('\n');
+
+                    resHeaders.delete("Content-Length");
+                    return new Response(rewrittenText, { status: 200, headers: resHeaders });
+                }
+
+                return new Response(response.body, { status: response.status, headers: resHeaders });
+
+            } catch (e) {
+                return new Response("转发异常: " + e.message, { status: 500 });
+            }
+        }
+        return new Response("Not Found", { status: 404 });
+    }
+};
