@@ -1,0 +1,20 @@
+🛠️ N1 MPD-HLS 快速重装手册charmingcheung版本
+
+第一步：
+mkdir -p /opt/mpd-hls/var
+
+第二步：
+docker run -d \
+  --name mpd-charming \
+  --restart unless-stopped \
+  --net=host \
+  -v /opt/mpd-hls/var:/app/var \
+  -e TZ=Asia/Shanghai \
+  charmingcheung000/mpd-hls:latest
+
+第三阶段：获取并修改初始密码
+1 看日志：执行 ⁠docker logs mpd-charming⁠。
+2 找密码：在日志开头寻找 ⁠Initial admin password is: xxxxxx⁠。
+3 登录后台：浏览器打开 ⁠http://192.168.3.100:9100⁠。
+4 改密码（必做）：进入 用户管理/设置，把随机密码改成你常用的。
+5，用户名，admin
