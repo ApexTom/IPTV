@@ -99,12 +99,12 @@ function parseM3U(text) {
 
     const extinf = line
     let streamUrl = ""
+    const extraLines = []  // 收集 #KODIPROP 等附加行
 
     for (let j = i + 1; j < lines.length; j++) {
       const next = lines[j].trim()
       if (!next) continue
       if (next.startsWith("#EXTINF")) break
-      if (next.startsWith("#")) continue
       if (
         next.startsWith("http://") ||
         next.startsWith("https://") ||
@@ -114,6 +114,10 @@ function parseM3U(text) {
       ) {
         streamUrl = next
         break
+      }
+      // #KODIPROP、#EXTVLCOPT 等附加行，原样保留
+      if (next.startsWith("#")) {
+        extraLines.push(next)
       }
     }
 
@@ -127,6 +131,9 @@ function parseM3U(text) {
 
     if (!groups[group]) groups[group] = []
     groups[group].push(extinf)
+    for (const extra of extraLines) {
+      groups[group].push(extra)
+    }
     groups[group].push(streamUrl)
     channelCount++
   }
