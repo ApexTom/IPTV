@@ -18,3 +18,15 @@ docker run -d \
 3 登录后台：浏览器打开 ⁠http://192.168.3.100:9100⁠。
 4 改密码（必做）：进入 用户管理/设置，把随机密码改成你常用的。
 5，用户名，admin
+
+第四步，自动更新
+docker run -d \
+  --name watchtower \
+  --restart unless-stopped \
+  -e WATCHTOWER_NO_HEALTHCHECK=true \
+  -e TZ=Asia/Shanghai \
+  -v /var/run/docker.sock:/var/run/docker.sock \
+  nickfedor/watchtower \
+  --cleanup \
+  --schedule "0 0 4 * * *" \
+  danmu-api mpd-charming
