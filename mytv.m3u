@@ -1,306 +1,340 @@
 #EXTM3U x-tvg-url="http://192.168.3.100:9100/api/epg/aggregated.xml.gz?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4"
-#EXTINF:-1 tvg-id="stream-97042afa-98bf-43cf-b13c-2f73ec36f639" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Jack_Juli",翡翠台
-http://192.168.3.100:9100/live/stream-97042afa-98bf-43cf-b13c-2f73ec36f639/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e4a0ea00-525c-4b15-86d2-1fb32d929dea" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Jack_Juli",翡翠台
-http://192.168.3.100:9100/live/stream-e4a0ea00-525c-4b15-86d2-1fb32d929dea/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-56678d35-130d-4260-9fef-1575002b0933" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Jack_Juli",翡翠台
-http://192.168.3.100:9100/live/stream-56678d35-130d-4260-9fef-1575002b0933/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-4154b061-2cee-4078-9d48-9078bd216df9" tvg-name="翡翠台广电" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Jack_Juli",翡翠台广电
-http://192.168.3.100:9100/live/stream-4154b061-2cee-4078-9d48-9078bd216df9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-f7b5b16d-b977-41e1-8ada-e529a0d6d6ae" tvg-name="翡翠台4K" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/翡翠.png" group-title="Jack_Juli",翡翠台4K
-http://192.168.3.100:9100/live/stream-f7b5b16d-b977-41e1-8ada-e529a0d6d6ae/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-9742878a-9e98-4b05-b928-0a0232404b00" tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="Jack_Juli",无线新闻台
-http://192.168.3.100:9100/live/stream-9742878a-9e98-4b05-b928-0a0232404b00/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-93f62171-271d-48f2-9b52-3d65c4e47cc9" tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/NOW新闻.png" group-title="Jack_Juli",NOW新闻台
-http://192.168.3.100:9100/live/stream-93f62171-271d-48f2-9b52-3d65c4e47cc9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e07e4c7a-1967-4044-a36c-65011e8f380f" tvg-name="TVB PLUS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB Plus.png" group-title="Jack_Juli",TVB PLUS
-http://192.168.3.100:9100/live/stream-e07e4c7a-1967-4044-a36c-65011e8f380f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-994e5590-c3b1-44ed-a898-cc9a46cfcbc5" tvg-name="TVB PLUS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB Plus.png" group-title="Jack_Juli",TVB PLUS
-http://192.168.3.100:9100/live/stream-994e5590-c3b1-44ed-a898-cc9a46cfcbc5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-b84b6fc9-b835-4342-8af9-d7a9d201f6f6" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="Jack_Juli",明珠台
-http://192.168.3.100:9100/live/stream-b84b6fc9-b835-4342-8af9-d7a9d201f6f6/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-ff642786-b74d-4c21-b1c4-2504bf5fc9a1" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="Jack_Juli",明珠台
-http://192.168.3.100:9100/live/stream-ff642786-b74d-4c21-b1c4-2504bf5fc9a1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-2f8968a1-1c42-4f95-a304-6ac0d8fe6be9" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="Jack_Juli",明珠台
-http://192.168.3.100:9100/live/stream-2f8968a1-1c42-4f95-a304-6ac0d8fe6be9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-aee28d96-1490-428c-a406-b6d5afe1119b" tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png" group-title="Jack_Juli",HOYTV
-http://192.168.3.100:9100/live/stream-aee28d96-1490-428c-a406-b6d5afe1119b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-09071772-c09c-40a7-8188-15b7d866c197" tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png" group-title="Jack_Juli",HOYTV
-http://192.168.3.100:9100/live/stream-09071772-c09c-40a7-8188-15b7d866c197/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e2ae2938-62c7-4e39-9bd6-923a92e8f36f" tvg-name="HOY国际财经台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/HOY国际财经.png" group-title="Jack_Juli",HOY国际财经台
-http://192.168.3.100:9100/live/stream-e2ae2938-62c7-4e39-9bd6-923a92e8f36f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-b977e4e3-8435-4b2e-818e-aaccd1805888" tvg-name="HOY资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="Jack_Juli",HOY资讯台
-http://192.168.3.100:9100/live/stream-b977e4e3-8435-4b2e-818e-aaccd1805888/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-0c49f896-9026-425f-8369-01ef187fe505" tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTV.png" group-title="Jack_Juli",VIUTV
-http://192.168.3.100:9100/live/stream-0c49f896-9026-425f-8369-01ef187fe505/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-c13df19e-4a97-4df9-9629-6b1bb29fe976" tvg-name="VIUTVSIX" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTVsix.png" group-title="Jack_Juli",VIUTVSIX
-http://192.168.3.100:9100/live/stream-c13df19e-4a97-4df9-9629-6b1bb29fe976/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-58de069b-df5a-4def-ab1d-9008426bff21" tvg-name="RTHK 31" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 31.png" group-title="Jack_Juli",RTHK 31
-http://192.168.3.100:9100/live/stream-58de069b-df5a-4def-ab1d-9008426bff21/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-9beb4fb6-33a3-4db5-ac62-e32269b6580f" tvg-name="RTHK 32" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 32.png" group-title="Jack_Juli",RTHK 32
-http://192.168.3.100:9100/live/stream-9beb4fb6-33a3-4db5-ac62-e32269b6580f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-ab76d163-c89e-4bb5-93ba-4d12a420bf90" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="Jack_Juli",凤凰中文
-http://192.168.3.100:9100/live/stream-ab76d163-c89e-4bb5-93ba-4d12a420bf90/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-85492f60-e8b0-433e-ac0b-1b43db048c98" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="Jack_Juli",凤凰资讯
-http://192.168.3.100:9100/live/stream-85492f60-e8b0-433e-ac0b-1b43db048c98/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-60ae1d57-ea8a-40be-863c-52989b4e4bda" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="Jack_Juli",凤凰香港
-http://192.168.3.100:9100/live/stream-60ae1d57-ea8a-40be-863c-52989b4e4bda/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-320b3d7b-bb5b-47c7-95d3-e5ee6b13199e" tvg-name="CCTV1港澳版" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV1.png" group-title="Jack_Juli",CCTV1港澳版
-http://192.168.3.100:9100/live/stream-320b3d7b-bb5b-47c7-95d3-e5ee6b13199e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-84106a0b-3349-4de8-864d-96f67885287d" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV13.png" group-title="Jack_Juli",CCTV13
-http://192.168.3.100:9100/live/stream-84106a0b-3349-4de8-864d-96f67885287d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-1dc3e23e-cafc-4159-92a3-c1b388b67b55" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/五星体育.png" group-title="Jack_Juli",五星体育
-http://192.168.3.100:9100/live/stream-1dc3e23e-cafc-4159-92a3-c1b388b67b55/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-c804775c-f252-4e0c-8a77-aa3edfd22b50" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/重温经典.png" group-title="Jack_Juli",重温经典
-http://192.168.3.100:9100/live/stream-c804775c-f252-4e0c-8a77-aa3edfd22b50/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-62513e0c-5b15-4ec9-876a-71fd4836ce08" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东珠江.png" group-title="Jack_Juli",广东珠江
-http://192.168.3.100:9100/live/stream-62513e0c-5b15-4ec9-876a-71fd4836ce08/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-99432955-f62a-4590-9a28-7e3579c8ce2e" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东体育.png" group-title="Jack_Juli",广东体育
-http://192.168.3.100:9100/live/stream-99432955-f62a-4590-9a28-7e3579c8ce2e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-ad17bcb7-7a7c-4105-a08c-5b9145caab47" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州综合.png" group-title="Jack_Juli",广州综合
-http://192.168.3.100:9100/live/stream-ad17bcb7-7a7c-4105-a08c-5b9145caab47/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-fdd01640-cbfd-4aa8-8564-d4a1f1cf9d1a" tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州新闻.png" group-title="Jack_Juli",广州新闻
-http://192.168.3.100:9100/live/stream-fdd01640-cbfd-4aa8-8564-d4a1f1cf9d1a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-2583fa6f-8a0e-4921-99aa-8b9d4aa49657" tvg-name="广州南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州南国都市.png" group-title="Jack_Juli",广州南国都市
-http://192.168.3.100:9100/live/stream-2583fa6f-8a0e-4921-99aa-8b9d4aa49657/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-35d47d56-3842-42f7-9d0d-7c618502c61b" tvg-name="澳视澳门" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳视澳门.png" group-title="Jack_Juli",澳视澳门
-http://192.168.3.100:9100/live/stream-35d47d56-3842-42f7-9d0d-7c618502c61b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-389ce02c-c0c6-47d9-92bc-c17df6039b8c" tvg-name="澳视卫星" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/澳视卫星.png" group-title="Jack_Juli",澳视卫星
-http://192.168.3.100:9100/live/stream-389ce02c-c0c6-47d9-92bc-c17df6039b8c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-28e4fa29-e0a3-48fb-908a-128190b4121f" tvg-name="澳门体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门体育.png" group-title="Jack_Juli",澳门体育
-http://192.168.3.100:9100/live/stream-28e4fa29-e0a3-48fb-908a-128190b4121f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-3169bb55-7cd8-4d7d-a3be-bbfef13d407a" tvg-name="澳门综艺" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门综艺.png" group-title="Jack_Juli",澳门综艺
-http://192.168.3.100:9100/live/stream-3169bb55-7cd8-4d7d-a3be-bbfef13d407a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-f159c6ab-a634-4aea-9f22-9b3039a26948" tvg-name="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门莲花.png" group-title="Jack_Juli",澳门莲花
-http://192.168.3.100:9100/live/stream-f159c6ab-a634-4aea-9f22-9b3039a26948/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-65ad3fb1-1255-49f3-b9f6-6872df34b03e" tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="Jack_Juli",华丽翡翠台
-http://192.168.3.100:9100/live/stream-65ad3fb1-1255-49f3-b9f6-6872df34b03e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-0cb197e4-ca98-48df-a388-802e9f08f5ac" tvg-name="翡翠一台(TVB1)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png" group-title="Jack_Juli",翡翠一台(TVB1)
-http://192.168.3.100:9100/live/stream-0cb197e4-ca98-48df-a388-802e9f08f5ac/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-09371c02-528f-4fed-8cf0-1294730ca5d3" tvg-name="TVBJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBJ1.png" group-title="Jack_Juli",TVBJ
-http://192.168.3.100:9100/live/stream-09371c02-528f-4fed-8cf0-1294730ca5d3/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-42d03b96-1764-4a9d-87e7-2d87f7393ff2" tvg-name="TVB翡翠剧集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="Jack_Juli",TVB翡翠剧集台
-http://192.168.3.100:9100/live/stream-42d03b96-1764-4a9d-87e7-2d87f7393ff2/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-9416fd12-4a7a-47f0-b05d-b58a30a8557e" tvg-name="TVB亚洲武侠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png" group-title="Jack_Juli",TVB亚洲武侠
-http://192.168.3.100:9100/live/stream-9416fd12-4a7a-47f0-b05d-b58a30a8557e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-f5f61791-e683-493f-99c2-807fb6b2f2c3" tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/娱乐新闻.png" group-title="Jack_Juli",娱乐新闻台
-http://192.168.3.100:9100/live/stream-f5f61791-e683-493f-99c2-807fb6b2f2c3/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-0e6c0d9e-1d76-4ae1-8ee9-f4586910b8e6" tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Jack_Juli",TVB星河
-http://192.168.3.100:9100/live/stream-0e6c0d9e-1d76-4ae1-8ee9-f4586910b8e6/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-369ad684-225d-4bea-9822-5c43f65342c6" tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Jack_Juli",TVB星河
-http://192.168.3.100:9100/live/stream-369ad684-225d-4bea-9822-5c43f65342c6/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-3f8ac65f-2a21-465f-b742-d371fd7f0255" tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Jack_Juli",TVB星河
-http://192.168.3.100:9100/live/stream-3f8ac65f-2a21-465f-b742-d371fd7f0255/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-11fc8f28-ef33-415f-81e4-d48c6140591d" tvg-name="天映新加坡" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/天映.png" group-title="Jack_Juli",天映新加坡
-http://192.168.3.100:9100/live/stream-11fc8f28-ef33-415f-81e4-d48c6140591d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-34f68ed3-7bed-47de-b53e-b5a99af4fe4c" tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映经典频道.png" group-title="Jack_Juli",天映经典频道
-http://192.168.3.100:9100/live/stream-34f68ed3-7bed-47de-b53e-b5a99af4fe4c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-6005482e-3e8f-4934-af22-50069fcf396d" tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/千禧经典.png" group-title="Jack_Juli",千禧经典台
-http://192.168.3.100:9100/live/stream-6005482e-3e8f-4934-af22-50069fcf396d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-20e90a1a-5f96-445c-a9e7-dd240cfe11da" tvg-name="天映频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映频道.png" group-title="Jack_Juli",天映频道
-http://192.168.3.100:9100/live/stream-20e90a1a-5f96-445c-a9e7-dd240cfe11da/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-4e8788f6-12ff-4f50-93e6-2621b372c9b5" tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映经典频道.png" group-title="Jack_Juli",天映经典频道
-http://192.168.3.100:9100/live/stream-4e8788f6-12ff-4f50-93e6-2621b372c9b5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-65213172-54b3-4cbd-ac4e-8fa7199621d8" tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/龙华电影.png" group-title="Jack_Juli",龙华电影
-http://192.168.3.100:9100/live/stream-65213172-54b3-4cbd-ac4e-8fa7199621d8/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-79c46d27-ae08-4270-bb04-92b7a1b08f9f" tvg-name="龙华经典台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/龙华经典.png" group-title="Jack_Juli",龙华经典台
-http://192.168.3.100:9100/live/stream-79c46d27-ae08-4270-bb04-92b7a1b08f9f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-65c8138b-35f0-409b-9da1-76576efc3027" tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/龙华偶像.png" group-title="Jack_Juli",龙华偶像
-http://192.168.3.100:9100/live/stream-65c8138b-35f0-409b-9da1-76576efc3027/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-ece47b40-6766-4fb2-a6e3-4032a38ee176" tvg-name="龙华日韩台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/龙华日韩.png" group-title="Jack_Juli",龙华日韩台
-http://192.168.3.100:9100/live/stream-ece47b40-6766-4fb2-a6e3-4032a38ee176/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-9e0f0377-7ac1-4f96-86e2-652b2b119146" tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/龙华戏剧.png" group-title="Jack_Juli",龙华戏剧
-http://192.168.3.100:9100/live/stream-9e0f0377-7ac1-4f96-86e2-652b2b119146/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-6cdb7744-499c-4f4d-9060-dbc7b160f81e" tvg-name="金光布袋戏" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/金光布袋戏.png" group-title="Jack_Juli",金光布袋戏
-http://192.168.3.100:9100/live/stream-6cdb7744-499c-4f4d-9060-dbc7b160f81e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-037a3bb3-75bb-4a46-ac2f-b00c4605cd58" tvg-name="ASTRO AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="Jack_Juli",ASTRO AOD
-http://192.168.3.100:9100/live/stream-037a3bb3-75bb-4a46-ac2f-b00c4605cd58/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-bb98701d-06bd-4474-a3b6-9bfcd69ad251" tvg-name="ASTRO AEC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="Jack_Juli",ASTRO AEC
-http://192.168.3.100:9100/live/stream-bb98701d-06bd-4474-a3b6-9bfcd69ad251/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-7c97ad3d-b5f5-42da-9a42-5229409c7850" tvg-name="ASTRO 欢喜台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="Jack_Juli",ASTRO 欢喜台
-http://192.168.3.100:9100/live/stream-7c97ad3d-b5f5-42da-9a42-5229409c7850/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-ba8498da-4245-4d8d-9f8c-d6dd2191f3b1" tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/iQIYI.png" group-title="Jack_Juli",IQIYI
-http://192.168.3.100:9100/live/stream-ba8498da-4245-4d8d-9f8c-d6dd2191f3b1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-dd8eaf8a-cc42-4741-8c15-5f36979c6c6c" tvg-name="八度空间" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="Jack_Juli",八度空间
-http://192.168.3.100:9100/live/stream-dd8eaf8a-cc42-4741-8c15-5f36979c6c6c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-83cd4066-d489-4a73-ade8-70f2f5eaf093" tvg-name="CHANNEL 5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL5.png" group-title="Jack_Juli",CHANNEL 5
-http://192.168.3.100:9100/live/stream-83cd4066-d489-4a73-ade8-70f2f5eaf093/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e16bbb2d-d028-40d6-adba-908548dc66f9" tvg-name="CHANNEL 8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL8.png" group-title="Jack_Juli",CHANNEL 8
-http://192.168.3.100:9100/live/stream-e16bbb2d-d028-40d6-adba-908548dc66f9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-bbff07b3-06a1-412e-a644-f4e0541cb300" tvg-name="CHANNEL U" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNELU.png" group-title="Jack_Juli",CHANNEL U
-http://192.168.3.100:9100/live/stream-bbff07b3-06a1-412e-a644-f4e0541cb300/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-5adb34d2-4f91-44f8-8a0f-5332eca9736a" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="Jack_mytv",翡翠台
-http://192.168.3.100:9100/live/stream-5adb34d2-4f91-44f8-8a0f-5332eca9736a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-038fb1e4-45c1-4781-be1c-9b7dc365ed8e" tvg-name="翡翠台 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="Jack_mytv",翡翠台 4K
-http://192.168.3.100:9100/live/stream-038fb1e4-45c1-4781-be1c-9b7dc365ed8e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-9cbf8e70-6b40-4c07-85fd-dd4d1df9e642" tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="Jack_mytv",TVB Plus
-http://192.168.3.100:9100/live/stream-9cbf8e70-6b40-4c07-85fd-dd4d1df9e642/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e7166478-cd5b-4dc9-9d20-dd22ed261946" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="Jack_mytv",無綫新聞台
-http://192.168.3.100:9100/live/stream-e7166478-cd5b-4dc9-9d20-dd22ed261946/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-fc56c12f-30de-4f15-bab6-cd0401ac3723" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="Jack_mytv",明珠台
-http://192.168.3.100:9100/live/stream-fc56c12f-30de-4f15-bab6-cd0401ac3723/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-bc49cdf9-1988-4948-ae34-bf6bf69a203c" tvg-name="SUPER獎門人" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="Jack_mytv",SUPER獎門人
-http://192.168.3.100:9100/live/stream-bc49cdf9-1988-4948-ae34-bf6bf69a203c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-ad6f11da-23b8-43a6-a7d9-b1365a24f4fb" tvg-name="SUPER EYT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="Jack_mytv",SUPER EYT
-http://192.168.3.100:9100/live/stream-ad6f11da-23b8-43a6-a7d9-b1365a24f4fb/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-4db85cdf-f14e-469f-8043-c601b2e52128" tvg-name="SUPER識食" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="Jack_mytv",SUPER識食
-http://192.168.3.100:9100/live/stream-4db85cdf-f14e-469f-8043-c601b2e52128/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-2e504e9f-f5be-44b6-979a-3da992408fab" tvg-name="SUPER識嘆" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="Jack_mytv",SUPER識嘆
-http://192.168.3.100:9100/live/stream-2e504e9f-f5be-44b6-979a-3da992408fab/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e4fafe2d-4575-44cb-a6d3-2ce29065fa20" tvg-name="SUPER Music" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CMUSIC.png" group-title="Jack_mytv",SUPER Music
-http://192.168.3.100:9100/live/stream-e4fafe2d-4575-44cb-a6d3-2ce29065fa20/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-7b5653e8-a1a4-4000-a94f-e1d335599691" tvg-name="SUPER金曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="Jack_mytv",SUPER金曲
-http://192.168.3.100:9100/live/stream-7b5653e8-a1a4-4000-a94f-e1d335599691/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-38059dee-0c47-4c34-a4f5-49182ea50c04" tvg-name="SUPER煲劇" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="Jack_mytv",SUPER煲劇
-http://192.168.3.100:9100/live/stream-38059dee-0c47-4c34-a4f5-49182ea50c04/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-c874fd80-6369-45c5-8a0d-a55893db8712" tvg-name="SUPER劇場" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="Jack_mytv",SUPER劇場
-http://192.168.3.100:9100/live/stream-c874fd80-6369-45c5-8a0d-a55893db8712/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e626899a-1848-4b83-bf65-00ccb054309d" tvg-name="SUPER話當年" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="Jack_mytv",SUPER話當年
-http://192.168.3.100:9100/live/stream-e626899a-1848-4b83-bf65-00ccb054309d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-520b1932-175b-4eea-ac76-f515ff3db29b" tvg-name="myTV SUPER FREE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="Jack_mytv",myTV SUPER FREE
-http://192.168.3.100:9100/live/stream-520b1932-175b-4eea-ac76-f515ff3db29b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e6aa177f-9490-459c-b15f-d44ce9fcb392" tvg-name="myTV SUPER 18台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable11.png" group-title="Jack_mytv",myTV SUPER 18台
-http://192.168.3.100:9100/live/stream-e6aa177f-9490-459c-b15f-d44ce9fcb392/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-862a5650-105b-4561-b202-0609833a9b6e" tvg-name="黃金翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄金翡翠.png" group-title="Jack_mytv",黃金翡翠台
-http://192.168.3.100:9100/live/stream-862a5650-105b-4561-b202-0609833a9b6e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-c74495c1-579d-41a4-8f47-023879212488" tvg-name="千禧經典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="Jack_mytv",千禧經典台
-http://192.168.3.100:9100/live/stream-c74495c1-579d-41a4-8f47-023879212488/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-65843aa0-2b9c-4657-87fc-66d0ac1b3116" tvg-name="華語劇台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华语剧.png" group-title="Jack_mytv",華語劇台
-http://192.168.3.100:9100/live/stream-65843aa0-2b9c-4657-87fc-66d0ac1b3116/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-ac544049-ccb1-4a20-bd11-8b7a739fdd50" tvg-name="粵語片台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/粤语片.png" group-title="Jack_mytv",粵語片台
-http://192.168.3.100:9100/live/stream-ac544049-ccb1-4a20-bd11-8b7a739fdd50/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-1f85edf1-b19f-4085-a0f4-1bc51dcbcafb" tvg-name="亞洲劇台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲剧.png" group-title="Jack_mytv",亞洲劇台
-http://192.168.3.100:9100/live/stream-1f85edf1-b19f-4085-a0f4-1bc51dcbcafb/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-f5a608ba-60e6-4f44-8764-fe9115f7db96" tvg-name="黃金華劇台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄金华剧.png" group-title="Jack_mytv",黃金華劇台
-http://192.168.3.100:9100/live/stream-f5a608ba-60e6-4f44-8764-fe9115f7db96/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-99a10e82-9fc6-4a4c-a0dc-d6407eeacc7c" tvg-name="娛樂新聞台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="Jack_mytv",娛樂新聞台
-http://192.168.3.100:9100/live/stream-99a10e82-9fc6-4a4c-a0dc-d6407eeacc7c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-d63eb43a-5e47-48e2-b8b9-0a437165ee33" tvg-name="戲曲台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/戏曲.png" group-title="Jack_mytv",戲曲台
-http://192.168.3.100:9100/live/stream-d63eb43a-5e47-48e2-b8b9-0a437165ee33/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e00c377d-6e72-42f7-8405-6b6e720c1675" tvg-name="SUPER Kids Channel" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SUPERKIDSCHANNEL.png" group-title="Jack_mytv",SUPER Kids Channel
-http://192.168.3.100:9100/live/stream-e00c377d-6e72-42f7-8405-6b6e720c1675/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-afe242dc-5b92-4086-a3b8-a8d4328c1f5b" tvg-name="ZooMoo" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ZOOMOO.png" group-title="Jack_mytv",ZooMoo
-http://192.168.3.100:9100/live/stream-afe242dc-5b92-4086-a3b8-a8d4328c1f5b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-35b88f4c-0eab-4ccd-ad81-54c474017b5d" tvg-name="Nickelodeon" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKELODEON.png" group-title="Jack_mytv",Nickelodeon
-http://192.168.3.100:9100/live/stream-35b88f4c-0eab-4ccd-ad81-54c474017b5d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-22b71823-15e5-4be1-a9a0-3a52520914dd" tvg-name="Nick Jr." tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR..png" group-title="Jack_mytv",Nick Jr.
-http://192.168.3.100:9100/live/stream-22b71823-15e5-4be1-a9a0-3a52520914dd/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-f1f35f85-8b76-4b4a-996c-9c6b2b5dd66e" tvg-name="美亞電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="Jack_mytv",美亞電影台
-http://192.168.3.100:9100/live/stream-f1f35f85-8b76-4b4a-996c-9c6b2b5dd66e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-ed74de9e-3477-4319-b3ad-ea54754ba2f5" tvg-name="Thrill" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/THRILL.png" group-title="Jack_mytv",Thrill
-http://192.168.3.100:9100/live/stream-ed74de9e-3477-4319-b3ad-ea54754ba2f5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-edc67c3e-d3e5-4368-bd49-c57be670b069" tvg-name="天映經典頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="Jack_mytv",天映經典頻道
-http://192.168.3.100:9100/live/stream-edc67c3e-d3e5-4368-bd49-c57be670b069/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-56a73707-4283-468b-93fb-0908094194b6" tvg-name="中國電影頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国电影.png" group-title="Jack_mytv",中國電影頻道
-http://192.168.3.100:9100/live/stream-56a73707-4283-468b-93fb-0908094194b6/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-bed9107e-98f2-45c5-bbbb-ef96b8a2bb3e" tvg-name="ROCK Action" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKACTION.png" group-title="Jack_mytv",ROCK Action
-http://192.168.3.100:9100/live/stream-bed9107e-98f2-45c5-bbbb-ef96b8a2bb3e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-bcbfaa9a-cd13-4946-99a2-6eb26485ff37" tvg-name="ROCK Extreme" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKEXTREME.png" group-title="Jack_mytv",ROCK Extreme
-http://192.168.3.100:9100/live/stream-bcbfaa9a-cd13-4946-99a2-6eb26485ff37/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-0063494f-e3b6-4655-98ca-7a4fbb076e98" tvg-name="KIX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/KIX.png" group-title="Jack_mytv",KIX
-http://192.168.3.100:9100/live/stream-0063494f-e3b6-4655-98ca-7a4fbb076e98/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-04b7e5d9-da9c-4a49-b75d-0ac90fdd0e5a" tvg-name="Love Nature HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="Jack_mytv",Love Nature HD
-http://192.168.3.100:9100/live/stream-04b7e5d9-da9c-4a49-b75d-0ac90fdd0e5a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-128e9c2e-a123-4a22-9f67-4604da4ac416" tvg-name="Love Nature 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE4K.png" group-title="Jack_mytv",Love Nature 4K
-http://192.168.3.100:9100/live/stream-128e9c2e-a123-4a22-9f67-4604da4ac416/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-715e40fd-01a0-4812-b750-883f00cd7d23" tvg-name="Global Trekker" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GLOBALTREKKER.png" group-title="Jack_mytv",Global Trekker
-http://192.168.3.100:9100/live/stream-715e40fd-01a0-4812-b750-883f00cd7d23/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-251f4092-aa9b-4347-857f-6ba7737d9d91" tvg-name="ROCK綜藝娛樂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCK综艺娱乐.png" group-title="Jack_mytv",ROCK綜藝娛樂
-http://192.168.3.100:9100/live/stream-251f4092-aa9b-4347-857f-6ba7737d9d91/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-aa19eb08-1752-494b-8db9-40f8e83ae4b4" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="Jack_mytv",AXN
-http://192.168.3.100:9100/live/stream-aa19eb08-1752-494b-8db9-40f8e83ae4b4/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-d35569aa-cfbb-4604-a7f0-fd191002e6e5" tvg-name="Animax" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMAX.png" group-title="Jack_mytv",Animax
-http://192.168.3.100:9100/live/stream-d35569aa-cfbb-4604-a7f0-fd191002e6e5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-d504d492-7c17-4042-b322-6b87bebd0c92" tvg-name="tvN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="Jack_mytv",tvN
-http://192.168.3.100:9100/live/stream-d504d492-7c17-4042-b322-6b87bebd0c92/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-0ff62334-6a5b-4a94-99d6-9f51e03d0bea" tvg-name="無線衛星亞洲台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星亚洲.png" group-title="Jack_mytv",無線衛星亞洲台
-http://192.168.3.100:9100/live/stream-0ff62334-6a5b-4a94-99d6-9f51e03d0bea/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-29f35e85-02b0-45b1-b319-bbb86cd53b0f" tvg-name="創世電視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/创世电视.png" group-title="Jack_mytv",創世電視
-http://192.168.3.100:9100/live/stream-29f35e85-02b0-45b1-b319-bbb86cd53b0f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-a8075177-f9b2-4bed-b7f0-0cb6faf8da97" tvg-name="FashionBox" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FASHIONBOX.png" group-title="Jack_mytv",FashionBox
-http://192.168.3.100:9100/live/stream-a8075177-f9b2-4bed-b7f0-0cb6faf8da97/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-720c1a45-e922-4d50-91a4-316960618a7c" tvg-name="Mezzo Live HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MEZZOLIVEHD.png" group-title="Jack_mytv",Mezzo Live HD
-http://192.168.3.100:9100/live/stream-720c1a45-e922-4d50-91a4-316960618a7c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-73aa6c10-3098-4999-b123-ba11f659da71" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南澜湄国际卫视.png" group-title="Jack_mytv",雲南瀾湄國際衛視
-http://192.168.3.100:9100/live/stream-73aa6c10-3098-4999-b123-ba11f659da71/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-cfe78baf-24a8-4766-b689-872614eee3d0" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽.png" group-title="Jack_mytv",安徽廣播電視台國際頻道
-http://192.168.3.100:9100/live/stream-cfe78baf-24a8-4766-b689-872614eee3d0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-d84e62b4-2521-4674-87cc-c23102cb5cad" tvg-name="北京電視台國際頻道" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="Jack_mytv",北京電視台國際頻道
-http://192.168.3.100:9100/live/stream-d84e62b4-2521-4674-87cc-c23102cb5cad/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-0b26b846-8772-47da-bd30-3088180a408d" tvg-name="廣西電視台國際頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西.png" group-title="Jack_mytv",廣西電視台國際頻道
-http://192.168.3.100:9100/live/stream-0b26b846-8772-47da-bd30-3088180a408d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-721b965b-77ad-47c4-887e-3dd628cddcc4" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="Jack_mytv",福建海峽衛視國際頻道
-http://192.168.3.100:9100/live/stream-721b965b-77ad-47c4-887e-3dd628cddcc4/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e91e9373-0974-45cc-a3ca-6834c4d706b7" tvg-name="湖南電視台國際頻道" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="Jack_mytv",湖南電視台國際頻道
-http://192.168.3.100:9100/live/stream-e91e9373-0974-45cc-a3ca-6834c4d706b7/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-a36c45af-c2f6-4f9e-8fb1-ff2527fcc4d2" tvg-name="江蘇電視台國際頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏.png" group-title="Jack_mytv",江蘇電視台國際頻道
-http://192.168.3.100:9100/live/stream-a36c45af-c2f6-4f9e-8fb1-ff2527fcc4d2/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-46e38f53-a9d0-48d4-b65a-2ea294ca9e37" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="Jack_mytv",廣東廣播電視台大灣區衛視頻道
-http://192.168.3.100:9100/live/stream-46e38f53-a9d0-48d4-b65a-2ea294ca9e37/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-9163edeb-96bf-4ff9-971a-fa6dbba3f322" tvg-name="浙江電視台國際頻道" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="Jack_mytv",浙江電視台國際頻道
-http://192.168.3.100:9100/live/stream-9163edeb-96bf-4ff9-971a-fa6dbba3f322/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-749d6dd2-99b5-4444-9f54-8ba183b90ce3" tvg-name="深圳衛視國際頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="Jack_mytv",深圳衛視國際頻道
-http://192.168.3.100:9100/live/stream-749d6dd2-99b5-4444-9f54-8ba183b90ce3/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-50a19a8d-b944-4948-8e9b-6805d6437031" tvg-name="東方衛視國際頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视国际.png" group-title="Jack_mytv",東方衛視國際頻道
-http://192.168.3.100:9100/live/stream-50a19a8d-b944-4948-8e9b-6805d6437031/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-3c70d62f-99d6-41c6-bb2f-688cb58aac21" tvg-name="鳳凰衛視中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="Jack_mytv",鳳凰衛視中文台
-http://192.168.3.100:9100/live/stream-3c70d62f-99d6-41c6-bb2f-688cb58aac21/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-c222aef4-22e5-4e4e-9f56-726ba155154e" tvg-name="鳳凰衛視資訊台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="Jack_mytv",鳳凰衛視資訊台
-http://192.168.3.100:9100/live/stream-c222aef4-22e5-4e4e-9f56-726ba155154e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-a4fdb88d-7552-4774-96e2-2cf204e1058c" tvg-name="鳳凰衛視香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="Jack_mytv",鳳凰衛視香港台
-http://192.168.3.100:9100/live/stream-a4fdb88d-7552-4774-96e2-2cf204e1058c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-93c3e98a-e1af-4a64-9856-53e45f731519" tvg-name="PopC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="Jack_mytv",PopC
-http://192.168.3.100:9100/live/stream-93c3e98a-e1af-4a64-9856-53e45f731519/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-86a9c6f8-f3a3-4097-8626-391f3a434e53" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="Jack_mytv",中央電視台綜合頻道 (港澳版)
-http://192.168.3.100:9100/live/stream-86a9c6f8-f3a3-4097-8626-391f3a434e53/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-112ddf9a-3131-4007-a314-2792c632ffc9" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="Jack_mytv",CGTN (中國環球電視網)記錄頻道
-http://192.168.3.100:9100/live/stream-112ddf9a-3131-4007-a314-2792c632ffc9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e92ce333-c3ef-4740-aab7-3165c1bf79c9" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="Jack_mytv",CGTN (中國環球電視網)英語頻道
-http://192.168.3.100:9100/live/stream-e92ce333-c3ef-4740-aab7-3165c1bf79c9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-88723e8a-4472-4de4-a8c3-3385ab0dae7a" tvg-name="神州新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/神州新闻.png" group-title="Jack_mytv",神州新聞台
-http://192.168.3.100:9100/live/stream-88723e8a-4472-4de4-a8c3-3385ab0dae7a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e97f1916-f2a2-459e-a1c5-ba155f0b79fa" tvg-name="無線衛星新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星新闻.png" group-title="Jack_mytv",無線衛星新聞台
-http://192.168.3.100:9100/live/stream-e97f1916-f2a2-459e-a1c5-ba155f0b79fa/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-298292c5-3d11-41d6-8b92-6f70288bb93c" tvg-name="亞洲新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲新闻.png" group-title="Jack_mytv",亞洲新聞台
-http://192.168.3.100:9100/live/stream-298292c5-3d11-41d6-8b92-6f70288bb93c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-82963755-68dc-4bc7-8273-81c10a4177a9" tvg-name="半島電視台英語頻道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/半岛电视台英语.png" group-title="Jack_mytv",半島電視台英語頻道
-http://192.168.3.100:9100/live/stream-82963755-68dc-4bc7-8273-81c10a4177a9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-3ddbeeda-35ce-4e1d-9024-633b78fa090a" tvg-name="France 24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="Jack_mytv",France 24
-http://192.168.3.100:9100/live/stream-3ddbeeda-35ce-4e1d-9024-633b78fa090a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-cb684416-eed8-4af4-827c-5647394e914e" tvg-name="DW" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="Jack_mytv",DW
-http://192.168.3.100:9100/live/stream-cb684416-eed8-4af4-827c-5647394e914e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-50533d7f-f43c-4449-8258-1b85ca9f33fd" tvg-name="NHK World-Japan" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="Jack_mytv",NHK World-Japan
-http://192.168.3.100:9100/live/stream-50533d7f-f43c-4449-8258-1b85ca9f33fd/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e2ff7fb0-7591-4c66-956d-400dbf350dfa" tvg-name="Arirang TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANGTV.png" group-title="Jack_mytv",Arirang TV
-http://192.168.3.100:9100/live/stream-e2ff7fb0-7591-4c66-956d-400dbf350dfa/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e758b3df-0e12-4466-89ee-4675c3ff8a52" tvg-name="SUPER Sports" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTDOC.png" group-title="Jack_mytv",SUPER Sports
-http://192.168.3.100:9100/live/stream-e758b3df-0e12-4466-89ee-4675c3ff8a52/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-7017aa74-ac0f-40b9-b8ae-3c04d2bde32a" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="Jack_mytv",myTV SUPER直播足球3台
-http://192.168.3.100:9100/live/stream-7017aa74-ac0f-40b9-b8ae-3c04d2bde32a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-41e4e937-c9a4-420c-997a-36657891aa81" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="Jack_mytv",myTV SUPER直播足球4台
-http://192.168.3.100:9100/live/stream-41e4e937-c9a4-420c-997a-36657891aa81/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-705e0dd5-6774-4c20-878d-41c1b7a72b51" tvg-name="myTV SUPER直播足球5台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="Jack_mytv",myTV SUPER直播足球5台
-http://192.168.3.100:9100/live/stream-705e0dd5-6774-4c20-878d-41c1b7a72b51/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-ed060a20-382f-4015-afbb-ffa2d20f9c06" tvg-name="myTV SUPER直播足球6台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="Jack_mytv",myTV SUPER直播足球6台
-http://192.168.3.100:9100/live/stream-ed060a20-382f-4015-afbb-ffa2d20f9c06/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-f2eb5f0f-1286-4e4e-bfcf-1dfb36f4ddee" tvg-name="互動窗 1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="Jack_mytv",互動窗 1
-http://192.168.3.100:9100/live/stream-f2eb5f0f-1286-4e4e-bfcf-1dfb36f4ddee/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-508d13be-e837-43e0-818c-46214f0f49d2" tvg-name="互動窗 2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="Jack_mytv",互動窗 2
-http://192.168.3.100:9100/live/stream-508d13be-e837-43e0-818c-46214f0f49d2/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-71586f2d-da58-4b14-86e3-8a148b1ff302" tvg-name="NOW 70s" tvg-logo="https://epg.112114.xyz/logo/NOW70S.png" group-title="Jack_mytv",NOW 70s
-http://192.168.3.100:9100/live/stream-71586f2d-da58-4b14-86e3-8a148b1ff302/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-731fec40-07af-417b-bc2a-e715c717e607" tvg-name="NOW 80s" tvg-logo="https://epg.112114.xyz/logo/NOW80S.png" group-title="Jack_mytv",NOW 80s
-http://192.168.3.100:9100/live/stream-731fec40-07af-417b-bc2a-e715c717e607/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-eade9444-7b57-4c42-a7be-52a249987ac7" tvg-name="NOW ROCK" tvg-logo="https://epg.112114.xyz/logo/NOWROCK.png" group-title="Jack_mytv",NOW ROCK
-http://192.168.3.100:9100/live/stream-eade9444-7b57-4c42-a7be-52a249987ac7/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-a8f31802-de29-4d16-b536-b79c2b8dd30e" tvg-name="NOW 90s00s" tvg-logo="https://epg.112114.xyz/logo/NOW90S00S.png" group-title="Jack_mytv",NOW 90s00s
-http://192.168.3.100:9100/live/stream-a8f31802-de29-4d16-b536-b79c2b8dd30e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-fb33522d-9c81-4616-921f-e4bd2a508963" tvg-name="Concerto" tvg-logo="https://epg.112114.xyz/logo/CONCERTO.png" group-title="Jack_mytv",Concerto
-http://192.168.3.100:9100/live/stream-fb33522d-9c81-4616-921f-e4bd2a508963/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-8c2d1f09-ee3b-4250-87e6-594b30f5b147" tvg-name="TRACE Urban" tvg-logo="https://epg.112114.xyz/logo/TRACEURBAN.png" group-title="Jack_mytv",TRACE Urban
-http://192.168.3.100:9100/live/stream-8c2d1f09-ee3b-4250-87e6-594b30f5b147/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-934195ab-72ef-4f4b-923e-534faa6fe7c7" tvg-name="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NEWSWORLD.png" group-title="Jack_mytv",NewsWorld
-http://192.168.3.100:9100/live/stream-934195ab-72ef-4f4b-923e-534faa6fe7c7/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-052c7423-79ab-4a5a-840c-0a216d216e0a" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Jack_Juli",翡翠台
+http://192.168.3.100:9100/live/stream-052c7423-79ab-4a5a-840c-0a216d216e0a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-5cfae4b8-7d8d-4fb9-9682-8f08206cfa56" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Jack_Juli",翡翠台
+http://192.168.3.100:9100/live/stream-5cfae4b8-7d8d-4fb9-9682-8f08206cfa56/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8284bd68-720a-4f47-aee1-6e9688457827" tvg-name="翡翠台广电" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Jack_Juli",翡翠台广电
+http://192.168.3.100:9100/live/stream-8284bd68-720a-4f47-aee1-6e9688457827/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-a264e6b8-3bed-418a-b9f3-eb81e6279a11" tvg-name="翡翠台4K" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/翡翠.png" group-title="Jack_Juli",翡翠台4K
+http://192.168.3.100:9100/live/stream-a264e6b8-3bed-418a-b9f3-eb81e6279a11/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4b141064-863e-4864-9e8c-3fa94800c80d" tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png" group-title="Jack_Juli",无线新闻台
+http://192.168.3.100:9100/live/stream-4b141064-863e-4864-9e8c-3fa94800c80d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-883366fd-1bd9-486b-b3a9-29eba1d0b412" tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/NOW新闻.png" group-title="Jack_Juli",NOW新闻台
+http://192.168.3.100:9100/live/stream-883366fd-1bd9-486b-b3a9-29eba1d0b412/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-6438144d-07ff-4c97-96ea-3af6f65ff22b" tvg-name="TVB PLUS" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB Plus.png" group-title="Jack_Juli",TVB PLUS
+http://192.168.3.100:9100/live/stream-6438144d-07ff-4c97-96ea-3af6f65ff22b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-59b3a0ef-4839-4756-a4d2-7c425d40612c" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="Jack_Juli",明珠台
+http://192.168.3.100:9100/live/stream-59b3a0ef-4839-4756-a4d2-7c425d40612c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8a149c38-0e38-4c6a-a5e3-4171c083007f" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="Jack_Juli",明珠台
+http://192.168.3.100:9100/live/stream-8a149c38-0e38-4c6a-a5e3-4171c083007f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8ee69608-7af5-4c1f-9e15-8146057da796" tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png" group-title="Jack_Juli",HOYTV
+http://192.168.3.100:9100/live/stream-8ee69608-7af5-4c1f-9e15-8146057da796/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-72756a97-1420-4cfa-b4cb-922a3b937bf5" tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png" group-title="Jack_Juli",HOYTV
+http://192.168.3.100:9100/live/stream-72756a97-1420-4cfa-b4cb-922a3b937bf5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-fcb681bc-706d-4b96-8736-d9baf76935be" tvg-name="HOY国际财经台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/HOY国际财经.png" group-title="Jack_Juli",HOY国际财经台
+http://192.168.3.100:9100/live/stream-fcb681bc-706d-4b96-8736-d9baf76935be/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-82cfc005-4d46-48b3-b47d-86acfb15a2db" tvg-name="HOY资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY.png" group-title="Jack_Juli",HOY资讯台
+http://192.168.3.100:9100/live/stream-82cfc005-4d46-48b3-b47d-86acfb15a2db/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-65050811-d049-49a5-861b-41724a57e64f" tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTV.png" group-title="Jack_Juli",VIUTV
+http://192.168.3.100:9100/live/stream-65050811-d049-49a5-861b-41724a57e64f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-c2c54449-690c-49ca-abc6-0e43af8b5e7f" tvg-name="VIUTVSIX" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTVsix.png" group-title="Jack_Juli",VIUTVSIX
+http://192.168.3.100:9100/live/stream-c2c54449-690c-49ca-abc6-0e43af8b5e7f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-652f035f-3d8b-4565-b0e8-24764d5db1a3" tvg-name="RTHK 31" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 31.png" group-title="Jack_Juli",RTHK 31
+http://192.168.3.100:9100/live/stream-652f035f-3d8b-4565-b0e8-24764d5db1a3/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-9084178c-ec07-4efd-97ff-c25020e1ff58" tvg-name="RTHK 32" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK 32.png" group-title="Jack_Juli",RTHK 32
+http://192.168.3.100:9100/live/stream-9084178c-ec07-4efd-97ff-c25020e1ff58/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-08d12504-be9c-4ea5-975f-3335a16f7ece" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png" group-title="Jack_Juli",凤凰中文
+http://192.168.3.100:9100/live/stream-08d12504-be9c-4ea5-975f-3335a16f7ece/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-fe0b522b-e2fc-4d48-a43f-b107f8ac0f11" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png" group-title="Jack_Juli",凤凰资讯
+http://192.168.3.100:9100/live/stream-fe0b522b-e2fc-4d48-a43f-b107f8ac0f11/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-61f96c5d-1ca1-4df7-a0fa-c8f94267cfca" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png" group-title="Jack_Juli",凤凰香港
+http://192.168.3.100:9100/live/stream-61f96c5d-1ca1-4df7-a0fa-c8f94267cfca/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-7bf46443-d1ab-453d-9a88-135adde1412a" tvg-name="CCTV1港澳版" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV1.png" group-title="Jack_Juli",CCTV1港澳版
+http://192.168.3.100:9100/live/stream-7bf46443-d1ab-453d-9a88-135adde1412a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4763ab8d-30b6-4ea2-88d1-6173e6488543" tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/五星体育.png" group-title="Jack_Juli",五星体育
+http://192.168.3.100:9100/live/stream-4763ab8d-30b6-4ea2-88d1-6173e6488543/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-06403a04-5df4-4603-a6e0-98b720bbcd82" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/重温经典.png" group-title="Jack_Juli",重温经典
+http://192.168.3.100:9100/live/stream-06403a04-5df4-4603-a6e0-98b720bbcd82/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-962cc8a0-f0c2-4061-aa7e-6006a91b2da5" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东珠江.png" group-title="Jack_Juli",广东珠江
+http://192.168.3.100:9100/live/stream-962cc8a0-f0c2-4061-aa7e-6006a91b2da5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3c90e2fb-0364-4be2-b634-47dc44e4ce2e" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东体育.png" group-title="Jack_Juli",广东体育
+http://192.168.3.100:9100/live/stream-3c90e2fb-0364-4be2-b634-47dc44e4ce2e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-9fcd3353-3738-4b5d-9ef5-56b715129ae9" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州综合.png" group-title="Jack_Juli",广州综合
+http://192.168.3.100:9100/live/stream-9fcd3353-3738-4b5d-9ef5-56b715129ae9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-ff01cb67-d15a-435a-b2f6-51565d23c294" tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州新闻.png" group-title="Jack_Juli",广州新闻
+http://192.168.3.100:9100/live/stream-ff01cb67-d15a-435a-b2f6-51565d23c294/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-de90b1f6-a45e-43f3-aebc-c858782f3376" tvg-name="广州南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州南国都市.png" group-title="Jack_Juli",广州南国都市
+http://192.168.3.100:9100/live/stream-de90b1f6-a45e-43f3-aebc-c858782f3376/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0ccd7266-e041-49ec-b123-820e9a523cf4" tvg-name="澳视澳门" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳视澳门.png" group-title="Jack_Juli",澳视澳门
+http://192.168.3.100:9100/live/stream-0ccd7266-e041-49ec-b123-820e9a523cf4/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-29fb0a28-5115-4701-b8b1-3d5f8413f9d0" tvg-name="澳视卫星" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/澳视卫星.png" group-title="Jack_Juli",澳视卫星
+http://192.168.3.100:9100/live/stream-29fb0a28-5115-4701-b8b1-3d5f8413f9d0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8354c7b6-0ea4-4ec1-bda0-b1e573f2a72c" tvg-name="澳门体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门体育.png" group-title="Jack_Juli",澳门体育
+http://192.168.3.100:9100/live/stream-8354c7b6-0ea4-4ec1-bda0-b1e573f2a72c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-9dc128e4-48e4-4cca-a4e6-0a526c39f545" tvg-name="澳门综艺" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门综艺.png" group-title="Jack_Juli",澳门综艺
+http://192.168.3.100:9100/live/stream-9dc128e4-48e4-4cca-a4e6-0a526c39f545/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-36100b26-d8cc-4efa-9941-0cc6f2be0e50" tvg-name="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门莲花.png" group-title="Jack_Juli",澳门莲花
+http://192.168.3.100:9100/live/stream-36100b26-d8cc-4efa-9941-0cc6f2be0e50/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-b2f74c2b-7b9e-44b2-850d-599b0c7c22d3" tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="Jack_Juli",华丽翡翠台
+http://192.168.3.100:9100/live/stream-b2f74c2b-7b9e-44b2-850d-599b0c7c22d3/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0ee97208-8329-40eb-8e7d-c06246ff9172" tvg-name="翡翠一台(TVB1)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png" group-title="Jack_Juli",翡翠一台(TVB1)
+http://192.168.3.100:9100/live/stream-0ee97208-8329-40eb-8e7d-c06246ff9172/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-ffb42f6a-0370-471b-8076-2b83a90fc3fa" tvg-name="TVBJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBJ1.png" group-title="Jack_Juli",TVBJ
+http://192.168.3.100:9100/live/stream-ffb42f6a-0370-471b-8076-2b83a90fc3fa/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-bd7198e9-3ae8-4527-a776-ac44e0788e40" tvg-name="TVB翡翠剧集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png" group-title="Jack_Juli",TVB翡翠剧集台
+http://192.168.3.100:9100/live/stream-bd7198e9-3ae8-4527-a776-ac44e0788e40/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8d1a3e00-d4d6-4774-afcf-b96a6e88201c" tvg-name="TVB亚洲武侠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png" group-title="Jack_Juli",TVB亚洲武侠
+http://192.168.3.100:9100/live/stream-8d1a3e00-d4d6-4774-afcf-b96a6e88201c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-10f97c0a-2b56-462a-82ca-380f9c953cbd" tvg-name="娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/娱乐新闻.png" group-title="Jack_Juli",娱乐新闻台
+http://192.168.3.100:9100/live/stream-10f97c0a-2b56-462a-82ca-380f9c953cbd/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3a4b4508-e1c1-45e7-98d1-4f3d06bd4665" tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Jack_Juli",TVB星河
+http://192.168.3.100:9100/live/stream-3a4b4508-e1c1-45e7-98d1-4f3d06bd4665/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-f74bd185-6cbe-482c-89f2-c1b9027c92e4" tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Jack_Juli",TVB星河
+http://192.168.3.100:9100/live/stream-f74bd185-6cbe-482c-89f2-c1b9027c92e4/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-6f80000c-cf4d-446d-8d13-746519ca9c78" tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png" group-title="Jack_Juli",TVB星河
+http://192.168.3.100:9100/live/stream-6f80000c-cf4d-446d-8d13-746519ca9c78/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-08752a3c-0a2c-4244-b8f1-ab12f44eb928" tvg-name="天映新加坡" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/天映.png" group-title="Jack_Juli",天映新加坡
+http://192.168.3.100:9100/live/stream-08752a3c-0a2c-4244-b8f1-ab12f44eb928/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-914e762d-b8f4-40de-9363-da15755f01dc" tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映经典频道.png" group-title="Jack_Juli",天映经典频道
+http://192.168.3.100:9100/live/stream-914e762d-b8f4-40de-9363-da15755f01dc/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-7cf6e526-ab51-4ea8-8096-0fb4264ff253" tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/千禧经典.png" group-title="Jack_Juli",千禧经典台
+http://192.168.3.100:9100/live/stream-7cf6e526-ab51-4ea8-8096-0fb4264ff253/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0b746cd3-f43c-45a5-8886-75ee203d1bcc" tvg-name="天映频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映频道.png" group-title="Jack_Juli",天映频道
+http://192.168.3.100:9100/live/stream-0b746cd3-f43c-45a5-8886-75ee203d1bcc/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-e30bbfa0-675e-4a86-9c0d-93d912525da3" tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映经典频道.png" group-title="Jack_Juli",天映经典频道
+http://192.168.3.100:9100/live/stream-e30bbfa0-675e-4a86-9c0d-93d912525da3/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-1d339ad7-acda-4c5f-bf7b-9861ad9d2e2a" tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/龙华电影.png" group-title="Jack_Juli",龙华电影
+http://192.168.3.100:9100/live/stream-1d339ad7-acda-4c5f-bf7b-9861ad9d2e2a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-c288794d-aeab-425d-9a92-7f0053a2e155" tvg-name="龙华经典台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/龙华经典.png" group-title="Jack_Juli",龙华经典台
+http://192.168.3.100:9100/live/stream-c288794d-aeab-425d-9a92-7f0053a2e155/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-032b7e72-daa7-4101-a47c-e3924edd5dcd" tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/龙华偶像.png" group-title="Jack_Juli",龙华偶像
+http://192.168.3.100:9100/live/stream-032b7e72-daa7-4101-a47c-e3924edd5dcd/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d71a7342-d8ea-4a19-a6d6-01edf3a0df0c" tvg-name="龙华日韩台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/龙华日韩.png" group-title="Jack_Juli",龙华日韩台
+http://192.168.3.100:9100/live/stream-d71a7342-d8ea-4a19-a6d6-01edf3a0df0c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4f101293-f944-48ea-a936-ac3979cb3e7f" tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/龙华戏剧.png" group-title="Jack_Juli",龙华戏剧
+http://192.168.3.100:9100/live/stream-4f101293-f944-48ea-a936-ac3979cb3e7f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-2ce4f882-da66-41d2-b4eb-e4837ed7d20c" tvg-name="金光布袋戏" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/金光布袋戏.png" group-title="Jack_Juli",金光布袋戏
+http://192.168.3.100:9100/live/stream-2ce4f882-da66-41d2-b4eb-e4837ed7d20c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-138e5a0a-c34c-4d84-bc17-35fb5a2be047" tvg-name="ASTRO AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="Jack_Juli",ASTRO AOD
+http://192.168.3.100:9100/live/stream-138e5a0a-c34c-4d84-bc17-35fb5a2be047/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-2cc061f6-49f1-46ff-8e7e-f77461db9a0f" tvg-name="ASTRO AEC" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AEC.png" group-title="Jack_Juli",ASTRO AEC
+http://192.168.3.100:9100/live/stream-2cc061f6-49f1-46ff-8e7e-f77461db9a0f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-f0b10a05-51ae-42db-a5e3-74149710cdb6" tvg-name="ASTRO 欢喜台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="Jack_Juli",ASTRO 欢喜台
+http://192.168.3.100:9100/live/stream-f0b10a05-51ae-42db-a5e3-74149710cdb6/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-e6fa9046-fd67-46a2-ab16-e111629c0bf1" tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/iQIYI.png" group-title="Jack_Juli",IQIYI
+http://192.168.3.100:9100/live/stream-e6fa9046-fd67-46a2-ab16-e111629c0bf1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-936b9fc8-9c02-4708-817e-7ebab2544a71" tvg-name="八度空间" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png" group-title="Jack_Juli",八度空间
+http://192.168.3.100:9100/live/stream-936b9fc8-9c02-4708-817e-7ebab2544a71/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-89b9d35a-e8e3-44c7-88eb-b1fbb0d43d97" tvg-name="CHANNEL 5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL5.png" group-title="Jack_Juli",CHANNEL 5
+http://192.168.3.100:9100/live/stream-89b9d35a-e8e3-44c7-88eb-b1fbb0d43d97/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-24f62b35-d2df-43ff-8849-778bd5ead31d" tvg-name="CHANNEL 8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL8.png" group-title="Jack_Juli",CHANNEL 8
+http://192.168.3.100:9100/live/stream-24f62b35-d2df-43ff-8849-778bd5ead31d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-f4146d15-ccb5-4a52-827a-8d0354aba1bc" tvg-name="CHANNEL U" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNELU.png" group-title="Jack_Juli",CHANNEL U
+http://192.168.3.100:9100/live/stream-f4146d15-ccb5-4a52-827a-8d0354aba1bc/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-505de35f-e65b-4a7f-a3f3-74f073e7ea0f" tvg-name="纬来电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="Jack_Juli",纬来电影台
+http://192.168.3.100:9100/live/stream-505de35f-e65b-4a7f-a3f3-74f073e7ea0f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-fe1cd6ee-b7e3-4ab4-96db-a822849a962a" tvg-name="纬来戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来戏剧.png" group-title="Jack_Juli",纬来戏剧台
+http://192.168.3.100:9100/live/stream-fe1cd6ee-b7e3-4ab4-96db-a822849a962a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-2938f40b-94eb-4222-b3e1-0b40de3cd1b5" tvg-name="纬来体育台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png" group-title="Jack_Juli",纬来体育台
+http://192.168.3.100:9100/live/stream-2938f40b-94eb-4222-b3e1-0b40de3cd1b5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-e8ebab16-9d64-49a7-8353-a5239a98b044" tvg-name="龙祥时代" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="Jack_Juli",龙祥时代
+http://192.168.3.100:9100/live/stream-e8ebab16-9d64-49a7-8353-a5239a98b044/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-7ff8e647-5d76-439a-a249-991f289776f5" tvg-name="东森电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="Jack_Juli",东森电影
+http://192.168.3.100:9100/live/stream-7ff8e647-5d76-439a-a249-991f289776f5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d836250c-d735-481c-8d9a-4f452d31abf8" tvg-name="东森戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森戏剧.png" group-title="Jack_Juli",东森戏剧
+http://192.168.3.100:9100/live/stream-d836250c-d735-481c-8d9a-4f452d31abf8/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-28dde013-6ff9-49bd-b1b7-1c0a35bdfd60" tvg-name="东森洋片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森洋片.png" group-title="Jack_Juli",东森洋片
+http://192.168.3.100:9100/live/stream-28dde013-6ff9-49bd-b1b7-1c0a35bdfd60/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-aeb18ce1-1420-4899-ac59-56bbab1c092b" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="Jack_Juli",CCTV1
+http://192.168.3.100:9100/live/stream-aeb18ce1-1420-4899-ac59-56bbab1c092b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d5aa4aae-ba52-4250-a178-aff0f73fcce6" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="Jack_Juli",CCTV2
+http://192.168.3.100:9100/live/stream-d5aa4aae-ba52-4250-a178-aff0f73fcce6/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-967daead-d150-41d5-920e-697e73054b5e" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="Jack_Juli",CCTV3
+http://192.168.3.100:9100/live/stream-967daead-d150-41d5-920e-697e73054b5e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-df4cda10-25f8-42a3-958d-914ac96029a1" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="Jack_Juli",CCTV4
+http://192.168.3.100:9100/live/stream-df4cda10-25f8-42a3-958d-914ac96029a1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-f8ec1713-4d02-4947-bdfb-3ac51a531370" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="Jack_Juli",CCTV5
+http://192.168.3.100:9100/live/stream-f8ec1713-4d02-4947-bdfb-3ac51a531370/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-985af874-850c-45fc-923a-e04d6ea06638" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="Jack_Juli",CCTV5+
+http://192.168.3.100:9100/live/stream-985af874-850c-45fc-923a-e04d6ea06638/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-46cb740f-5ffd-49bd-acef-ffdb77d4088f" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="Jack_Juli",CCTV6
+http://192.168.3.100:9100/live/stream-46cb740f-5ffd-49bd-acef-ffdb77d4088f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-1fd869f3-e7e7-497a-bd81-62cc4b6b906f" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="Jack_Juli",CCTV7
+http://192.168.3.100:9100/live/stream-1fd869f3-e7e7-497a-bd81-62cc4b6b906f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-355ad5a3-db3a-4896-a7b2-d124db0d3b01" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="Jack_Juli",CCTV8
+http://192.168.3.100:9100/live/stream-355ad5a3-db3a-4896-a7b2-d124db0d3b01/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-80541436-3da1-4044-83c2-83f2cf76e4db" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="Jack_Juli",CCTV9
+http://192.168.3.100:9100/live/stream-80541436-3da1-4044-83c2-83f2cf76e4db/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0a761142-5d11-4180-8c71-5995a3a6cbe0" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="Jack_Juli",CCTV10
+http://192.168.3.100:9100/live/stream-0a761142-5d11-4180-8c71-5995a3a6cbe0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-6fc730b5-1730-409e-9917-cb2627577b08" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="Jack_Juli",CCTV11
+http://192.168.3.100:9100/live/stream-6fc730b5-1730-409e-9917-cb2627577b08/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-fe0a1356-8f07-4554-bf14-b9d0ae3c713f" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="Jack_Juli",CCTV12
+http://192.168.3.100:9100/live/stream-fe0a1356-8f07-4554-bf14-b9d0ae3c713f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-68b10aef-7ecf-4a18-b7e4-277eeb65b733" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="Jack_Juli",CCTV13
+http://192.168.3.100:9100/live/stream-68b10aef-7ecf-4a18-b7e4-277eeb65b733/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-caec2fe4-b7fe-4774-bb06-d2ce64221e5a" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="Jack_Juli",CCTV14
+http://192.168.3.100:9100/live/stream-caec2fe4-b7fe-4774-bb06-d2ce64221e5a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-741c3249-b4f0-4e42-9d9e-119e9c0caf8b" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="Jack_Juli",CCTV15
+http://192.168.3.100:9100/live/stream-741c3249-b4f0-4e42-9d9e-119e9c0caf8b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4d1631e1-0b0a-4eec-94b7-710dace25b90" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="Jack_Juli",CCTV16
+http://192.168.3.100:9100/live/stream-4d1631e1-0b0a-4eec-94b7-710dace25b90/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-a97e4947-bb26-47ed-b203-f2845cb69cd2" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="Jack_Juli",CCTV17
+http://192.168.3.100:9100/live/stream-a97e4947-bb26-47ed-b203-f2845cb69cd2/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-f828ed5b-0ac4-4e55-8278-6cb4542be898" tvg-name="翡翠台" tvg-logo="https://epg.yang-1989.eu.org/logo/翡翠台.png" group-title="Jack_mytv",翡翠台
+http://192.168.3.100:9100/live/stream-f828ed5b-0ac4-4e55-8278-6cb4542be898/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-fc0fea5d-af8d-4100-b2ce-72447bf5c94d" tvg-name="翡翠台 4K" tvg-logo="https://epg.yang-1989.eu.org/logo/翡翠台.png" group-title="Jack_mytv",翡翠台 4K
+http://192.168.3.100:9100/live/stream-fc0fea5d-af8d-4100-b2ce-72447bf5c94d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4ba97b47-f881-490f-b56a-5a00f8cdb617" tvg-name="無綫新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/無綫新聞台.png" group-title="Jack_mytv",無綫新聞台
+http://192.168.3.100:9100/live/stream-4ba97b47-f881-490f-b56a-5a00f8cdb617/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d2754681-c8cf-45f7-b04e-a125a718d19c" tvg-name="TVB Plus" tvg-logo="https://epg.yang-1989.eu.org/logo/TVBPlus.png" group-title="Jack_mytv",TVB Plus
+http://192.168.3.100:9100/live/stream-d2754681-c8cf-45f7-b04e-a125a718d19c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-c5c6c029-b3ed-44f3-8615-a6973adc6cd9" tvg-name="明珠台" tvg-logo="https://epg.yang-1989.eu.org/logo/明珠台.png" group-title="Jack_mytv",明珠台
+http://192.168.3.100:9100/live/stream-c5c6c029-b3ed-44f3-8615-a6973adc6cd9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-09698edd-a016-493c-9298-edb5c0d50928" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰中文.png" group-title="Jack_mytv",鳳凰衛視中文台
+http://192.168.3.100:9100/live/stream-09698edd-a016-493c-9298-edb5c0d50928/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-ab258b2b-7749-4c37-8ffd-5c00918a1904" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰资讯.png" group-title="Jack_mytv",鳳凰衛視資訊台
+http://192.168.3.100:9100/live/stream-ab258b2b-7749-4c37-8ffd-5c00918a1904/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-fc059c90-71b8-4255-a787-37335426123a" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰香港.png" group-title="Jack_mytv",鳳凰衛視香港台
+http://192.168.3.100:9100/live/stream-fc059c90-71b8-4255-a787-37335426123a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-ba4c17e3-5538-4ab0-9a49-6f0252c4054f" tvg-name="娛樂新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/娛樂新聞.png" group-title="Jack_mytv",娛樂新聞台
+http://192.168.3.100:9100/live/stream-ba4c17e3-5538-4ab0-9a49-6f0252c4054f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-1b2ae7af-5e9d-4ada-9ce3-608f8f496879" tvg-name="黃金翡翠台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",黃金翡翠台
+http://192.168.3.100:9100/live/stream-1b2ae7af-5e9d-4ada-9ce3-608f8f496879/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-51ae71c4-0153-4af9-abc8-e602d83835a7" tvg-name="千禧經典台" tvg-logo="https://epg.yang-1989.eu.org/logo/千禧經典台.png" group-title="Jack_mytv",千禧經典台
+http://192.168.3.100:9100/live/stream-51ae71c4-0153-4af9-abc8-e602d83835a7/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3a908ee2-acca-4b1f-a642-9ff229727f51" tvg-name="華語劇台" tvg-logo="https://epg.yang-1989.eu.org/logo/華語劇台.png" group-title="Jack_mytv",華語劇台
+http://192.168.3.100:9100/live/stream-3a908ee2-acca-4b1f-a642-9ff229727f51/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-e4eb59b9-7ded-43ae-bcc2-3273f155d581" tvg-name="粵語片台" tvg-logo="https://epg.yang-1989.eu.org/logo/粤语片台.png" group-title="Jack_mytv",粵語片台
+http://192.168.3.100:9100/live/stream-e4eb59b9-7ded-43ae-bcc2-3273f155d581/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-9221842e-d599-4f3f-96ec-10064baab7eb" tvg-name="亞洲劇台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",亞洲劇台
+http://192.168.3.100:9100/live/stream-9221842e-d599-4f3f-96ec-10064baab7eb/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0f1bfdd6-dd5e-44e4-8569-22073c4cd580" tvg-name="黃金華劇台" tvg-logo="https://epg.yang-1989.eu.org/logo/黃金華劇台.png" group-title="Jack_mytv",黃金華劇台
+http://192.168.3.100:9100/live/stream-0f1bfdd6-dd5e-44e4-8569-22073c4cd580/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-856fd55d-e7c9-49be-ab68-d973772c4351" tvg-name="戲曲台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",戲曲台
+http://192.168.3.100:9100/live/stream-856fd55d-e7c9-49be-ab68-d973772c4351/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4c4ab836-fb41-413b-9b0c-f38b9adcc3ea" tvg-name="美亞電影台" tvg-logo="https://epg.yang-1989.eu.org/logo/美亞電影台.png" group-title="Jack_mytv",美亞電影台
+http://192.168.3.100:9100/live/stream-4c4ab836-fb41-413b-9b0c-f38b9adcc3ea/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4f5e6763-d049-4ccb-9d80-18c150ce8775" tvg-name="Thrill" tvg-logo="https://epg.yang-1989.eu.org/logo/Thrill.png" group-title="Jack_mytv",Thrill
+http://192.168.3.100:9100/live/stream-4f5e6763-d049-4ccb-9d80-18c150ce8775/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-7e3319e2-cb00-4618-8b16-0927722c2049" tvg-name="天映經典頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/天映经典.png" group-title="Jack_mytv",天映經典頻道
+http://192.168.3.100:9100/live/stream-7e3319e2-cb00-4618-8b16-0927722c2049/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-dc0930c6-de6d-47ab-bd0e-b700f900f362" tvg-name="中國電影頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/ChinaMovie.png" group-title="Jack_mytv",中國電影頻道
+http://192.168.3.100:9100/live/stream-dc0930c6-de6d-47ab-bd0e-b700f900f362/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-1be74741-49ab-4ec2-b91f-419341fa3b74" tvg-name="ROCK Action" tvg-logo="https://epg.yang-1989.eu.org/logo/RockAction.png" group-title="Jack_mytv",ROCK Action
+http://192.168.3.100:9100/live/stream-1be74741-49ab-4ec2-b91f-419341fa3b74/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-bce0c596-5113-43da-9d74-30bbc4947447" tvg-name="ROCK Extreme" tvg-logo="https://epg.yang-1989.eu.org/logo/RockExtreme.png" group-title="Jack_mytv",ROCK Extreme
+http://192.168.3.100:9100/live/stream-bce0c596-5113-43da-9d74-30bbc4947447/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-33ac4623-61a5-405e-91c2-8fdbd0342711" tvg-name="ROCK 綜藝娛樂" tvg-logo="https://epg.yang-1989.eu.org/logo/RockEntertainment.png" group-title="Jack_mytv",ROCK 綜藝娛樂
+http://192.168.3.100:9100/live/stream-33ac4623-61a5-405e-91c2-8fdbd0342711/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-ea300911-dd52-4ee2-8aa0-9146ebfea09f" tvg-name="KIX" tvg-logo="https://epg.yang-1989.eu.org/logo/Kix.png" group-title="Jack_mytv",KIX
+http://192.168.3.100:9100/live/stream-ea300911-dd52-4ee2-8aa0-9146ebfea09f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-86835a36-b2f1-4dcc-9295-951f30b7cb3d" tvg-name="Love Nature" tvg-logo="https://epg.yang-1989.eu.org/logo/Love-Nature.png" group-title="Jack_mytv",Love Nature
+http://192.168.3.100:9100/live/stream-86835a36-b2f1-4dcc-9295-951f30b7cb3d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8fc2b5e2-be01-49b9-89e9-6ec647605758" tvg-name="Love Nature 4K" tvg-logo="https://epg.yang-1989.eu.org/logo/LoveNature4K.png" group-title="Jack_mytv",Love Nature 4K
+http://192.168.3.100:9100/live/stream-8fc2b5e2-be01-49b9-89e9-6ec647605758/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-fdf23bbe-16f8-4c7c-a96d-5520eb574c32" tvg-name="Global Trekker" tvg-logo="https://epg.yang-1989.eu.org/logo/Global-Trekker.png" group-title="Jack_mytv",Global Trekker
+http://192.168.3.100:9100/live/stream-fdf23bbe-16f8-4c7c-a96d-5520eb574c32/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4545cb19-60ae-42c9-b2e5-729c9c50557e" tvg-name="Animax" tvg-logo="https://epg.yang-1989.eu.org/logo/Animax.png" group-title="Jack_mytv",Animax
+http://192.168.3.100:9100/live/stream-4545cb19-60ae-42c9-b2e5-729c9c50557e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d683eb92-82a7-4131-b5f2-d7dc318d4921" tvg-name="tvN" tvg-logo="https://epg.yang-1989.eu.org/logo/tvN.png" group-title="Jack_mytv",tvN
+http://192.168.3.100:9100/live/stream-d683eb92-82a7-4131-b5f2-d7dc318d4921/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3410679e-fe00-415f-a273-226d2d3eed2f" tvg-name="無線衛星亞洲台" tvg-logo="https://epg.yang-1989.eu.org/logo/TVBS亞洲台.png" group-title="Jack_mytv",無線衛星亞洲台
+http://192.168.3.100:9100/live/stream-3410679e-fe00-415f-a273-226d2d3eed2f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8ff65875-49f0-476f-b7ee-48acf9c828ec" tvg-name="創世電視" tvg-logo="https://epg.yang-1989.eu.org/logo/创世电视.png" group-title="Jack_mytv",創世電視
+http://192.168.3.100:9100/live/stream-8ff65875-49f0-476f-b7ee-48acf9c828ec/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-78781e41-886d-4a08-a416-4f2f82ea3871" tvg-name="FashionBox" tvg-logo="https://epg.yang-1989.eu.org/logo/FashionBox.png" group-title="Jack_mytv",FashionBox
+http://192.168.3.100:9100/live/stream-78781e41-886d-4a08-a416-4f2f82ea3871/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-58e4974e-dd53-499a-bb5f-45cf42f3fc4b" tvg-name="Mezzo Live HD" tvg-logo="https://epg.yang-1989.eu.org/logo/MezzoLive.png" group-title="Jack_mytv",Mezzo Live HD
+http://192.168.3.100:9100/live/stream-58e4974e-dd53-499a-bb5f-45cf42f3fc4b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-e2955bd5-6318-4d1d-9da0-913502ce7585" tvg-name="PopC" tvg-logo="https://epg.yang-1989.eu.org/logo/PopC.png" group-title="Jack_mytv",PopC
+http://192.168.3.100:9100/live/stream-e2955bd5-6318-4d1d-9da0-913502ce7585/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-6423320c-8176-44b5-85e3-653c12bc6d9a" tvg-name="無線衛星新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/TVBS新聞.png" group-title="Jack_mytv",無線衛星新聞台
+http://192.168.3.100:9100/live/stream-6423320c-8176-44b5-85e3-653c12bc6d9a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-f82c0d80-4c1a-42e2-829f-5f0ea97634c1" tvg-name="亞洲新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/CNA.png" group-title="Jack_mytv",亞洲新聞台
+http://192.168.3.100:9100/live/stream-f82c0d80-4c1a-42e2-829f-5f0ea97634c1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-311130d9-b394-4685-a43b-288362a12c15" tvg-name="半島電視台英語頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/半岛电视台.png" group-title="Jack_mytv",半島電視台英語頻道
+http://192.168.3.100:9100/live/stream-311130d9-b394-4685-a43b-288362a12c15/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8b8baf6d-b948-4c95-82ac-4d78e533a18e" tvg-name="France 24" tvg-logo="https://epg.yang-1989.eu.org/logo/FRANCE24.png" group-title="Jack_mytv",France 24
+http://192.168.3.100:9100/live/stream-8b8baf6d-b948-4c95-82ac-4d78e533a18e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-cecfe5b3-416c-4ff4-b24c-96fba8b81b3e" tvg-name="DW" tvg-logo="https://epg.yang-1989.eu.org/logo/DW.png" group-title="Jack_mytv",DW
+http://192.168.3.100:9100/live/stream-cecfe5b3-416c-4ff4-b24c-96fba8b81b3e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d1a552e6-e0a3-4262-87b7-542b876d37fa" tvg-name="NHK World-Japan" tvg-logo="https://epg.yang-1989.eu.org/logo/NHKWORLD.png" group-title="Jack_mytv",NHK World-Japan
+http://192.168.3.100:9100/live/stream-d1a552e6-e0a3-4262-87b7-542b876d37fa/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-b66a6b12-9b6f-4013-8f8f-1085ee49a9fb" tvg-name="Arirang TV" tvg-logo="https://epg.yang-1989.eu.org/logo/Arirang-TV.png" group-title="Jack_mytv",Arirang TV
+http://192.168.3.100:9100/live/stream-b66a6b12-9b6f-4013-8f8f-1085ee49a9fb/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-a73d2e87-6217-4b47-bc90-626a278e5e27" tvg-name="SUPER Sports" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",SUPER Sports
+http://192.168.3.100:9100/live/stream-a73d2e87-6217-4b47-bc90-626a278e5e27/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-5c098ae3-dfd9-423f-9d3e-a6588e708f8a" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",myTV SUPER 18台
+http://192.168.3.100:9100/live/stream-5c098ae3-dfd9-423f-9d3e-a6588e708f8a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8c572c7d-a2da-425c-98fa-a591e2931f05" tvg-name="SUPER Kids Channel" tvg-logo="https://epg.yang-1989.eu.org/logo/SUPERKidsChannel.png" group-title="Jack_mytv",SUPER Kids Channel
+http://192.168.3.100:9100/live/stream-8c572c7d-a2da-425c-98fa-a591e2931f05/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-f432a92d-ab6d-4db6-9f6a-85a11c96b38f" tvg-name="ZooMoo" tvg-logo="https://epg.yang-1989.eu.org/logo/ZooMoo.png" group-title="Jack_mytv",ZooMoo
+http://192.168.3.100:9100/live/stream-f432a92d-ab6d-4db6-9f6a-85a11c96b38f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-38717e50-8668-4979-aa08-6a522d299814" tvg-name="Nickelodeon" tvg-logo="https://epg.yang-1989.eu.org/logo/Nickelodeon.png" group-title="Jack_mytv",Nickelodeon
+http://192.168.3.100:9100/live/stream-38717e50-8668-4979-aa08-6a522d299814/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3cd57885-79d4-4c5b-9cd3-790ac917c308" tvg-name="Nick Jr." tvg-logo="https://epg.yang-1989.eu.org/logo/Nickjr.png" group-title="Jack_mytv",Nick Jr.
+http://192.168.3.100:9100/live/stream-3cd57885-79d4-4c5b-9cd3-790ac917c308/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-b8ad1252-8847-4d3f-bc20-952815e4a7c4" tvg-name="SUPER FREE" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",SUPER FREE
+http://192.168.3.100:9100/live/stream-b8ad1252-8847-4d3f-bc20-952815e4a7c4/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-6a14217a-f8db-4cfe-a0fe-af6f52fc7692" tvg-name="SUPER 獎門人" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",SUPER 獎門人
+http://192.168.3.100:9100/live/stream-6a14217a-f8db-4cfe-a0fe-af6f52fc7692/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4bffe9ac-1ab8-483f-b521-22fc6b501fa0" tvg-name="SUPER EYT" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",SUPER EYT
+http://192.168.3.100:9100/live/stream-4bffe9ac-1ab8-483f-b521-22fc6b501fa0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-6b21710f-2b5d-4ab2-bd3e-92e5c5f40125" tvg-name="SUPER 識食" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",SUPER 識食
+http://192.168.3.100:9100/live/stream-6b21710f-2b5d-4ab2-bd3e-92e5c5f40125/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-82d3b6fb-a358-46b6-be59-6201494b7be3" tvg-name="SUPER 識嘆" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",SUPER 識嘆
+http://192.168.3.100:9100/live/stream-82d3b6fb-a358-46b6-be59-6201494b7be3/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-b1a39299-a095-45b8-893e-08c2d16ec40d" tvg-name="SUPER Music" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",SUPER Music
+http://192.168.3.100:9100/live/stream-b1a39299-a095-45b8-893e-08c2d16ec40d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-a9a59209-92c7-4455-9cb8-e21321f36e57" tvg-name="SUPER 金曲" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",SUPER 金曲
+http://192.168.3.100:9100/live/stream-a9a59209-92c7-4455-9cb8-e21321f36e57/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-46346539-87f1-4182-b8af-740cc5ade763" tvg-name="SUPER 煲劇" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",SUPER 煲劇
+http://192.168.3.100:9100/live/stream-46346539-87f1-4182-b8af-740cc5ade763/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3540624e-09c4-4d80-9b40-a448dc1eb399" tvg-name="SUPER 單元劇" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",SUPER 單元劇
+http://192.168.3.100:9100/live/stream-3540624e-09c4-4d80-9b40-a448dc1eb399/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4eca7b8a-ef3b-49a2-976d-13e383e649f3" tvg-name="真情SUPER煲" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",真情SUPER煲
+http://192.168.3.100:9100/live/stream-4eca7b8a-ef3b-49a2-976d-13e383e649f3/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-16e358b2-35f5-4de8-8a04-c5c494737782" tvg-name="中央電視台 綜合頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV1.png" group-title="Jack_mytv",中央電視台 綜合頻道
+http://192.168.3.100:9100/live/stream-16e358b2-35f5-4de8-8a04-c5c494737782/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-f6121f6e-773b-4a4a-8000-3a9e16ce1d48" tvg-name="中央電視台 中文國際頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV4.png" group-title="Jack_mytv",中央電視台 中文國際頻道
+http://192.168.3.100:9100/live/stream-f6121f6e-773b-4a4a-8000-3a9e16ce1d48/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d9ce2240-cfcc-4b3f-926f-f2bb2d2c76f1" tvg-name="中央電視台 娛樂頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV娱乐.png" group-title="Jack_mytv",中央電視台 娛樂頻道
+http://192.168.3.100:9100/live/stream-d9ce2240-cfcc-4b3f-926f-f2bb2d2c76f1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-82112c09-c03b-46b3-bd76-4b261d20185c" tvg-name="中央電視台 戲曲頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV戏曲.png" group-title="Jack_mytv",中央電視台 戲曲頻道
+http://192.168.3.100:9100/live/stream-82112c09-c03b-46b3-bd76-4b261d20185c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-dd986972-6897-48d8-82f2-27888a0c0b37" tvg-name="CGTN 記錄頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/CGTN纪录.png" group-title="Jack_mytv",CGTN 記錄頻道
+http://192.168.3.100:9100/live/stream-dd986972-6897-48d8-82f2-27888a0c0b37/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-89a9011e-2dd5-4456-92d2-d035319c8e95" tvg-name="CGTN 英語頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/CGTN.png" group-title="Jack_mytv",CGTN 英語頻道
+http://192.168.3.100:9100/live/stream-89a9011e-2dd5-4456-92d2-d035319c8e95/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-68e82c01-79ce-428e-a4fa-7d7a3856f187" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://epg.yang-1989.eu.org/logo/澜湄国际.png" group-title="Jack_mytv",雲南瀾湄國際衛視
+http://192.168.3.100:9100/live/stream-68e82c01-79ce-428e-a4fa-7d7a3856f187/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-f40ca455-b731-4aef-86af-0c0b89b626b8" tvg-name="東方衛視國際頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/东方卫视.png" group-title="Jack_mytv",東方衛視國際頻道
+http://192.168.3.100:9100/live/stream-f40ca455-b731-4aef-86af-0c0b89b626b8/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-56da7fa1-4af8-4945-a2dc-a7dc2494d9fb" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/安徽卫视.png" group-title="Jack_mytv",安徽廣播電視台國際頻道
+http://192.168.3.100:9100/live/stream-56da7fa1-4af8-4945-a2dc-a7dc2494d9fb/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-003e0217-3fd1-4965-8e05-9a9ac9e4aa09" tvg-name="北京電視台國際頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/北京卫视.png" group-title="Jack_mytv",北京電視台國際頻道
+http://192.168.3.100:9100/live/stream-003e0217-3fd1-4965-8e05-9a9ac9e4aa09/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4e92ce23-2228-4a1d-8664-1da743bf9e73" tvg-name="廣西電視台國際頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/广西卫视.png" group-title="Jack_mytv",廣西電視台國際頻道
+http://192.168.3.100:9100/live/stream-4e92ce23-2228-4a1d-8664-1da743bf9e73/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-57a52701-c001-4e54-99cf-1e8e8e08c760" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/海峡卫视.png" group-title="Jack_mytv",福建海峽衛視國際頻道
+http://192.168.3.100:9100/live/stream-57a52701-c001-4e54-99cf-1e8e8e08c760/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0a0c3af9-971d-47b7-860d-5f01437b72f2" tvg-name="湖南電視台國際頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/湖南卫视.png" group-title="Jack_mytv",湖南電視台國際頻道
+http://192.168.3.100:9100/live/stream-0a0c3af9-971d-47b7-860d-5f01437b72f2/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-cfc2f8fd-5be7-4220-a7a2-ebc64a5cd705" tvg-name="江蘇電視台國際頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/江苏卫视.png" group-title="Jack_mytv",江蘇電視台國際頻道
+http://192.168.3.100:9100/live/stream-cfc2f8fd-5be7-4220-a7a2-ebc64a5cd705/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8e5bdb9f-3a67-457d-9e66-738450963718" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/广东卫视.png" group-title="Jack_mytv",廣東廣播電視台大灣區衛視頻道
+http://192.168.3.100:9100/live/stream-8e5bdb9f-3a67-457d-9e66-738450963718/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-29a2aab2-7a93-472a-8684-4d67c1090b89" tvg-name="浙江電視台國際頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/浙江卫视.png" group-title="Jack_mytv",浙江電視台國際頻道
+http://192.168.3.100:9100/live/stream-29a2aab2-7a93-472a-8684-4d67c1090b89/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-012d9106-6745-4d0d-95c2-82d262057ee4" tvg-name="深圳衛視國際頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/深圳卫视.png" group-title="Jack_mytv",深圳衛視國際頻道
+http://192.168.3.100:9100/live/stream-012d9106-6745-4d0d-95c2-82d262057ee4/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-b96fdd06-7ad1-4388-a0ab-deb5da6f1bba" tvg-name="myTV SUPER 直播足球2台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",myTV SUPER 直播足球2台
+http://192.168.3.100:9100/live/stream-b96fdd06-7ad1-4388-a0ab-deb5da6f1bba/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-436d5916-1736-4f97-b7cf-37eb259943bf" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",myTV SUPER 直播足球3台
+http://192.168.3.100:9100/live/stream-436d5916-1736-4f97-b7cf-37eb259943bf/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-bca3239b-b381-483d-afb3-a81be25f1df9" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",myTV SUPER直播足球4台
+http://192.168.3.100:9100/live/stream-bca3239b-b381-483d-afb3-a81be25f1df9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8a440cfe-51fe-4846-9ef4-20120746f70b" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",myTV SUPER 直播足球5台
+http://192.168.3.100:9100/live/stream-8a440cfe-51fe-4846-9ef4-20120746f70b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-a6d62ce1-1167-4ad6-a33c-7c84a6bdd7b9" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",myTV SUPER 直播足球6台
+http://192.168.3.100:9100/live/stream-a6d62ce1-1167-4ad6-a33c-7c84a6bdd7b9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-75c426d8-665d-450e-9066-47471f14525f" tvg-name="myTV SUPER 直播足球7台" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",myTV SUPER 直播足球7台
+http://192.168.3.100:9100/live/stream-75c426d8-665d-450e-9066-47471f14525f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d8e71c73-a865-41c3-85a6-8d973af38c74" tvg-name="互動窗 1" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",互動窗 1
+http://192.168.3.100:9100/live/stream-d8e71c73-a865-41c3-85a6-8d973af38c74/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-e75c84d2-8a53-4411-8788-88edffd90b17" tvg-name="互動窗 2" tvg-logo="https://epg.yang-1989.eu.org/logo/MytvSuper.png" group-title="Jack_mytv",互動窗 2
+http://192.168.3.100:9100/live/stream-e75c84d2-8a53-4411-8788-88edffd90b17/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-85ab7ed2-2391-4f8d-bab3-c8541e7877c0" tvg-name="CCTV 1 綜合「Relay」" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV1.png" group-title="Yang_央视",CCTV 1 綜合「Relay」
 http://192.168.3.100:9100/live/stream-85ab7ed2-2391-4f8d-bab3-c8541e7877c0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-043d756d-0a5a-4251-ace7-1f7faf1ff5c7" tvg-name="CCTV 2 財經「Relay」" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV2.png" group-title="Yang_央视",CCTV 2 財經「Relay」
