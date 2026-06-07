@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://192.168.3.100:9100/api/epg/aggregated.xml.gz?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4"
-#EXTINF:-1 tvg-id="stream-f77c0aab-e6ed-4690-8c84-bbffa4b4a3e1" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Jack_Juli",翡翠台1
+#EXTINF:-1 tvg-id="stream-f77c0aab-e6ed-4690-8c84-bbffa4b4a3e1" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Jack_Juli",翡翠台
 http://192.168.3.100:9100/live/stream-f77c0aab-e6ed-4690-8c84-bbffa4b4a3e1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-3aad15dc-120d-447b-8a31-17c96be36231" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="Jack_Juli",翡翠台
 http://192.168.3.100:9100/live/stream-3aad15dc-120d-447b-8a31-17c96be36231/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
