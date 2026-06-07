@@ -171,10 +171,6 @@ http://192.168.3.100:9100/live/stream-50b04da1-2869-4360-b990-ed444403722b/index
 http://192.168.3.100:9100/live/stream-9072a047-e49d-4bc8-aac9-e7443ca64d3c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-e07a40db-c9a4-42e7-99a7-8bef8e865e61" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="Jack_Juli",CCTV17
 http://192.168.3.100:9100/live/stream-e07a40db-c9a4-42e7-99a7-8bef8e865e61/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-c1e08d01-8f6a-4d1a-96f7-069863d45be5" tvg-name="免費訂閲:請勿販賣..." tvg-logo="https://epg.yang-1989.eu.org/logo/温馨提示.png" group-title="Yang_MyTV",免費訂閲:請勿販賣...
-http://192.168.3.100:9100/live/stream-c1e08d01-8f6a-4d1a-96f7-069863d45be5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-0fce27c8-4d73-4056-8948-45fa9dba426e" tvg-name="你需要一個支援 DASH 協議的播放器..." tvg-logo="https://epg.yang-1989.eu.org/logo/温馨提示.png" group-title="Yang_MyTV",你需要一個支援 DASH 協議的播放器...
-http://192.168.3.100:9100/live/stream-0fce27c8-4d73-4056-8948-45fa9dba426e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-10f66994-2521-4f8c-a9c0-bda8b7941ebe" tvg-name="翡翠台" tvg-logo="https://epg.yang-1989.eu.org/logo/翡翠台.png" group-title="Yang_MyTV",翡翠台
 http://192.168.3.100:9100/live/stream-10f66994-2521-4f8c-a9c0-bda8b7941ebe/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-737ceba0-8d64-41d6-9e53-1bb3b08ce591" tvg-name="翡翠台 4K" tvg-logo="https://epg.yang-1989.eu.org/logo/翡翠台.png" group-title="Yang_MyTV",翡翠台 4K
@@ -369,6 +365,10 @@ http://192.168.3.100:9100/live/stream-5cca2c67-a7eb-4a7d-9147-75d505fdf455/index
 http://192.168.3.100:9100/live/stream-11e91e92-13ad-4779-9b52-b1c1890406a8/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-c9dbed84-8575-4a9f-8a04-6c1cca4a5256" tvg-name="深圳衛視國際頻道" tvg-logo="https://epg.yang-1989.eu.org/logo/深圳卫视.png" group-title="Yang_MyTV",深圳衛視國際頻道
 http://192.168.3.100:9100/live/stream-c9dbed84-8575-4a9f-8a04-6c1cca4a5256/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-c1e08d01-8f6a-4d1a-96f7-069863d45be5" tvg-name="免費訂閲:請勿販賣..." tvg-logo="https://epg.yang-1989.eu.org/logo/温馨提示.png" group-title="Yang_MyTV",免費訂閲:請勿販賣...
+http://192.168.3.100:9100/live/stream-c1e08d01-8f6a-4d1a-96f7-069863d45be5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0fce27c8-4d73-4056-8948-45fa9dba426e" tvg-name="你需要一個支援 DASH 協議的播放器..." tvg-logo="https://epg.yang-1989.eu.org/logo/温馨提示.png" group-title="Yang_MyTV",你需要一個支援 DASH 協議的播放器...
+http://192.168.3.100:9100/live/stream-0fce27c8-4d73-4056-8948-45fa9dba426e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-288949ef-3edb-4810-8595-650e950647fb" tvg-name="CCTV 1 綜合「Relay」" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV1.png" group-title="Yang_央视",CCTV 1 綜合「Relay」
 http://192.168.3.100:9100/live/stream-288949ef-3edb-4810-8595-650e950647fb/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-1d922768-a431-4e3c-8405-40f0e6392fc5" tvg-name="CCTV 2 財經「Relay」" tvg-logo="https://epg.yang-1989.eu.org/logo/CCTV2.png" group-title="Yang_央视",CCTV 2 財經「Relay」
