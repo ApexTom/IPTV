@@ -1025,5 +1025,137 @@ http://192.168.3.100:9100/live/stream-67be075b-c064-48b6-9d30-a4ef8e3644cf/index
 http://192.168.3.100:9100/live/stream-08028fa5-c220-4b8d-8d53-5625c38bf8e0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-14d17957-9bd2-40c3-9553-0966d428100c" tvg-name="第一财经" group-title="Yicai",第一财经
 http://192.168.3.100:9100/live/stream-14d17957-9bd2-40c3-9553-0966d428100c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-9f3c9501-9036-4184-bef5-344031f28d04" tvg-name="TV1" group-title="unifi",TV1
+http://192.168.3.100:9100/live/stream-9f3c9501-9036-4184-bef5-344031f28d04/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-7b6402b5-5efb-46aa-9079-2276466931ed" tvg-name="TV2" group-title="unifi",TV2
+http://192.168.3.100:9100/live/stream-7b6402b5-5efb-46aa-9079-2276466931ed/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0941c9ce-a4f5-4e56-891e-7916094e18e1" tvg-name="TV3" group-title="unifi",TV3
+http://192.168.3.100:9100/live/stream-0941c9ce-a4f5-4e56-891e-7916094e18e1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-94fe2069-4c99-49c2-bfd7-608288121b19" tvg-name="Didik TV KPM" group-title="unifi",Didik TV KPM
+http://192.168.3.100:9100/live/stream-94fe2069-4c99-49c2-bfd7-608288121b19/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-b9a688e1-309e-4dd3-9b0e-5c8572384758" tvg-name="8TV" group-title="unifi",8TV
+http://192.168.3.100:9100/live/stream-b9a688e1-309e-4dd3-9b0e-5c8572384758/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-ad98e798-b3d1-46f4-bb8f-0698dd9434b7" tvg-name="TV9" group-title="unifi",TV9
+http://192.168.3.100:9100/live/stream-ad98e798-b3d1-46f4-bb8f-0698dd9434b7/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0e17e98a-d3d2-4017-8203-0472278364c0" tvg-name="Salam HD" group-title="unifi",Salam HD
+http://192.168.3.100:9100/live/stream-0e17e98a-d3d2-4017-8203-0472278364c0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-1cda94d1-73d8-4c96-9458-3fa6de5886e1" tvg-name="TV AlHijrah HD" group-title="unifi",TV AlHijrah HD
+http://192.168.3.100:9100/live/stream-1cda94d1-73d8-4c96-9458-3fa6de5886e1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8dcb2bbe-b7d5-4941-a951-e34ee93f293b" tvg-name="SIAR" group-title="unifi",SIAR
+http://192.168.3.100:9100/live/stream-8dcb2bbe-b7d5-4941-a951-e34ee93f293b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8d2b61c3-bc8a-4ce0-bfae-70af94a0e6bc" tvg-name="TV Sarawak" group-title="unifi",TV Sarawak
+http://192.168.3.100:9100/live/stream-8d2b61c3-bc8a-4ce0-bfae-70af94a0e6bc/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3bc7a068-8e72-4b25-b5b0-4eea6c76f110" tvg-name="Dunia Sinema HD" group-title="unifi",Dunia Sinema HD
+http://192.168.3.100:9100/live/stream-3bc7a068-8e72-4b25-b5b0-4eea6c76f110/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-5912b17f-1afa-4048-a671-e3cdff790720" tvg-name="PESONA" group-title="unifi",PESONA
+http://192.168.3.100:9100/live/stream-5912b17f-1afa-4048-a671-e3cdff790720/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-5f7769c0-b5ab-4802-9a77-38fb07cafa75" tvg-name="tvN Movies HD" group-title="unifi",tvN Movies HD
+http://192.168.3.100:9100/live/stream-5f7769c0-b5ab-4802-9a77-38fb07cafa75/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-386242be-d441-4e78-9221-7c187a799061" tvg-name="tvN HD" group-title="unifi",tvN HD
+http://192.168.3.100:9100/live/stream-386242be-d441-4e78-9221-7c187a799061/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3be9cca3-603e-4ef9-ad58-292ecbebd04d" tvg-name="TVB Jade" group-title="unifi",TVB Jade
+http://192.168.3.100:9100/live/stream-3be9cca3-603e-4ef9-ad58-292ecbebd04d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-6d90b72c-bed9-473c-a69d-94aa7aff57f8" tvg-name="TVB Xing He" group-title="unifi",TVB Xing He
+http://192.168.3.100:9100/live/stream-6d90b72c-bed9-473c-a69d-94aa7aff57f8/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-c33e5de3-5775-4860-beac-6e9595c1b84f" tvg-name="CCTV-4" group-title="unifi",CCTV-4
+http://192.168.3.100:9100/live/stream-c33e5de3-5775-4860-beac-6e9595c1b84f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d48b995c-df03-42e3-8236-cdb495d551ea" tvg-name="Phoenix Hong Kong Channel" group-title="unifi",Phoenix Hong Kong Channel
+http://192.168.3.100:9100/live/stream-d48b995c-df03-42e3-8236-cdb495d551ea/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-59f5bb9d-62fc-4631-ba3b-6904c03a25e5" tvg-name="SETI" group-title="unifi",SETI
+http://192.168.3.100:9100/live/stream-59f5bb9d-62fc-4631-ba3b-6904c03a25e5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d26210bd-a3b8-440f-8482-cc16014dcefe" tvg-name="Celestial Movies" group-title="unifi",Celestial Movies
+http://192.168.3.100:9100/live/stream-d26210bd-a3b8-440f-8482-cc16014dcefe/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-777ad1f7-8449-4b50-9daa-8afd9545da4e" tvg-name="Celestial Classic Movies" group-title="unifi",Celestial Classic Movies
+http://192.168.3.100:9100/live/stream-777ad1f7-8449-4b50-9daa-8afd9545da4e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8dcdaba3-20f4-4c02-bac9-de462388af39" tvg-name="Zee Thirai" group-title="unifi",Zee Thirai
+http://192.168.3.100:9100/live/stream-8dcdaba3-20f4-4c02-bac9-de462388af39/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-10680f7d-8a2c-4e91-98b2-8b43d584b23f" tvg-name="Sony YAY!" group-title="unifi",Sony YAY!
+http://192.168.3.100:9100/live/stream-10680f7d-8a2c-4e91-98b2-8b43d584b23f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-948fb920-40bc-40ee-a44c-b4e6b3ac496b" tvg-name="ZEE Tamil HD" group-title="unifi",ZEE Tamil HD
+http://192.168.3.100:9100/live/stream-948fb920-40bc-40ee-a44c-b4e6b3ac496b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-35ab257e-4edb-481d-b528-cbe733292ec2" tvg-name="Zee Cinema HD" group-title="unifi",Zee Cinema HD
+http://192.168.3.100:9100/live/stream-35ab257e-4edb-481d-b528-cbe733292ec2/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3b237f4a-bdf0-4974-be7d-d93ac9c74930" tvg-name="HBO" group-title="unifi",HBO
+http://192.168.3.100:9100/live/stream-3b237f4a-bdf0-4974-be7d-d93ac9c74930/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-c948bb25-4535-433e-b649-70c7e522d23f" tvg-name="HBO Hits" group-title="unifi",HBO Hits
+http://192.168.3.100:9100/live/stream-c948bb25-4535-433e-b649-70c7e522d23f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-6639add3-21d3-42aa-b505-03fdef585635" tvg-name="HBO Family" group-title="unifi",HBO Family
+http://192.168.3.100:9100/live/stream-6639add3-21d3-42aa-b505-03fdef585635/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-c4c7233c-f427-4c6c-8bd0-6de982e45091" tvg-name="Cinemax" group-title="unifi",Cinemax
+http://192.168.3.100:9100/live/stream-c4c7233c-f427-4c6c-8bd0-6de982e45091/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8ffb76f4-86d5-4d00-ab65-4aca7d7edd92" tvg-name="HITS Movies" group-title="unifi",HITS Movies
+http://192.168.3.100:9100/live/stream-8ffb76f4-86d5-4d00-ab65-4aca7d7edd92/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d3326c01-d1bf-4da2-bcaa-e2b9ff476a80" tvg-name="Warner TV HD" group-title="unifi",Warner TV HD
+http://192.168.3.100:9100/live/stream-d3326c01-d1bf-4da2-bcaa-e2b9ff476a80/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-aae3c75d-1353-43ff-b515-7e6d1b952950" tvg-name="HITS NOW" group-title="unifi",HITS NOW
+http://192.168.3.100:9100/live/stream-aae3c75d-1353-43ff-b515-7e6d1b952950/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-b0ec5a69-613c-48a5-bae3-ba66233483a0" tvg-name="AXN" group-title="unifi",AXN
+http://192.168.3.100:9100/live/stream-b0ec5a69-613c-48a5-bae3-ba66233483a0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-01002b06-01f3-4b5b-820a-d1753962ddcb" tvg-name="HITS" group-title="unifi",HITS
+http://192.168.3.100:9100/live/stream-01002b06-01f3-4b5b-820a-d1753962ddcb/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3ef58a04-e53d-452c-b123-d09656660406" tvg-name="K Plus" group-title="unifi",K Plus
+http://192.168.3.100:9100/live/stream-3ef58a04-e53d-452c-b123-d09656660406/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-f3a52693-5ae2-48fb-b77a-7687321f5bd5" tvg-name="Animax" group-title="unifi",Animax
+http://192.168.3.100:9100/live/stream-f3a52693-5ae2-48fb-b77a-7687321f5bd5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-878a612e-98a3-4ce4-96e0-6a1140e6eee7" tvg-name="ROCK Entertainment HD" group-title="unifi",ROCK Entertainment HD
+http://192.168.3.100:9100/live/stream-878a612e-98a3-4ce4-96e0-6a1140e6eee7/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-b16b0695-7ff8-4cc3-88b5-2e5a56735153" tvg-name="Rock Action HD" group-title="unifi",Rock Action HD
+http://192.168.3.100:9100/live/stream-b16b0695-7ff8-4cc3-88b5-2e5a56735153/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d87b43dc-cf66-4e48-9a8a-37ae63688452" tvg-name="BBC Earth HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png" group-title="unifi",BBC Earth HD
+http://192.168.3.100:9100/live/stream-d87b43dc-cf66-4e48-9a8a-37ae63688452/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0aad427f-11c7-4926-ad34-e0c85cadb360" tvg-name="Love Nature HD" group-title="unifi",Love Nature HD
+http://192.168.3.100:9100/live/stream-0aad427f-11c7-4926-ad34-e0c85cadb360/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d06e2694-0fa5-4d6c-a8dc-5e78ca188667" tvg-name="HGTV" group-title="unifi",HGTV
+http://192.168.3.100:9100/live/stream-d06e2694-0fa5-4d6c-a8dc-5e78ca188667/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8708c0fe-612a-448a-b053-75c126f50fea" tvg-name="BBC Lifestyle HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png" group-title="unifi",BBC Lifestyle HD
+http://192.168.3.100:9100/live/stream-8708c0fe-612a-448a-b053-75c126f50fea/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-a154cca2-b865-4460-9fd9-6f3e1e97daf5" tvg-name="Asian Food Network" group-title="unifi",Asian Food Network
+http://192.168.3.100:9100/live/stream-a154cca2-b865-4460-9fd9-6f3e1e97daf5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-b59b4bf0-429e-45b0-afad-8bd219e3d4ab" tvg-name="DreamWorks HD" group-title="unifi",DreamWorks HD
+http://192.168.3.100:9100/live/stream-b59b4bf0-429e-45b0-afad-8bd219e3d4ab/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-af40c005-0642-45f2-a013-36143b012450" tvg-name="Moonbug Kids" group-title="unifi",Moonbug Kids
+http://192.168.3.100:9100/live/stream-af40c005-0642-45f2-a013-36143b012450/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-69734cc6-7b21-41d5-97f5-2762eb3305e3" tvg-name="Nick Jr." group-title="unifi",Nick Jr.
+http://192.168.3.100:9100/live/stream-69734cc6-7b21-41d5-97f5-2762eb3305e3/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8d52a92a-4c81-49e2-bae6-4e4814a3a82f" tvg-name="Cbeebies HD" group-title="unifi",Cbeebies HD
+http://192.168.3.100:9100/live/stream-8d52a92a-4c81-49e2-bae6-4e4814a3a82f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-6e3d7a79-1285-46ba-83ec-e3c80a924c4d" tvg-name="Nickelodeon" group-title="unifi",Nickelodeon
+http://192.168.3.100:9100/live/stream-6e3d7a79-1285-46ba-83ec-e3c80a924c4d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-ab3fcc06-f219-4409-9b24-56dfaf819e06" tvg-name="Cartoon Network" group-title="unifi",Cartoon Network
+http://192.168.3.100:9100/live/stream-ab3fcc06-f219-4409-9b24-56dfaf819e06/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-b04b42ef-0364-4864-b740-4b3a062c5521" tvg-name="BBC World News HD" group-title="unifi",BBC World News HD
+http://192.168.3.100:9100/live/stream-b04b42ef-0364-4864-b740-4b3a062c5521/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-ba811538-f719-4467-886f-d1f5b3351c85" tvg-name="Al Jazeera" group-title="unifi",Al Jazeera
+http://192.168.3.100:9100/live/stream-ba811538-f719-4467-886f-d1f5b3351c85/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3a609afa-bde5-4cae-a10a-9fef1733863a" tvg-name="CGTN" group-title="unifi",CGTN
+http://192.168.3.100:9100/live/stream-3a609afa-bde5-4cae-a10a-9fef1733863a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-43541861-f83c-4e73-a5ee-20cbc4bec8af" tvg-name="CNA" group-title="unifi",CNA
+http://192.168.3.100:9100/live/stream-43541861-f83c-4e73-a5ee-20cbc4bec8af/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-558053f2-f0b6-41c4-8c97-7812f22bd829" tvg-name="Euronews" group-title="unifi",Euronews
+http://192.168.3.100:9100/live/stream-558053f2-f0b6-41c4-8c97-7812f22bd829/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-c51aa53c-c0a7-4e5e-9cf1-e9f02882fa2d" tvg-name="Bernama TV" group-title="unifi",Bernama TV
+http://192.168.3.100:9100/live/stream-c51aa53c-c0a7-4e5e-9cf1-e9f02882fa2d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-7f253558-37a8-49a6-add9-658759f85e64" tvg-name="Parlimen Malaysia" group-title="unifi",Parlimen Malaysia
+http://192.168.3.100:9100/live/stream-7f253558-37a8-49a6-add9-658759f85e64/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-70cf3f51-54c8-4ae3-b9f7-d4a83d44be97" tvg-name="ABC Australia" group-title="unifi",ABC Australia
+http://192.168.3.100:9100/live/stream-70cf3f51-54c8-4ae3-b9f7-d4a83d44be97/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d2b2f8d4-5af5-480f-885c-baebddb7cd6a" tvg-name="DW" group-title="unifi",DW
+http://192.168.3.100:9100/live/stream-d2b2f8d4-5af5-480f-885c-baebddb7cd6a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-9aa45e94-b969-4267-bd69-2437c1cbba56" tvg-name="NHK WORLD-JAPAN" group-title="unifi",NHK WORLD-JAPAN
+http://192.168.3.100:9100/live/stream-9aa45e94-b969-4267-bd69-2437c1cbba56/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3a79bc12-200c-4fd1-90e8-f6634f330a67" tvg-name="Unifi Sports 1" group-title="unifi",Unifi Sports 1
+http://192.168.3.100:9100/live/stream-3a79bc12-200c-4fd1-90e8-f6634f330a67/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-d6b990f0-2a8a-4f1e-b7b1-402ed0e9597c" tvg-name="SPOTV" group-title="unifi",SPOTV
+http://192.168.3.100:9100/live/stream-d6b990f0-2a8a-4f1e-b7b1-402ed0e9597c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-7385d45c-899e-483c-98b6-2e32aef90c60" tvg-name="SPOTV2" group-title="unifi",SPOTV2
+http://192.168.3.100:9100/live/stream-7385d45c-899e-483c-98b6-2e32aef90c60/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-4b32c9bd-ddaf-4155-8038-7d9435f3daf0" tvg-name="beIN SPORTS 1" group-title="unifi",beIN SPORTS 1
+http://192.168.3.100:9100/live/stream-4b32c9bd-ddaf-4155-8038-7d9435f3daf0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-19111463-4e7d-4448-8759-e1a70627471d" tvg-name="beIN SPORTS 2" group-title="unifi",beIN SPORTS 2
+http://192.168.3.100:9100/live/stream-19111463-4e7d-4448-8759-e1a70627471d/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-ed13d724-449a-4374-bbc6-fea3758ec0c7" tvg-name="beIN SPORTS 3" group-title="unifi",beIN SPORTS 3
+http://192.168.3.100:9100/live/stream-ed13d724-449a-4374-bbc6-fea3758ec0c7/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-5faa4dda-049f-485e-811f-d72f38adadd1" tvg-name="beIN SPORTS 4" group-title="unifi",beIN SPORTS 4
+http://192.168.3.100:9100/live/stream-5faa4dda-049f-485e-811f-d72f38adadd1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 
-# Last Sync: 2026-06-11 11:52:46
+# Last Sync: 2026-06-11 14:05:21
