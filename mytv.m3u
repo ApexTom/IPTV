@@ -591,64 +591,64 @@ http://192.168.3.100:9100/live/stream-fa21c1e6-ae82-4590-9197-f048377ac28e/index
 http://192.168.3.100:9100/live/stream-a0a868fa-3f93-4652-9ec9-e3c93ec861e5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-f1bebcf1-cc6d-42a0-9651-7d01064cdfe5" tvg-name="四川衛視「Relay」" tvg-logo="https://epg.yang-1989.eu.org/logo/四川卫视.png" group-title="Yang_央视",四川衛視「Relay」
 http://192.168.3.100:9100/live/stream-f1bebcf1-cc6d-42a0-9651-7d01064cdfe5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-0801e6a1-dcb6-49e3-b0d7-460bc1f1ead8" tvg-name="鳳凰衛視·中文「回看」" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰中文.png" group-title="Yang_港澳",鳳凰衛視·中文「回看」
-http://192.168.3.100:9100/live/stream-0801e6a1-dcb6-49e3-b0d7-460bc1f1ead8/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-024d22eb-d970-4093-9740-957c6831d2d4" tvg-name="鳳凰衛視·資訊「回看」" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰资讯.png" group-title="Yang_港澳",鳳凰衛視·資訊「回看」
-http://192.168.3.100:9100/live/stream-024d22eb-d970-4093-9740-957c6831d2d4/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-827b9b97-c39b-454e-9021-36b6d94d3cf7" tvg-name="鳳凰衛視·香港「回看」" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰香港.png" group-title="Yang_港澳",鳳凰衛視·香港「回看」
-http://192.168.3.100:9100/live/stream-827b9b97-c39b-454e-9021-36b6d94d3cf7/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e6ac5cc3-417a-40ab-a9c2-385786686853" tvg-name="雷霆881「电台」" tvg-logo="https://epg.yang-1989.eu.org/logo/雷霆881.png" group-title="Yang_港澳",雷霆881「电台」
-http://192.168.3.100:9100/live/stream-e6ac5cc3-417a-40ab-a9c2-385786686853/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-3338f804-c0ef-465a-81bd-ff3ea26cac6a" tvg-name="叱咤903「电台」" tvg-logo="https://epg.yang-1989.eu.org/logo/叱咤903.png" group-title="Yang_港澳",叱咤903「电台」
-http://192.168.3.100:9100/live/stream-3338f804-c0ef-465a-81bd-ff3ea26cac6a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-97426a2e-f1c4-47ea-8f8b-5a799164e8a0" tvg-name="AM864「电台」" tvg-logo="https://epg.yang-1989.eu.org/logo/AM864.png" group-title="Yang_港澳",AM864「电台」
-http://192.168.3.100:9100/live/stream-97426a2e-f1c4-47ea-8f8b-5a799164e8a0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-cbdadb87-d2cd-4aae-8d58-9446ddbe4d7a" tvg-name="翡翠台「字幕」" tvg-logo="https://epg.yang-1989.eu.org/logo/翡翠台.png" group-title="Yang_港澳",翡翠台「字幕」
-http://192.168.3.100:9100/live/stream-cbdadb87-d2cd-4aae-8d58-9446ddbe4d7a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-ea5c3f2d-2bec-46fa-87fc-bc0639115d62" tvg-name="TVB Plus「字幕」" tvg-logo="https://epg.yang-1989.eu.org/logo/TVBPlus.png" group-title="Yang_港澳",TVB Plus「字幕」
-http://192.168.3.100:9100/live/stream-ea5c3f2d-2bec-46fa-87fc-bc0639115d62/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-50254b0b-5f5f-49eb-a25d-bcd48e85c201" tvg-name="無綫新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/無綫新聞台.png" group-title="Yang_港澳",無綫新聞台
-http://192.168.3.100:9100/live/stream-50254b0b-5f5f-49eb-a25d-bcd48e85c201/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-33cfe70d-8ac5-45fa-a361-8891dcb349e0" tvg-name="ViuTV「12H」" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTV.png" group-title="Yang_港澳",ViuTV「12H」
-http://192.168.3.100:9100/live/stream-33cfe70d-8ac5-45fa-a361-8891dcb349e0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-9ada4669-3ea6-4050-9c74-18dc4a9d44eb" tvg-name="ViuTVsix" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTVsix.png" group-title="Yang_港澳",ViuTVsix
-http://192.168.3.100:9100/live/stream-9ada4669-3ea6-4050-9c74-18dc4a9d44eb/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-59423e02-f0ad-47b6-b3bc-0fe2177a0d9e" tvg-name="Now直播台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now直播台.png" group-title="Yang_港澳",Now直播台
-http://192.168.3.100:9100/live/stream-59423e02-f0ad-47b6-b3bc-0fe2177a0d9e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-b5c098fb-6eed-4e60-9b68-9629fa0f1125" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="Yang_港澳",Now新聞台
-http://192.168.3.100:9100/live/stream-b5c098fb-6eed-4e60-9b68-9629fa0f1125/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-4a0b9e6b-d607-4bea-ab06-b4d7102cfb9b" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Yang_港澳",Now財經台
-http://192.168.3.100:9100/live/stream-4a0b9e6b-d607-4bea-ab06-b4d7102cfb9b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-261c65d1-c2bb-477f-b4e7-7d05cd0c3eaa" tvg-name="Now Sports 精選" tvg-logo="https://epg.yang-1989.eu.org/logo/Now Sports 精選.png" group-title="Yang_港澳",Now Sports 精選
-http://192.168.3.100:9100/live/stream-261c65d1-c2bb-477f-b4e7-7d05cd0c3eaa/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-96dccf6d-993b-4746-9189-ce1c550569c0" tvg-name="HOY 國際財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY76.png" group-title="Yang_港澳",HOY 國際財經台
-http://192.168.3.100:9100/live/stream-96dccf6d-993b-4746-9189-ce1c550569c0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-17b60f02-469e-4f49-bbd1-da3a48d6d647" tvg-name="HOY TV" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY77.png" group-title="Yang_港澳",HOY TV
-http://192.168.3.100:9100/live/stream-17b60f02-469e-4f49-bbd1-da3a48d6d647/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-486ae033-2181-426d-81a9-24aec27e4ad2" tvg-name="HOY 資訊台" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY78.png" group-title="Yang_港澳",HOY 資訊台
-http://192.168.3.100:9100/live/stream-486ae033-2181-426d-81a9-24aec27e4ad2/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-842297f5-fd49-4b7b-b65d-968986dd1fed" tvg-name="RTHK 31" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK31.png" group-title="Yang_港澳",RTHK 31
-http://192.168.3.100:9100/live/stream-842297f5-fd49-4b7b-b65d-968986dd1fed/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-f80b7160-700e-4a86-86ee-d6880c9362f2" tvg-name="RTHK 32" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK32.png" group-title="Yang_港澳",RTHK 32
-http://192.168.3.100:9100/live/stream-f80b7160-700e-4a86-86ee-d6880c9362f2/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-9ed8ea55-f118-455a-b0d3-ebcd733b8171" tvg-name="RTHK 33" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK33.png" group-title="Yang_港澳",RTHK 33
-http://192.168.3.100:9100/live/stream-9ed8ea55-f118-455a-b0d3-ebcd733b8171/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-b33db0bd-3dee-48e0-9999-7b4d7b6d8535" tvg-name="RTHK 34" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK34.png" group-title="Yang_港澳",RTHK 34
-http://192.168.3.100:9100/live/stream-b33db0bd-3dee-48e0-9999-7b4d7b6d8535/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-8c17c3ea-92bb-44e3-9858-9047b4cf66b1" tvg-name="RTHK 35" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK35.png" group-title="Yang_港澳",RTHK 35
-http://192.168.3.100:9100/live/stream-8c17c3ea-92bb-44e3-9858-9047b4cf66b1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-99dbb25e-f9c1-4f08-9758-67f96250d3d4" tvg-name="澳門Macau" tvg-logo="https://epg.yang-1989.eu.org/logo/澳门Macau.png" group-title="Yang_港澳",澳門Macau
-http://192.168.3.100:9100/live/stream-99dbb25e-f9c1-4f08-9758-67f96250d3d4/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-9a5b7330-645a-409a-9257-1e8d4cf340e0" tvg-name="澳門葡文" tvg-logo="https://epg.yang-1989.eu.org/logo/澳视葡文.png" group-title="Yang_港澳",澳門葡文
-http://192.168.3.100:9100/live/stream-9a5b7330-645a-409a-9257-1e8d4cf340e0/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-aae66b6f-fc41-4092-a1a3-3939960214ff" tvg-name="澳視澳門" tvg-logo="https://epg.yang-1989.eu.org/logo/澳视澳门.png" group-title="Yang_港澳",澳視澳門
-http://192.168.3.100:9100/live/stream-aae66b6f-fc41-4092-a1a3-3939960214ff/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-e6a3e6a7-9b0d-4bab-bfd8-1bcd306597e4" tvg-name="澳門資訊" tvg-logo="https://epg.yang-1989.eu.org/logo/澳门资讯.png" group-title="Yang_港澳",澳門資訊
-http://192.168.3.100:9100/live/stream-e6a3e6a7-9b0d-4bab-bfd8-1bcd306597e4/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-a715e2e6-83fb-465a-9a76-daf36dec5790" tvg-name="澳門體育" tvg-logo="https://epg.yang-1989.eu.org/logo/澳门体育.png" group-title="Yang_港澳",澳門體育
-http://192.168.3.100:9100/live/stream-a715e2e6-83fb-465a-9a76-daf36dec5790/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-496ec81d-a0e4-4a4b-905c-8ddb0399861e" tvg-name="澳門綜藝" tvg-logo="https://epg.yang-1989.eu.org/logo/澳门综艺.png" group-title="Yang_港澳",澳門綜藝
-http://192.168.3.100:9100/live/stream-496ec81d-a0e4-4a4b-905c-8ddb0399861e/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-7d891683-b3ed-49c8-ba1f-e26814c50b8c" tvg-name="鳳凰衛視·中文「回看」" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰中文.png" group-title="Yang_港澳",鳳凰衛視·中文「回看」
+http://192.168.3.100:9100/live/stream-7d891683-b3ed-49c8-ba1f-e26814c50b8c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-680d96d7-6926-4685-9a9b-b28ae0c34e54" tvg-name="鳳凰衛視·資訊「回看」" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰资讯.png" group-title="Yang_港澳",鳳凰衛視·資訊「回看」
+http://192.168.3.100:9100/live/stream-680d96d7-6926-4685-9a9b-b28ae0c34e54/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-e437062e-7339-498f-923c-24ca298ab3b4" tvg-name="鳳凰衛視·香港「回看」" tvg-logo="https://epg.yang-1989.eu.org/logo/凤凰香港.png" group-title="Yang_港澳",鳳凰衛視·香港「回看」
+http://192.168.3.100:9100/live/stream-e437062e-7339-498f-923c-24ca298ab3b4/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0db3d48e-2939-4871-9057-cdba0a4be646" tvg-name="雷霆881「电台」" tvg-logo="https://epg.yang-1989.eu.org/logo/雷霆881.png" group-title="Yang_港澳",雷霆881「电台」
+http://192.168.3.100:9100/live/stream-0db3d48e-2939-4871-9057-cdba0a4be646/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-97c4997b-be81-42a7-ba41-e7d7728fa439" tvg-name="叱咤903「电台」" tvg-logo="https://epg.yang-1989.eu.org/logo/叱咤903.png" group-title="Yang_港澳",叱咤903「电台」
+http://192.168.3.100:9100/live/stream-97c4997b-be81-42a7-ba41-e7d7728fa439/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-16f800b1-d64b-49c1-8d8e-887e4c2bcaa6" tvg-name="AM864「电台」" tvg-logo="https://epg.yang-1989.eu.org/logo/AM864.png" group-title="Yang_港澳",AM864「电台」
+http://192.168.3.100:9100/live/stream-16f800b1-d64b-49c1-8d8e-887e4c2bcaa6/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-438e7e85-1f9e-4a00-abb2-689f1e648ae9" tvg-name="翡翠台「字幕」" tvg-logo="https://epg.yang-1989.eu.org/logo/翡翠台.png" group-title="Yang_港澳",翡翠台「字幕」
+http://192.168.3.100:9100/live/stream-438e7e85-1f9e-4a00-abb2-689f1e648ae9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-25e122c9-97c2-44ff-a720-2b2f9fe3343c" tvg-name="TVB Plus「字幕」" tvg-logo="https://epg.yang-1989.eu.org/logo/TVBPlus.png" group-title="Yang_港澳",TVB Plus「字幕」
+http://192.168.3.100:9100/live/stream-25e122c9-97c2-44ff-a720-2b2f9fe3343c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-7308a63d-65bb-47d8-b9f5-8f814f59aaac" tvg-name="無綫新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/無綫新聞台.png" group-title="Yang_港澳",無綫新聞台
+http://192.168.3.100:9100/live/stream-7308a63d-65bb-47d8-b9f5-8f814f59aaac/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-b0bfc1d7-506d-4d91-a886-c1351c084a6c" tvg-name="ViuTV" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTV.png" group-title="Yang_港澳",ViuTV
+http://192.168.3.100:9100/live/stream-b0bfc1d7-506d-4d91-a886-c1351c084a6c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-10c2f13e-5277-42a3-9473-fdd85fb55b18" tvg-name="ViuTVsix" tvg-logo="https://epg.yang-1989.eu.org/logo/ViuTVsix.png" group-title="Yang_港澳",ViuTVsix
+http://192.168.3.100:9100/live/stream-10c2f13e-5277-42a3-9473-fdd85fb55b18/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-251a56e2-4b0d-41d4-a637-3857274f0498" tvg-name="Now直播台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now直播台.png" group-title="Yang_港澳",Now直播台
+http://192.168.3.100:9100/live/stream-251a56e2-4b0d-41d4-a637-3857274f0498/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-cd82c579-bbe4-487f-ba22-30242dc596fc" tvg-name="Now新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now新聞台.png" group-title="Yang_港澳",Now新聞台
+http://192.168.3.100:9100/live/stream-cd82c579-bbe4-487f-ba22-30242dc596fc/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-dcfeb9ac-7bac-4954-9603-f46883381466" tvg-name="Now財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/Now財經台.png" group-title="Yang_港澳",Now財經台
+http://192.168.3.100:9100/live/stream-dcfeb9ac-7bac-4954-9603-f46883381466/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-11350124-6a19-4c89-a028-faef6b7283d7" tvg-name="Now Sports 精選" tvg-logo="https://epg.yang-1989.eu.org/logo/Now Sports 精選.png" group-title="Yang_港澳",Now Sports 精選
+http://192.168.3.100:9100/live/stream-11350124-6a19-4c89-a028-faef6b7283d7/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-2b5d6d94-de5e-4ccc-88ef-976b154fc809" tvg-name="HOY 國際財經台" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY76.png" group-title="Yang_港澳",HOY 國際財經台
+http://192.168.3.100:9100/live/stream-2b5d6d94-de5e-4ccc-88ef-976b154fc809/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-19d1545d-be4f-4ccc-a610-2369a73368b9" tvg-name="HOY TV" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY77.png" group-title="Yang_港澳",HOY TV
+http://192.168.3.100:9100/live/stream-19d1545d-be4f-4ccc-a610-2369a73368b9/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-10f6cea1-8b2d-48f7-bdf9-4a1c2afc586c" tvg-name="HOY 資訊台" tvg-logo="https://epg.yang-1989.eu.org/logo/HOY78.png" group-title="Yang_港澳",HOY 資訊台
+http://192.168.3.100:9100/live/stream-10f6cea1-8b2d-48f7-bdf9-4a1c2afc586c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-53d34e9a-2ee1-4879-be0c-59774965c189" tvg-name="RTHK 31" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK31.png" group-title="Yang_港澳",RTHK 31
+http://192.168.3.100:9100/live/stream-53d34e9a-2ee1-4879-be0c-59774965c189/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-729513ea-a9a3-40d1-bab9-53c838953375" tvg-name="RTHK 32" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK32.png" group-title="Yang_港澳",RTHK 32
+http://192.168.3.100:9100/live/stream-729513ea-a9a3-40d1-bab9-53c838953375/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-f912e632-3b31-4d47-92de-2409bffaa0f6" tvg-name="RTHK 33" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK33.png" group-title="Yang_港澳",RTHK 33
+http://192.168.3.100:9100/live/stream-f912e632-3b31-4d47-92de-2409bffaa0f6/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-0baf5331-03cf-441e-b7f5-aaf45df442d2" tvg-name="RTHK 34" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK34.png" group-title="Yang_港澳",RTHK 34
+http://192.168.3.100:9100/live/stream-0baf5331-03cf-441e-b7f5-aaf45df442d2/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-873ad9f6-10d5-486e-aa7e-1a166e86ecec" tvg-name="RTHK 35" tvg-logo="https://epg.yang-1989.eu.org/logo/RTHK35.png" group-title="Yang_港澳",RTHK 35
+http://192.168.3.100:9100/live/stream-873ad9f6-10d5-486e-aa7e-1a166e86ecec/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-12227005-568d-4740-925d-42fc5b84b52f" tvg-name="澳門Macau" tvg-logo="https://epg.yang-1989.eu.org/logo/澳门Macau.png" group-title="Yang_港澳",澳門Macau
+http://192.168.3.100:9100/live/stream-12227005-568d-4740-925d-42fc5b84b52f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-8632dc2b-782b-45ab-8f16-9298c04cb51c" tvg-name="澳門葡文" tvg-logo="https://epg.yang-1989.eu.org/logo/澳视葡文.png" group-title="Yang_港澳",澳門葡文
+http://192.168.3.100:9100/live/stream-8632dc2b-782b-45ab-8f16-9298c04cb51c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-69e3387b-4843-4c8c-a42f-1ea7f241a3ea" tvg-name="澳視澳門" tvg-logo="https://epg.yang-1989.eu.org/logo/澳视澳门.png" group-title="Yang_港澳",澳視澳門
+http://192.168.3.100:9100/live/stream-69e3387b-4843-4c8c-a42f-1ea7f241a3ea/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-3c09ef69-4f5e-482c-9bdf-11bd1d50d0c6" tvg-name="澳門資訊" tvg-logo="https://epg.yang-1989.eu.org/logo/澳门资讯.png" group-title="Yang_港澳",澳門資訊
+http://192.168.3.100:9100/live/stream-3c09ef69-4f5e-482c-9bdf-11bd1d50d0c6/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-697c8d84-f64c-4507-8aee-5e2482f75afa" tvg-name="澳門體育" tvg-logo="https://epg.yang-1989.eu.org/logo/澳门体育.png" group-title="Yang_港澳",澳門體育
+http://192.168.3.100:9100/live/stream-697c8d84-f64c-4507-8aee-5e2482f75afa/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="stream-509b0060-c2a0-46ad-a604-56e03a75d0a1" tvg-name="澳門綜藝" tvg-logo="https://epg.yang-1989.eu.org/logo/澳门综艺.png" group-title="Yang_港澳",澳門綜藝
+http://192.168.3.100:9100/live/stream-509b0060-c2a0-46ad-a604-56e03a75d0a1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-ade434ef-d5a8-4c13-97a3-8abd662e1abf" tvg-name="博斯運動 一「4gTV」" tvg-logo="https://epg.yang-1989.eu.org/logo/博斯運動一台.png" group-title="Yang_台湾",博斯運動 一「4gTV」
 http://192.168.3.100:9100/live/stream-ade434ef-d5a8-4c13-97a3-8abd662e1abf/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-7afd613e-02a8-46f5-9bd4-3d4febd885ae" tvg-name="博斯運動 二「4gTV」" tvg-logo="https://epg.yang-1989.eu.org/logo/博斯運動二台.png" group-title="Yang_台湾",博斯運動 二「4gTV」
@@ -1026,4 +1026,4 @@ http://192.168.3.100:9100/live/stream-08028fa5-c220-4b8d-8d53-5625c38bf8e0/index
 #EXTINF:-1 tvg-id="stream-14d17957-9bd2-40c3-9553-0966d428100c" tvg-name="第一财经" group-title="Yicai",第一财经
 http://192.168.3.100:9100/live/stream-14d17957-9bd2-40c3-9553-0966d428100c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 
-# Last Sync: 2026-06-12 03:02:02
+# Last Sync: 2026-06-13 03:02:01
