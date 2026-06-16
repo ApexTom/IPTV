@@ -1,0 +1,49 @@
+name: Sync MyTV M3U Local
+
+on:
+  schedule:
+    - cron: "10 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+
+      - name: Download latest playlist
+        run: |
+          curl -L \
+          https://raw.githubusercontent.com/xiaotan8/xiaotan8.github.io/main/mytvsuper.m3u \
+          -o mytvsuper.m3u
+
+      - name: Fix logo URLs
+        run: |
+          sed -i 's|https://php.946985.xyz/logo/|https://epg.yang-1989.eu.org/logo/|g' mytvsuper.m3u
+          sed -i 's|https://xiaotan.860775.xyz/|https://epg.yang-1989.eu.org/logo/|g' mytvsuper.m3u
+
+      - name: Remove failed request logs
+        run: |
+          grep -v '请求失败:' mytvsuper.m3u > tmp.m3u && mv tmp.m3u mytvsuper.m3u
+
+      - name: Validate and Commit
+        run: |
+          echo "lines: $(wc -l < mytvsuper.m3u)"
+          echo "failed lines: $(grep -c '请求失败:' mytvsuper.m3u || true)"
+          
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add mytvsuper.m3u
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto update mytvsuper.m3u $(date '+%Y-%m-%d %H:%M')"
+            git push origin main
+            echo "✅ 成功更新本地 mytvsuper.m3u"
+          fi
