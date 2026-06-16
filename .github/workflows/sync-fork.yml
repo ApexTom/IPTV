@@ -1,0 +1,56 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: "10 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+    steps: # 👈 1. 这里已经严格和 runs-on 对齐，彻底解决 image.png 中的 Invalid workflow file 语法错误
+      - name: Download latest playlist
+        run: |
+          curl -L \
+          https://raw.githubusercontent.com/xiaotan8/xiaotan8.github.io/main/mytvsuper.m3u \
+          -o mytvsuper.m3u
+
+      - name: Fix logo URLs
+        run: |
+          # 2. 修复了第二条替换规则：原脚本写成了 s|...|g，中间漏掉了替换后的目标链接。
+          # 现在已补全为：把作者的两个前缀全部统一清洗为 epg.yang-1989.eu.org
+          sed -i 's|https://php.946985.xyz/logo/|https://epg.yang-1989.eu.org/logo/|g' mytvsuper.m3u
+          sed -i 's|https://xiaotan.860775.xyz/|https://epg.yang-1989.eu.org/logo/|g' mytvsuper.m3u
+
+      - name: Remove failed request logs
+        run: |
+          grep -v '请求失败:' mytvsuper.m3u > tmp.m3u && mv tmp.m3u mytvsuper.m3u
+
+      - name: Validate output
+        run: |
+          echo "lines: $(wc -l < mytvsuper.m3u)"
+          echo "failed lines: $(grep -c '请求失败:' mytvsuper.m3u || true)"
+
+      - name: Push to iptv-proxy
+        env:
+          TOKEN: ${{ secrets.IPTV_PROXY_TOKEN }}
+        run: |
+          git clone --depth 1 https://x-access-token:${TOKEN}@github.com/Jack123liang/iptv-proxy.git repo
+          cp mytvsuper.m3u repo/mytvsuper.m3u
+          
+          cd repo
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add mytvsuper.m3u
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto update mytvsuper.m3u $(date '+%Y-%m-%d %H:%M')"
+            git push origin main
+            echo "✅ 成功推送到 iptv-proxy"
+          fi
