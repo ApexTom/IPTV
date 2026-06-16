@@ -34,23 +34,20 @@ jobs:
           echo "lines: $(wc -l < mytvsuper.m3u)"
           echo "failed lines: $(grep -c '请求失败:' mytvsuper.m3u || true)"
 
-      - name: Push to iptv-proxy
-        env:
-          TOKEN: ${{ secrets.IPTV_PROXY_TOKEN }}
+            - name: Push to Repository Local
         run: |
-          git clone --depth 1 https://x-access-token:${TOKEN}@github.com/Jack123liang/iptv-proxy.git repo
-          cp mytvsuper.m3u repo/mytvsuper.m3u
-          
-          cd repo
+          # 1. 配置 Actions 机器人身份
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
+          # 2. 直接添加刚刚洗好的 mytvsuper.m3u 文件
           git add mytvsuper.m3u
           
+          # 3. 检查是否有变动，如果有，直接推送到当前仓库
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
             git commit -m "Auto update mytvsuper.m3u $(date '+%Y-%m-%d %H:%M')"
             git push origin main
-            echo "✅ 成功推送到 iptv-proxy"
+            echo "✅ 成功在本地更新并推送 mytvsuper.m3u"
           fi
