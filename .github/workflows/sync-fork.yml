@@ -34,7 +34,7 @@ jobs:
           echo "lines: $(wc -l < mytvsuper.m3u)"
           echo "failed lines: $(grep -c '请求失败:' mytvsuper.m3u || true)"
 
-            - name: Push to Repository Local
+      - name: Push to Repository Local
         run: |
           # 1. 配置 Actions 机器人身份
           git config user.name "github-actions[bot]"
