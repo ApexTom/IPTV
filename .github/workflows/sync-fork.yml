@@ -1,4 +1,4 @@
-name: Sync Fork
+name: Sync MyTV M3U Local
 
 on:
   schedule:
@@ -11,7 +11,13 @@ permissions:
 jobs:
   update-m3u:
     runs-on: ubuntu-latest
-    steps: # 👈 1. 这里已经严格和 runs-on 对齐，彻底解决 image.png 中的 Invalid workflow file 语法错误
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          # 💡 修正 1：强行指定克隆到 repo 文件夹内，建立稳固的本地 Git 环境
+          path: repo
+
       - name: Download latest playlist
         run: |
           curl -L \
@@ -20,8 +26,6 @@ jobs:
 
       - name: Fix logo URLs
         run: |
-          # 2. 修复了第二条替换规则：原脚本写成了 s|...|g，中间漏掉了替换后的目标链接。
-          # 现在已补全为：把作者的两个前缀全部统一清洗为 epg.yang-1989.eu.org
           sed -i 's|https://php.946985.xyz/logo/|https://epg.yang-1989.eu.org/logo/|g' mytvsuper.m3u
           sed -i 's|https://xiaotan.860775.xyz/|https://epg.yang-1989.eu.org/logo/|g' mytvsuper.m3u
 
@@ -36,14 +40,15 @@ jobs:
 
       - name: Push to Repository Local
         run: |
-          # 1. 配置 Actions 机器人身份
+          # 💡 修正 2：把洗干净的 m3u 复制到 repo 文件夹，并切进去执行 Git 操作
+          cp mytvsuper.m3u repo/mytvsuper.m3u
+          cd repo
+          
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # 2. 直接添加刚刚洗好的 mytvsuper.m3u 文件
           git add mytvsuper.m3u
           
-          # 3. 检查是否有变动，如果有，直接推送到当前仓库
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
