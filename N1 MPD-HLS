@@ -12,14 +12,78 @@ docker run -d \
   -e TZ=Asia/Shanghai \
   charmingcheung000/mpd-hls:latest
 
+改进 ：
+手动删除，手动更新最新版本
+docker stop mpd-charming
+docker rm mpd-charming
+docker pull charmingcheung000/mpd-hls:latest
+docker run -d \
+  --name mpd-charming \
+  --restart unless-stopped \
+  --net=host \
+  -v /opt/mpd-hls/var:/app/var \
+  -e TZ=Asia/Shanghai \
+  -e RUST_LOG=INFO \
+  -e _RJEM_MALLOC_CONF=background_thread:true,dirty_decay_ms:5000,muzzy_decay_ms:5000 \
+  charmingcheung000/mpd-hls:latest
+
+获取版本号
+
+curl -s "https://hub.docker.com/v2/repositories/charmingcheung000/mpd-hls/tags?page_size=20" | python3 -c "
+import json, sys
+# 强制标准输出使用 utf-8 编码，防止因终端语言环境导致 Unicode 报错
+sys.stdout.reconfigure(encoding='utf-8')
+data = json.load(sys.stdin)
+if 'results' in data:
+    for t in data['results']:
+        print(f\"{t['name']:<15} {t['last_updated']}\")
+"
+
+目前稳定版本：
+
+docker run -d \
+  --name mpd-charming \
+  --restart unless-stopped \
+  --net=host \
+  -v /opt/mpd-hls/var:/app/var \
+  -e TZ=Asia/Shanghai \
+  -e RUST_LOG=INFO \
+  -e _RJEM_MALLOC_CONF=background_thread:true,dirty_decay_ms:5000,muzzy_decay_ms:5000 \
+  charmingcheung000/mpd-hls:0.12.5-2606031746
+
+重装：
+
+docker stop mpd-charming
+docker rm mpd-charming
+docker rmi charmingcheung000/mpd-hls
+rm -rf /opt/mpd-hls/var
+mkdir -p /opt/mpd-hls/var
+docker pull charmingcheung000/mpd-hls:latest
+docker run -d \
+  --name mpd-charming \
+  --restart unless-stopped \
+  --net=host \
+  -v /opt/mpd-hls/var:/app/var \
+  -e TZ=Asia/Shanghai \
+  -e RUST_LOG=INFO \
+  -e _RJEM_MALLOC_CONF=background_thread:true,dirty_decay_ms:5000,muzzy_decay_ms:5000 \
+  charmingcheung000/mpd-hls:latest
+
+注意：自动更新最新版本时，如发生不能用，需删除var 目录里的旧配置和数据库与新版本不兼容，删干净重装就好了。
+
+rm -rf /opt/mpd-hls/var
+mkdir -p /opt/mpd-hls/var
+
 第三阶段：获取并修改初始密码
-1 看日志：执行 ⁠docker logs mpd-charming⁠。
+1 看日志：执行 ⁠docker logs mpd-charming⁠(改为：cat /opt/mpd-hls/var/admin_initial_credentials.txt）
+
 2 找密码：在日志开头寻找 ⁠Initial admin password is: xxxxxx⁠。
 3 登录后台：浏览器打开 ⁠http://192.168.3.100:9100⁠。
 4 改密码（必做）：进入 用户管理/设置，把随机密码改成你常用的。
 5，用户名，admin
 
 第四步，自动更新
+
 docker run -d \
   --name watchtower \
   --restart unless-stopped \
