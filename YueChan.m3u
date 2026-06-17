@@ -141,7 +141,7 @@ http://cdn6.163189.xyz/163189/fhzw
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 group-title="港台频道",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 group-title="港台频道",Astro AOD
+#EXTINF:-1 tvg-logo="https://epg.pw/logo/astro_aod.png" group-title="港台频道",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-logo="https://epg.pw/logo/astro_aec.png" group-title="港台频道",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
