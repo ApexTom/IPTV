@@ -15,7 +15,8 @@ LOGO_MAP = {
     "Astro AOD": "https://cdn.jsdelivr.net/gh/Jack123liang/iptv-proxy@main/logos/Astro_AOD.png",
     "tvN": "https://cdn.jsdelivr.net/gh/Jack123liang/iptv-proxy@main/logos/tvN.png",
     "HBO喜剧": "https://cdn.jsdelivr.net/gh/Jack123liang/iptv-proxy@main/logos/HBO_Comedy.png",
-    
+    "CH5": "https://cdn.jsdelivr.net/gh/Jack123liang/iptv-proxy@main/logos/logos/CH5.png"
+    "CH8": "https://cdn.jsdelivr.net/gh/Jack123liang/iptv-proxy@main/logos/logos/CH8.png"
     # 如果后续有其他频道需要，只需在下方 sync_logos 里添加映射，并在这一步对齐本地标准命名即可
 }
 
@@ -95,7 +96,8 @@ def sync_logos():
     LOGOS_TO_DOWNLOAD = {
         "logos/Astro_AOD.png": "https://tvlogo-282.pages.dev/logos/astro/AstroAOD_2024.png",
         "logos/tvN.png": "https://tvlogo-282.pages.dev/logos/astro/tvN_2021.png",
-        
+        "logos/CH5.png": "https://tvlogo-282.pages.dev/logos/starhub/102_1920x1080_HTV.png"
+        "logos/CH8.png": "https://tvlogo-282.pages.dev/logos/starhub/103_1920x1080_HTV.png"
         # 举例：如果对方的 HBO 喜剧是那串 UUID，直接这样映射，下载下来就变成规整的 HBO_Comedy.png 了
         "logos/HBO_Comedy.png": "https://tvlogo-282.pages.dev/logos/Singtel/2466716e-1aef-4367-82cc-6b795c1ce870.png",
     }
