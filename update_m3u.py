@@ -7,19 +7,50 @@ SOURCES = [
     "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
 ]
 
-# 境外/特色频道 台标自定义映射表
+# 扩展后的境外/特色频道/港台频道 台标自定义映射表
 LOGO_MAP = {
+    # === [港台与东南亚频道] ===
+    "无线新闻": "https://epg.pw/logo/tvb_news.png",
+    "TVBS亚洲": "https://epg.pw/logo/tvbs_asia.png",
+    "NOW新闻": "https://epg.pw/logo/now_news.png",
+    "Astro AEC": "https://epg.pw/logo/astro_aec.png",
+    "CH5": "https://epg.pw/logo/mediacorp_ch5.png",
+    "CH8": "https://epg.pw/logo/mediacorp_ch8.png",
+    "CHU": "https://epg.pw/logo/channel_u.png",
+
+    # === [HBO 与 经典电影/纪录片] ===
     "HBO喜剧": "https://epg.pw/logo/hbo_comedy.png",
     "HBO Comedy": "https://epg.pw/logo/hbo_comedy.png",
     "HBO": "https://epg.pw/logo/hbo.png",
     "国家地理": "https://epg.pw/logo/national_geographic.png",
     "Discovery": "https://epg.pw/logo/discovery.png",
     "探索频道": "https://epg.pw/logo/discovery.png",
+    
+    # === [国际 FAST / 影视轮播台 (image_5 对应)] ===
+    "Romance Movies": "https://epg.pw/logo/pluto_tv_romance_movies.png",
+    "Drama Movies": "https://epg.pw/logo/pluto_tv_drama_movies.png",
+    "Thriller TV": "https://epg.pw/logo/pluto_tv_thriller.png",
+    "Comedy TV": "https://epg.pw/logo/comedy_central.png",
+    "Sony One FAVES": "https://epg.pw/logo/sony_one.png",
+    "Sony One Dragons": "https://epg.pw/logo/sony_one.png", # 兼容 Sony One Dragons' Den
+    "Great British Menu": "https://epg.pw/logo/great_british_menu.png",
+    "Icon Film": "https://epg.pw/logo/icon_film_channel.png",
+    "Popflix": "https://epg.pw/logo/popflix.png",
+    "LG 1 Film": "https://epg.pw/logo/lg_channels.png",
+    "LG 1 Spotlight": "https://epg.pw/logo/lg_channels.png",
+    "LG 1": "https://epg.pw/logo/lg_channels.png",
+    "GoUSA TV": "https://epg.pw/logo/gousa_tv.png",
+    "Inside Outside": "https://epg.pw/logo/inside_outside.png",
+    "SBS Drama": "https://epg.pw/logo/sbs_drama.png",
+    "New Kmovies": "https://epg.pw/logo/new_kmovies.png",
+
+    # === [CGTN 系列] ===
     "CGTN俄语": "https://epg.pw/logo/cgtnrussian.png",
     "CGTN阿语": "https://epg.pw/logo/cgtnarabic.png",
     "CGTN阿拉伯语": "https://epg.pw/logo/cgtnarabic.png",
     "CGTN": "https://epg.pw/logo/cgtn.png",
 }
+
 
 def fetch_and_merge():
     merged_channels = []
