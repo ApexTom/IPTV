@@ -1,5 +1,6 @@
 import requests
 import re
+import os
 
 # 原始直播源 URL
 SOURCES = [
@@ -7,96 +8,20 @@ SOURCES = [
     "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
 ]
 
+# 统一使用你自己的 Jack123liang/iptv-proxy 仓库的 jsDelivr CDN 加速直链
+# 彻底废弃所有无法访问的 epg.pw 链接
 LOGO_MAP = {
-    # === 地方/特色/4K频道 精准修复 ===
-    "宁夏文旅": "https://epg.pw/logo/ningxiatv.png",
-    "武术频道": "https://epg.pw/logo/wushu.png",
-    "河南曲艺": "https://epg.pw/logo/henantv.png",
-    "梨园频道": "https://epg.pw/logo/liyuan.png",
-    "教科影院": "https://epg.pw/logo/chinasat.png",
-    "少儿频道": "https://epg.pw/logo/chinasat.png",
-    "经济生活": "https://epg.pw/logo/chinasat.png",
-    "苏州娱乐": "https://epg.pw/logo/suzhoutv.png",
-    "南京少儿": "https://epg.pw/logo/nanjingtv.png",
-    "南宁新闻": "https://epg.pw/logo/nanningtv.png",
-    "南宁文旅": "https://epg.pw/logo/nanningtv.png",
-    "南宁娱乐": "https://epg.pw/logo/nanningtv.png",
-    "河北4K": "https://epg.pw/logo/hebeitv.png",
-    "看东方4K": "https://epg.pw/logo/dfws.png",
-    "苏州4K": "https://epg.pw/logo/suzhoutv.png",
-
-    # === 港台大台与境外电影/纪实 (HBO / Cinemax / LMN 等) ===
-    "Astro AEC": "https://epg.pw/logo/astro_aec.png",
-    "Astro AOD": "https://tvlogo-282.pages.dev/logos/astro/AstroAOD_2024.png",
-    "无线新闻": "https://epg.pw/logo/tvb_news.png",
-    "TVBS亚洲": "https://epg.pw/logo/tvbs_asia.png",
-    "NOW新闻": "https://epg.pw/logo/now_news.png",
-    "CH5": "https://epg.pw/logo/mediacorp_ch5.png",
-    "CH8": "https://epg.pw/logo/mediacorp_ch8.png",
-    "CHU": "https://epg.pw/logo/channel_u.png",
-    "HBO喜剧": "https://tvlogo-282.pages.dev/logos/starhub/602_1920x1080_HTV.png",
-    "HBO精选": "https://tvlogo-282.pages.dev/logos/starhub/603_1920x1080_HTV.png",
-    "HBO王牌": "https://tvlogo-282.pages.dev/logos/starhub/605_1920x1080_HTV.png",
-    "Cinemax精选": "https://tvlogo-282.pages.dev/logos/starhub/611_1920x1080_HTV.png",
-    "LMN": "https://epg.pw/logo/lifetime_movies.png",
-
-    # === 国际 FAST 影视频道 (image_4, 15, 16 对应) ===
-    "Romance Movies": "https://epg.pw/logo/pluto_tv_romance_movies.png",
-    "Drama Movies": "https://epg.pw/logo/pluto_tv_drama_movies.png",
-    "Thriller TV": "https://epg.pw/logo/pluto_tv_thriller.png",
-    "Comedy TV": "https://epg.pw/logo/comedy_central.png",
-    "Action Movies": "https://epg.pw/logo/pluto_tv_action_movies.png",
-    "Comedy Movies": "https://epg.pw/logo/pluto_tv_comedy_movies.png",
-    "Thrillers": "https://epg.pw/logo/pluto_tv_thrillers.png",
-    "Sci-Fi": "https://epg.pw/logo/pluto_tv_sci_fi.png",
-    "Top Movies": "https://epg.pw/logo/pluto_tv_movies.png",
-    "MovieSphere": "https://epg.pw/logo/moviesphere.png",
-    "Action Hollywood": "https://epg.pw/logo/hollywood_action_movies.png",
-    "Mytime Movie": "https://epg.pw/logo/mytime_movie_network.png",
-    "Sony One FAVES": "https://epg.pw/logo/sony_one.png",
-    "Sony One Dragons' Den": "https://epg.pw/logo/sony_one.png",
-    "Sony One Action HITS": "https://epg.pw/logo/sony_one.png",
-    "Sony One Comedy HITS": "https://epg.pw/logo/sony_one.png",
-    "Great British Menu": "https://epg.pw/logo/great_british_menu.png",
-    "Icon Film Channel": "https://epg.pw/logo/icon_film_channel.png",
-    "Popflix": "https://epg.pw/logo/popflix.png",
-    "LG 1 Film": "https://epg.pw/logo/lg_channels.png",
-    "LG 1 Spotlight": "https://epg.pw/logo/lg_channels.png",
-    "LG 1": "https://epg.pw/logo/lg_channels.png",
-    "Universal Action": "https://epg.pw/logo/universal_action.png",
-    "Universal Western": "https://epg.pw/logo/universal_westerns.png",
-    "Universal Crime": "https://epg.pw/logo/universal_crime.png",
-    "Universal Movies": "https://epg.pw/logo/universal_movies.png",
-    "Universal Monsters": "https://epg.pw/logo/universal_monsters.png",
-
-    # === 国际新闻与综合综合 ===
-    "GoUSA TV": "https://epg.pw/logo/gousa_tv.png",
-    "Inside Outside": "https://epg.pw/logo/inside_outside.png",
-    "SBS Drama": "https://epg.pw/logo/sbs_drama.png",
-    "New Kmovies": "https://epg.pw/logo/new_kmovies.png",
-    "ION Plus": "https://epg.pw/logo/ion_plus.png",
-    "History Hit": "https://epg.pw/logo/history_hit.png",
-    "Kartoon Channel": "https://epg.pw/logo/kartoon_channel.png",
-    "WION": "https://epg.pw/logo/wion.png",
-    "Newsy": "https://epg.pw/logo/scripps_news.png",
-    "Redbull": "https://epg.pw/logo/red_bull_tv.png",
-    "HollyWire": "https://epg.pw/logo/hollywire.png",
-    "Wild Earth": "https://epg.pw/logo/wildearth.png",
-    "Global News": "https://epg.pw/logo/global_news.png",
-    "NBC News Now": "https://epg.pw/logo/nbc_news_now.png",
-    "One American News": "https://epg.pw/logo/oan.png",
-    "Big Ten Network": "https://epg.pw/logo/btn.png",
-    "GB News": "https://epg.pw/logo/gb_news.png",
-    "RT News": "https://epg.pw/logo/rt.png",
-    "NEWSMAX": "https://epg.pw/logo/newsmax.png",
+    # === 境外核心频道 (使用你本地重命名规范化后的图标) ===
+    "Astro AOD": "https://cdn.jsdelivr.net/gh/Jack123liang/iptv-proxy@main/logos/Astro_AOD.png",
+    "tvN": "https://cdn.jsdelivr.net/gh/Jack123liang/iptv-proxy@main/logos/tvN.png",
+    "HBO喜剧": "https://cdn.jsdelivr.net/gh/Jack123liang/iptv-proxy@main/logos/HBO_Comedy.png",
+    
+    # 如果后续有其他频道需要，只需在下方 sync_logos 里添加映射，并在这一步对齐本地标准命名即可
 }
-
-
-
 
 def fetch_and_merge():
     merged_channels = []
-    seen_urls = set()  # 用于根据播放链接去重
+    seen_urls = set()
 
     for url in SOURCES:
         try:
@@ -134,22 +59,21 @@ def process_and_save(channels, output_file="YueChan.m3u"):
         for extinf, url in channels:
             logo_url = None
             
-            # --- 1. 正则匹配 CCTV 系列，去除短横线、规范化显示名称并赋台标 ---
+            # --- 1. 正则匹配 CCTV 系列（如需要分配本地台标，可后续将 cctv 改为你自己的本地库路径） ---
             cctv_match = re.search(r'CCTV[-_ ]*(\d+[\s\+\w\u4e00-\u9fa5]*)', extinf, re.IGNORECASE)
             if cctv_match:
                 raw_num = re.search(r'\d+\+?', cctv_match.group(1))
                 if raw_num:
                     num_str = raw_num.group(0)
                     cctv_num = num_str.replace('+', 'plus')
+                    # 如果 epg.pw 完全挂了，这里可以暂时先保留，或者后续有需要也放进本地 logos 目录
                     logo_url = f'https://epg.pw/logo/cctv{cctv_num}.png'
-                    
-                    # 清洗频道显示名称，把 "CCTV-1综合" 规范化为 "CCTV1"
                     extinf = re.sub(r',CCTV[-_ ]*\d+.*$', f',CCTV{num_str}', extinf, flags=re.IGNORECASE)
 
-            # --- 2. 匹配境外/特殊频道的 LOGO_MAP ---
+            # --- 2. 匹配自定义频道的 LOGO_MAP ---
             if not logo_url:
                 for keyword, l_url in LOGO_MAP.items():
-                    if keyword in extinf:
+                    if keyword.lower() in extinf.lower():
                         logo_url = l_url
                         break
             
@@ -163,37 +87,36 @@ def process_and_save(channels, output_file="YueChan.m3u"):
             
     print(f"合并完成！已成功保存至 {output_file}，共 {len(channels)} 个频道。")
 
+# --- 4. 自动化下载：把对方乱七八糟的命名，在下载时规范化为你自己的标准名字 ---
+def sync_logos():
+    os.makedirs("logos", exist_ok=True)
+
+    # 左右对应：【你本地仓库规范化的标准路径】: 【对方网站真实的、古怪的链接】
+    LOGOS_TO_DOWNLOAD = {
+        "logos/Astro_AOD.png": "https://tvlogo-282.pages.dev/logos/astro/AstroAOD_2024.png",
+        "logos/tvN.png": "https://tvlogo-282.pages.dev/logos/astro/tvN_2021.png",
+        
+        # 举例：如果对方的 HBO 喜剧是那串 UUID，直接这样映射，下载下来就变成规整的 HBO_Comedy.png 了
+        "logos/HBO_Comedy.png": "https://tvlogo-282.pages.dev/logos/Singtel/2466716e-1aef-4367-82cc-6b795c1ce870.png",
+    }
+
+    for local_path, remote_url in LOGOS_TO_DOWNLOAD.items():
+        try:
+            print(f"正在抓取并规范化远程台标: {remote_url}")
+            r = requests.get(remote_url, timeout=10)
+            if r.status_code == 200:
+                with open(local_path, "wb") as f:
+                    f.write(r.content)
+                print(f"台标同步并规范化成功: {local_path}")
+            else:
+                print(f"该远程台标下载失败，状态码: {r.status_code}")
+        except Exception as e:
+            print(f"同步发生错误: {e}")
+
 if __name__ == "__main__":
     channels = fetch_and_merge()
     if channels:
         process_and_save(channels)
+        sync_logos()
     else:
         print("未获取到任何有效的直播源数据。")
-
-import os
-import requests
-
-# 创建本地存放台标的文件夹
-os.makedirs("logos/Astro", exist_ok=True)
-os.makedirs("logos/StarHub", exist_ok=True)
-
-# 定义你需要强行据为己有的台标清单（直接绕过它的 JS，精准抓取绝对直链）
-LOGOS_TO_DOWNLOAD = {
-    "logos/Astro/Astro AOD.png": "https://tvlogo-282.pages.dev/Astro/Astro%20AOD.png",
-    "logos/StarHub/HBO Hits.png": "https://tvlogo-282.pages.dev/StarHub/HBO%20Hits.png",
-    "logos/StarHub/HBO Family.png": "https://tvlogo-282.pages.dev/StarHub/HBO%20Family.png",
-}
-
-for local_path, remote_url in LOGOS_TO_DOWNLOAD.items():
-    try:
-        print(f"正在同步台标: {remote_url}")
-        r = requests.get(remote_url, timeout=10)
-        if r.status_code == 200:
-            with open(local_path, "wb") as f:
-                f.write(r.content)
-            print(f"同步成功: {local_path}")
-        else:
-            print(f"下载失败，状态码: {r.status_code}")
-    except Exception as e:
-        print(f"发生错误: {e}")
-
