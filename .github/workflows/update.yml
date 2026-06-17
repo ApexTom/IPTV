@@ -31,15 +31,14 @@ jobs:
       run: |
         python update_m3u.py
 
-        - name: Commit and Push changes
+    - name: Commit and Push changes
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         
-        # 🌟 关键就在这里：使用 git add . 把生成的 .m3u 和 logos 文件夹全部包进来
+        # 使用 git add . 把新生成的 .m3u 和 logos 文件夹全加进来
         git add .
         
         # 只有在有文件变动时才提交，防止没有更新时报错导致 Action 变红
         git commit -m "Auto Update M3U and backup logos" || echo "No changes to commit"
         git push
-
