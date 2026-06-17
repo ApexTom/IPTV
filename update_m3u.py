@@ -92,28 +92,38 @@ def process_and_save(channels, output_file="YueChan.m3u"):
 def sync_logos():
     os.makedirs("logos", exist_ok=True)
 
-    # 左右对应：【你本地仓库规范化的标准路径】: 【对方网站真实的、古怪的链接】
     LOGOS_TO_DOWNLOAD = {
         "logos/Astro_AOD.png": "https://tvlogo-282.pages.dev/logos/astro/AstroAOD_2024.png",
         "logos/tvN.png": "https://tvlogo-282.pages.dev/logos/astro/tvN_2021.png",
+        "logos/HBO_Comedy.png": "https://tvlogo-282.pages.dev/logos/Singtel/2466716e-1aef-4367-82cc-6b795c1ce870.png",
         "logos/CH5.png": "https://tvlogo-282.pages.dev/logos/starhub/102_1920x1080_HTV.png"
         "logos/CH8.png": "https://tvlogo-282.pages.dev/logos/starhub/103_1920x1080_HTV.png"
-        # 举例：如果对方的 HBO 喜剧是那串 UUID，直接这样映射，下载下来就变成规整的 HBO_Comedy.png 了
-        "logos/HBO_Comedy.png": "https://tvlogo-282.pages.dev/logos/Singtel/2466716e-1aef-4367-82cc-6b795c1ce870.png",
     }
 
     for local_path, remote_url in LOGOS_TO_DOWNLOAD.items():
         try:
-            print(f"正在抓取并规范化远程台标: {remote_url}")
+            print(f"正在尝试同步远程台标: {remote_url}")
+            
+            # 发起请求
             r = requests.get(remote_url, timeout=10)
+            
+            # 🌟 关键核心防护：只有状态码明确为 200（代表图片真实存在且下载成功）时，才覆盖本地文件
             if r.status_code == 200:
                 with open(local_path, "wb") as f:
                     f.write(r.content)
-                print(f"台标同步并规范化成功: {local_path}")
+                print(f"【成功】台标已同步并安全覆盖: {local_path}")
             else:
-                print(f"该远程台标下载失败，状态码: {r.status_code}")
+                # 🌟 如果对方换了链接返回 404，或者服务器崩了，触发此保护机制
+                print(f"【⚠️警告】远程台标失效或更名（状态码: {r.status_code}）！")
+                if os.path.exists(local_path):
+                    print(f"保护机制生效：已拒绝覆盖，完美保留仓库原有的历史图标：{local_path}")
+                else:
+                    print(f"本地暂无此图标备份，请检查远程链接是否正确。")
+                    
         except Exception as e:
-            print(f"同步发生错误: {e}")
+            # 网络超时、断网等极端情况，同样完好保留本地原有文件
+            print(f"【⚠️错误】网络请求失败: {e}。保护机制生效，保留本地原有图标。")
+
 
 if __name__ == "__main__":
     channels = fetch_and_merge()
