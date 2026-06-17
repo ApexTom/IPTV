@@ -27,6 +27,7 @@ LOGO_MAP = {
 
     # === 港台大台与境外电影/纪实 (HBO / Cinemax / LMN 等) ===
     "Astro AEC": "https://epg.pw/logo/astro_aec.png",
+    "Astro AOD": "https://epg.pw/logo/astro_aod.png",
     "无线新闻": "https://epg.pw/logo/tvb_news.png",
     "TVBS亚洲": "https://epg.pw/logo/tvbs_asia.png",
     "NOW新闻": "https://epg.pw/logo/now_news.png",
