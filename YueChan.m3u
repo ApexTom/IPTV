@@ -231,7 +231,7 @@ http://feilong123.vip/409990236/tv.php?id=sswx
 http://feilong123.vip/409990236/tv.php?id=ssxj
 #EXTINF:-1 group-title="港台频道",AMC电影台
 https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
-#EXTINF:-1 tvg-logo="https://epg.pw/logo/hbo_comedy.png" group-title="港台频道",HBO喜剧
+#EXTINF:-1 tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/602_1920x1080_HTV.png" group-title="港台频道",HBO喜剧
 http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="港台频道",HBO
 http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
@@ -239,13 +239,13 @@ http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/logo/lifetime_movies.png" group-title="港台频道",LMN
 http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/logo/hbo_signature.png" group-title="港台频道",HBO精选
+#EXTINF:-1 tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/603_1920x1080_HTV.png" group-title="港台频道",HBO精选
 http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/logo/cinemax.png" group-title="港台频道",Cinemax精选
+#EXTINF:-1 tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/611_1920x1080_HTV.png" group-title="港台频道",Cinemax精选
 http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
 #EXTINF:-1 group-title="港台频道",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/logo/hbo_hits.png" group-title="港台频道",HBO王牌
+#EXTINF:-1 tvg-logo="https://tvlogo-282.pages.dev/logos/starhub/605_1920x1080_HTV.png" group-title="港台频道",HBO王牌
 http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/logo/hebeitv.png" group-title="地方频道",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
