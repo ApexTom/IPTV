@@ -169,3 +169,31 @@ if __name__ == "__main__":
         process_and_save(channels)
     else:
         print("未获取到任何有效的直播源数据。")
+
+import os
+import requests
+
+# 创建本地存放台标的文件夹
+os.makedirs("logos/Astro", exist_ok=True)
+os.makedirs("logos/StarHub", exist_ok=True)
+
+# 定义你需要强行据为己有的台标清单（直接绕过它的 JS，精准抓取绝对直链）
+LOGOS_TO_DOWNLOAD = {
+    "logos/Astro/Astro AOD.png": "https://tvlogo-282.pages.dev/Astro/Astro%20AOD.png",
+    "logos/StarHub/HBO Hits.png": "https://tvlogo-282.pages.dev/StarHub/HBO%20Hits.png",
+    "logos/StarHub/HBO Family.png": "https://tvlogo-282.pages.dev/StarHub/HBO%20Family.png",
+}
+
+for local_path, remote_url in LOGOS_TO_DOWNLOAD.items():
+    try:
+        print(f"正在同步台标: {remote_url}")
+        r = requests.get(remote_url, timeout=10)
+        if r.status_code == 200:
+            with open(local_path, "wb") as f:
+                f.write(r.content)
+            print(f"同步成功: {local_path}")
+        else:
+            print(f"下载失败，状态码: {r.status_code}")
+    except Exception as e:
+        print(f"发生错误: {e}")
+
