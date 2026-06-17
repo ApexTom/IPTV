@@ -34,10 +34,10 @@ LOGO_MAP = {
     "CH5": "https://epg.pw/logo/mediacorp_ch5.png",
     "CH8": "https://epg.pw/logo/mediacorp_ch8.png",
     "CHU": "https://epg.pw/logo/channel_u.png",
-    "HBO喜剧": "https://epg.pw/logo/hbo_comedy.png",
-    "HBO精选": "https://epg.pw/logo/hbo_signature.png",
-    "HBO王牌": "https://epg.pw/logo/hbo_hits.png",
-    "Cinemax精选": "https://epg.pw/logo/cinemax.png",
+    "HBO喜剧": "https://tvlogo-282.pages.dev/logos/starhub/602_1920x1080_HTV.png",
+    "HBO精选": "https://tvlogo-282.pages.dev/logos/starhub/603_1920x1080_HTV.png",
+    "HBO王牌": "https://tvlogo-282.pages.dev/logos/starhub/605_1920x1080_HTV.png",
+    "Cinemax精选": "https://tvlogo-282.pages.dev/logos/starhub/611_1920x1080_HTV.png",
     "LMN": "https://epg.pw/logo/lifetime_movies.png",
 
     # === 国际 FAST 影视频道 (image_4, 15, 16 对应) ===
