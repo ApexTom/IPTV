@@ -1,0 +1,46 @@
+name: Auto Merge and Fix IPTV M3U
+
+on:
+  schedule:
+    # 每天 UTC 20:00 运行（对应北京时间凌晨 04:00）
+    - cron: '0 20 * * *'
+  workflow_dispatch: # 支持手动点击按钮触发
+
+permissions:
+  contents: write # 给予 Action 推送代码进仓库的权限
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run Merge and Clean Script
+      run: |
+        python update_m3u.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # 检查文件是否有变动，有变动才提交
+        if [ -n "$(git status --porcelain YueChan.m3u)" ]; then
+          git add YueChan.m3u
+          git commit -m "⚙️ Auto-updated YueChan.m3u with verified logos"
+          git push
+        else
+          echo "No changes detected in M3U file."
+        fi
