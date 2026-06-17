@@ -7,35 +7,55 @@ SOURCES = [
     "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
 ]
 
-# 全面扩充后的台标自定义映射表（覆盖国内地方、港台、国际、欧美轮播台）
 LOGO_MAP = {
-    # ==========================================
-    # 1. 港台、国际大台与欧美影视电影 (image_10, 11, 14, 15)
-    # ==========================================
+    # === 地方/特色/4K频道 精准修复 ===
+    "宁夏文旅": "https://epg.pw/logo/ningxiatv.png",
+    "武术频道": "https://epg.pw/logo/wushu.png",
+    "河南曲艺": "https://epg.pw/logo/henantv.png",
+    "梨园频道": "https://epg.pw/logo/liyuan.png",
+    "教科影院": "https://epg.pw/logo/chinasat.png",
+    "少儿频道": "https://epg.pw/logo/chinasat.png",
+    "经济生活": "https://epg.pw/logo/chinasat.png",
+    "苏州娱乐": "https://epg.pw/logo/suzhoutv.png",
+    "南京少儿": "https://epg.pw/logo/nanjingtv.png",
+    "南宁新闻": "https://epg.pw/logo/nanningtv.png",
+    "南宁文旅": "https://epg.pw/logo/nanningtv.png",
+    "南宁娱乐": "https://epg.pw/logo/nanningtv.png",
+    "河北4K": "https://epg.pw/logo/hebeitv.png",
+    "看东方4K": "https://epg.pw/logo/dfws.png",
+    "苏州4K": "https://epg.pw/logo/suzhoutv.png",
+
+    # === 港台大台与境外电影/纪实 (HBO / Cinemax / LMN 等) ===
+    "Astro AEC": "https://epg.pw/logo/astro_aec.png",
+    "无线新闻": "https://epg.pw/logo/tvb_news.png",
+    "TVBS亚洲": "https://epg.pw/logo/tvbs_asia.png",
+    "NOW新闻": "https://epg.pw/logo/now_news.png",
+    "CH5": "https://epg.pw/logo/mediacorp_ch5.png",
+    "CH8": "https://epg.pw/logo/mediacorp_ch8.png",
+    "CHU": "https://epg.pw/logo/channel_u.png",
     "HBO喜剧": "https://epg.pw/logo/hbo_comedy.png",
     "HBO精选": "https://epg.pw/logo/hbo_signature.png",
     "HBO王牌": "https://epg.pw/logo/hbo_hits.png",
     "Cinemax精选": "https://epg.pw/logo/cinemax.png",
     "LMN": "https://epg.pw/logo/lifetime_movies.png",
-    "Universal Monsters": "https://epg.pw/logo/universal_monsters.png",
+
+    # === 国际 FAST 影视频道 (image_4, 15, 16 对应) ===
+    "Romance Movies": "https://epg.pw/logo/pluto_tv_romance_movies.png",
+    "Drama Movies": "https://epg.pw/logo/pluto_tv_drama_movies.png",
+    "Thriller TV": "https://epg.pw/logo/pluto_tv_thriller.png",
+    "Comedy TV": "https://epg.pw/logo/comedy_central.png",
     "Action Movies": "https://epg.pw/logo/pluto_tv_action_movies.png",
     "Comedy Movies": "https://epg.pw/logo/pluto_tv_comedy_movies.png",
-    "Drama Movies": "https://epg.pw/logo/pluto_tv_drama_movies.png",
-    "Romance Movies": "https://epg.pw/logo/pluto_tv_romance_movies.png",
-    "Sci-Fi": "https://epg.pw/logo/pluto_tv_sci_fi.png",
     "Thrillers": "https://epg.pw/logo/pluto_tv_thrillers.png",
+    "Sci-Fi": "https://epg.pw/logo/pluto_tv_sci_fi.png",
     "Top Movies": "https://epg.pw/logo/pluto_tv_movies.png",
     "MovieSphere": "https://epg.pw/logo/moviesphere.png",
     "Action Hollywood": "https://epg.pw/logo/hollywood_action_movies.png",
     "Mytime Movie": "https://epg.pw/logo/mytime_movie_network.png",
-    
-    # ==========================================
-    # 2. 国际综合、纪实与新闻频道 (image_10, 11, 12, 13)
-    # ==========================================
-    "GoUSA TV": "https://epg.pw/logo/gousa_tv.png",
-    "Inside Outside": "https://epg.pw/logo/inside_outside.png",
-    "SBS Drama": "https://epg.pw/logo/sbs_drama.png",
-    "New Kmovies": "https://epg.pw/logo/new_kmovies.png",
+    "Sony One FAVES": "https://epg.pw/logo/sony_one.png",
+    "Sony One Dragons' Den": "https://epg.pw/logo/sony_one.png",
+    "Sony One Action HITS": "https://epg.pw/logo/sony_one.png",
+    "Sony One Comedy HITS": "https://epg.pw/logo/sony_one.png",
     "Great British Menu": "https://epg.pw/logo/great_british_menu.png",
     "Icon Film Channel": "https://epg.pw/logo/icon_film_channel.png",
     "Popflix": "https://epg.pw/logo/popflix.png",
@@ -46,10 +66,13 @@ LOGO_MAP = {
     "Universal Western": "https://epg.pw/logo/universal_westerns.png",
     "Universal Crime": "https://epg.pw/logo/universal_crime.png",
     "Universal Movies": "https://epg.pw/logo/universal_movies.png",
-    "Sony One FAVES": "https://epg.pw/logo/sony_one.png",
-    "Sony One Dragons": "https://epg.pw/logo/sony_one.png",
-    "Sony One Action": "https://epg.pw/logo/sony_one.png",
-    "Sony One Comedy": "https://epg.pw/logo/sony_one.png",
+    "Universal Monsters": "https://epg.pw/logo/universal_monsters.png",
+
+    # === 国际新闻与综合综合 ===
+    "GoUSA TV": "https://epg.pw/logo/gousa_tv.png",
+    "Inside Outside": "https://epg.pw/logo/inside_outside.png",
+    "SBS Drama": "https://epg.pw/logo/sbs_drama.png",
+    "New Kmovies": "https://epg.pw/logo/new_kmovies.png",
     "ION Plus": "https://epg.pw/logo/ion_plus.png",
     "History Hit": "https://epg.pw/logo/history_hit.png",
     "Kartoon Channel": "https://epg.pw/logo/kartoon_channel.png",
@@ -65,28 +88,8 @@ LOGO_MAP = {
     "GB News": "https://epg.pw/logo/gb_news.png",
     "RT News": "https://epg.pw/logo/rt.png",
     "NEWSMAX": "https://epg.pw/logo/newsmax.png",
-
-    # ==========================================
-    # 3. 国内地方频道精准修复 (image_12, 13, 14, 15)
-    # ==========================================
-    "宁夏文旅": "https://epg.pw/logo/ningxiatv.png",
-    "梨园频道": "https://epg.pw/logo/liyuan.png",
-    "武术频道": "https://epg.pw/logo/wushu.png",
-    "河南曲艺": "https://epg.pw/logo/henantv.png",
-    "教科影院": "https://epg.pw/logo/chinasat.png",
-    "民生休闲": "https://epg.pw/logo/zhejiangtv.png",
-    "浙江新闻": "https://epg.pw/logo/zhejiangtv.png",
-    "少儿频道": "https://epg.pw/logo/chinasat.png",  # 地方通用少儿
-    "经济生活": "https://epg.pw/logo/chinasat.png",  # 地方通用经济
-    "苏州娱乐": "https://epg.pw/logo/suzhoutv.png",
-    "南京少儿": "https://epg.pw/logo/nanjingtv.png",
-    "南宁新闻": "https://epg.pw/logo/nanningtv.png",
-    "南宁文旅": "https://epg.pw/logo/nanningtv.png",
-    "南宁娱乐": "https://epg.pw/logo/nanningtv.png",
-    "河北4K": "https://epg.pw/logo/hebeitv.png",
-    "看东方4K": "https://epg.pw/logo/dfws.png",
-    "苏州4K": "https://epg.pw/logo/suzhoutv.png",
 }
+
 
 
 
