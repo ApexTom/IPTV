@@ -7,6 +7,7 @@ LOGOS_TO_DOWNLOAD = {
     # === 央视 CCTV 系列：来自 fanmingming/live 公益台标库 ===
     "TVB功夫.png": "https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png",
     "Cinemax.png": "https://tvlogo-282.pages.dev/logos/starhub/611_1920x1080_HTV.png",
+    "LMN.png": "https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png",
 }
 
 def fetch_with_retry(url, retries=2, timeout=10):
