@@ -33,7 +33,7 @@ http://207.56.13.146:81/cdnlive/cctv15.m3u8
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV17.png" group-title="央视频道",CCTV-17农业农村
 http://207.56.13.146:81/cdnlive/cctv17.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV5+
+#EXTINF:-1 tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5+.png" tvg-name="CCTV5+" group-title="央视频道",CCTV5+
 http://207.56.13.146:81/cdnlive/cctv5p.m3u8
 #EXTINF:-1 group-title="央视频道",兵器科技
 http://207.56.13.146:81/cdnlive/gfjs.m3u8
