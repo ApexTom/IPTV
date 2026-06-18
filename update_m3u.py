@@ -95,13 +95,14 @@ def process_and_save(channels, output_file="YueChan.m3u"):
             logo_url = None
 
             # --- 1. 正则匹配 CCTV 系列 ---
-            # 只标准化 "CCTV-5" / "CCTV_5" 这种前缀写法为 "CCTV5"，
-            # 不再整段替换到行尾，避免吞掉后面的"高清/体育赛事"等描述文字
+            # 只标准化频道名称写法（"CCTV-5"/"CCTV_5" -> "CCTV5"），不注入 tvg-logo。
+            # epg.pw 的台标链接已实测失效（404），不再依赖这个第三方台标源；
+            # CCTV 台标改由 APTV 播放器内置台标库按频道名自动识别。
+            # 同时主动清空源数据里可能自带的 tvg-logo，避免源里的失效链接
+            # 盖过播放器的自动匹配
             cctv_match = re.search(r'CCTV[-_ ]*(\d+\+?)', extinf, re.IGNORECASE)
             if cctv_match:
                 num_str = cctv_match.group(1)
-                cctv_num_for_logo = num_str.replace('+', 'plus')
-                logo_url = f'https://epg.pw/logo/cctv{cctv_num_for_logo}.png'
                 extinf = re.sub(
                     r'CCTV[-_ ]*\d+\+?',
                     f'CCTV{num_str}',
@@ -109,6 +110,8 @@ def process_and_save(channels, output_file="YueChan.m3u"):
                     count=1,
                     flags=re.IGNORECASE
                 )
+                extinf = re.sub(r'tvg-logo="[^"]*"', '', extinf)
+                extinf = re.sub(r'\s+', ' ', extinf).replace(' ,', ',').strip()
 
             # --- 2. 匹配自定义频道的 LOGO_MAP ---
             # 只在频道名称字段（最后一个逗号后面的部分）里匹配
