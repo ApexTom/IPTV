@@ -16,7 +16,7 @@ LOGO_MAP = {
     "tvN": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy@main/logos/tvN.png",
     "HBO喜剧": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy@main/logos/HBO_Comedy.png",
     "CH5": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy@main/logos/CH5.png",
-    "CH8": https://raw.githubusercontent.com/Jack123liang/iptv-proxy@main/logos/CH8.png",
+    "CH8": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy@main/logos/CH8.png",
     # 如果后续有其他频道需要，只需在下方 sync_logos 里添加映射，并在这一步对齐本地标准命名即可,
 }
 
