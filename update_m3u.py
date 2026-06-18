@@ -32,6 +32,7 @@ LOGO_MAP = {
     "CCTV-15": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV15.png",
     "CCTV-16": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV16.png",
     "CCTV-17": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV17.png",
+    "体育赛事": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
     # === 境外核心频道（本地重命名规范化后的图标）===
     "Astro AOD": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Astro_AOD.png",
     "tvN": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/tvN.png",
@@ -46,6 +47,10 @@ LOGO_MAP = {
     "天映频道": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/天映.png",
     "Astro AEC": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Astro_AEC.png",
     "ASTRO爱奇艺": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/IQIYI.png",
+    "HOY77": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HOY.png",
+    "HOY78": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HOY.png",
+    "HBO精选": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO王牌.png",
+    "Cinemax精选": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-classics-us.png?",
     # 后续新增频道，只需在此处添加映射，并在 sync_logos.py 里补上对应的远程下载源即可
 }
 
