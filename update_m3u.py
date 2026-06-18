@@ -95,19 +95,18 @@ def process_and_save(channels, output_file="YueChan.m3u"):
             logo_url = None
 
             # --- 1. 正则匹配 CCTV 系列 ---
-            # 只标准化频道名称写法（"CCTV-5"/"CCTV_5" -> "CCTV5"），不注入 tvg-logo。
+            # APTV 内置台标库要求频道名是纯净的 "CCTV2" 这种格式，
+            # 带上"财经"/"高清"等后缀反而匹配不到（实测 "CCTV2财经" 识别失败，
+            # "CCTV2" 识别成功），所以这里把频道名截断为纯 "CCTV{数字}"。
             # epg.pw 的台标链接已实测失效（404），不再依赖这个第三方台标源；
             # CCTV 台标改由 APTV 播放器内置台标库按频道名自动识别。
-            # 同时主动清空源数据里可能自带的 tvg-logo，避免源里的失效链接
-            # 盖过播放器的自动匹配
             cctv_match = re.search(r'CCTV[-_ ]*(\d+\+?)', extinf, re.IGNORECASE)
             if cctv_match:
                 num_str = cctv_match.group(1)
                 extinf = re.sub(
-                    r'CCTV[-_ ]*\d+\+?',
-                    f'CCTV{num_str}',
+                    r',CCTV[-_ ]*\d+\+?[^,]*$',
+                    f',CCTV{num_str}',
                     extinf,
-                    count=1,
                     flags=re.IGNORECASE
                 )
                 extinf = re.sub(r'tvg-logo="[^"]*"', '', extinf)
