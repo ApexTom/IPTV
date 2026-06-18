@@ -7,7 +7,7 @@ LOGOS_TO_DOWNLOAD = {
     # === 央视 CCTV 系列：来自 fanmingming/live 公益台标库 ===
     "Redbull.png": "https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true",
     "TRT_World.png": "https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-world-tr.png?raw=true"
-    "Movie_Sphere.png: "https://moviespheregold.com/assets/img/MovieSphereGold/Moviesphere-Gold-logo.png",
+    "Movie_Sphere.png": "https://moviespheregold.com/assets/img/MovieSphereGold/Moviesphere-Gold-logo.png",
     "HollyWire.png": "https://canalhollywood.pt/wp-content/themes/appx-hello-child/elementor-widgets/assets/logo-CHW-marca-negativo-duotono.svg",
     "Wild_Earth.png": "https://upload.wikimedia.org/wikipedia/commons/6/68/CTV_Wild_Channel_Logo.png",
     "Cinemax.png": "https://tvlogo-282.pages.dev/logos/starhub/611_1920x1080_HTV.png",
