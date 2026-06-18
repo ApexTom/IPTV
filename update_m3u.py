@@ -38,6 +38,7 @@ LOGO_MAP = {
     "HBO喜剧": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO_Comedy.png",
     "CH5": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CH5.png",
     "CH8": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CH8.png",
+    "八度空间": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/8TV.png"
     # 后续新增频道，只需在此处添加映射，并在 sync_logos.py 里补上对应的远程下载源即可
 }
 
