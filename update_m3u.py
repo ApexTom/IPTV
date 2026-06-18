@@ -14,6 +14,7 @@ SOURCES = [
 #  代价是国内访问偶尔会慢，但容错率高，不影响播放本身）
 LOGO_MAP = {
     # === 央视 CCTV 系列（CCTV5+ 必须排在 CCTV5 之前，否则会被 CCTV5 提前命中）===
+    "体育赛事": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
     "CCTV5+": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
     "CCTV-1": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV1.png",
     "CCTV-2": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV2.png",
@@ -32,7 +33,7 @@ LOGO_MAP = {
     "CCTV-15": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV15.png",
     "CCTV-16": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV16.png",
     "CCTV-17": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV17.png",
-    "体育赛事": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
+    
     # === 境外核心频道（本地重命名规范化后的图标）===
     "Astro AOD": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Astro_AOD.png",
     "tvN": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/tvN.png",
@@ -56,7 +57,9 @@ LOGO_MAP = {
     "Big Ten Network": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/big-ten-network-us.png",
     "TRT World": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/TRT_World.png",
     "Redbull": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Redbull.png",
+    "Cinemax精选": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Cinemax.png",
     "Movie Sphere": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Movie_Sphere.png",
+    "LMN": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/LMN.png",
     #后续新增频道，只需在此处添加映射，并在 sync_logos.py 里补上对应的远程下载源即可
 }
 
