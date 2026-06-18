@@ -23,6 +23,8 @@ LOGOS_TO_DOWNLOAD = {
     "CCTV15.png": "https://live.fanmingming.com/tv/CCTV15.png",
     "CCTV16.png": "https://live.fanmingming.com/tv/CCTV16.png",
     "CCTV17.png": "https://live.fanmingming.com/tv/CCTV17.png",
+    "东方卫视.png": "https://static.tv.darwinchow.com/logo/东方卫视.png",
+    "河北卫视.png": "https://static.tv.darwinchow.com/logo/河北卫视.png",
     # === 境外频道 ===
     "Astro_AOD.png": "https://tvlogo-282.pages.dev/logos/astro/AstroAOD_2024.png",
     "Astro AEC.png": "https://tvlogo-282.pages.dev/logos/astro/AstroAOD_2024.png",
@@ -37,6 +39,11 @@ LOGOS_TO_DOWNLOAD = {
     "天映.png": "https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/天映.png",
     "HOY.png": "https://tvlogo-282.pages.dev/logos/HOY/HOY.png",
     "IQIYI.png": "https://tvlogo-282.pages.dev/logos/astro/IQIYI_2022.png",
+    "AMC.png": "https://github.com/fanmingming/live/blob/main/tv/AMC.png",
+    "HBO王牌": "https://tvlogo-282.pages.dev/logos/starhub/603_1920x1080_HTV.png",
+    “HBO家庭”: "https://tvlogo-282.pages.dev/logos/starhub/604_1920x1080_HTV.png",
+    "HBO Hits": "https://tvlogo-282.pages.dev/logos/starhub/605_1920x1080_HTV.png",
+   
     "TVB功夫.png": "https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png",
 }
 
