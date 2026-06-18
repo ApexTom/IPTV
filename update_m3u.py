@@ -25,7 +25,7 @@ BLACKLIST = {
 LOGO_MAP = {
     # === 央视 CCTV 系列（CCTV5+ 必须排在 CCTV5 之前，否则会被 CCTV5 提前命中）===
     #"体育赛事": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
-    #"CCTV5+": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
+    "CCTV5+": "https://static.tv.darwinchow.com/logo/CCTV5+.png",
     "CCTV-1": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV1.png",
     "CCTV-2": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV2.png",
     "CCTV-3": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV3.png",
