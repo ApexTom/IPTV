@@ -12,7 +12,7 @@ SOURCES = [
 # 只要频道名称包含以下关键词（忽略大小写），就会在合并时被自动过滤掉
 BLACKLIST = {
     "CCTV-18",      # 举例：不存在的测试台
-    "CHC购物",      # 举例：购物台
+    "香港面包",      # 举例：购物台
     "测试",         # 过滤带有"测试"字样的频道
     "TEST",
     # 后续不想看的频道，直接在这里追加字符串，记得用逗号隔开即可
@@ -43,7 +43,7 @@ LOGO_MAP = {
     "CCTV-15": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV15.png",
     "CCTV-16": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV16.png",
     "CCTV-17": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV17.png",
-    
+    "看东方4K": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/东方卫视4K.png",
     # === 境外核心频道（本地重命名规范化后的图标）===
     "Astro AOD": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Astro_AOD.png",
     "tvN": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/tvN.png",
@@ -69,6 +69,8 @@ LOGO_MAP = {
     "Cinemax精选": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Cinemax.png",
     "Movie Sphere": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Movie_Sphere.png",
     "LMN": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/LMN.png",
+    "Sony One Comedy HITS": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ComedyHits_ChannelLogo_Horizontal.png",
+    "Sony One Action HITS": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ActionHits_ChannelLogo_Horizontal.png",
     #后续新增频道，只需在此处添加映射，并在 sync_logos.py 里补上对应的远程下载源即可
 }
 
