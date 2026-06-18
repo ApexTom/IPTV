@@ -24,8 +24,8 @@ BLACKLIST = {
 #  代价是国内访问偶尔会慢，但容错率高，不影响播放本身）
 LOGO_MAP = {
     # === 央视 CCTV 系列（CCTV5+ 必须排在 CCTV5 之前，否则会被 CCTV5 提前命中）===
-    "体育赛事": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
-    "CCTV5+": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
+    #"体育赛事": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
+    #"CCTV5+": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
     "CCTV-1": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV1.png",
     "CCTV-2": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV2.png",
     "CCTV-3": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV3.png",
@@ -152,6 +152,8 @@ def process_and_save(channels, output_file="YueChan.m3u"):
 
         for extinf, url in channels:
             logo_url = None
+            if "体育赛事" in extinf:
+                extinf = '#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV5+'
 
             # --- 1. 匹配 LOGO_MAP（含 CCTV 系列 + 境外频道，统一 logic）---
             channel_name = extinf.split(',')[-1] if ',' in extinf else extinf
