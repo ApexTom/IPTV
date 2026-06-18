@@ -43,7 +43,8 @@ LOGOS_TO_DOWNLOAD = {
     "HBO王牌.png": "https://tvlogo-282.pages.dev/logos/starhub/603_1920x1080_HTV.png",
     “HBO家庭.png”: "https://tvlogo-282.pages.dev/logos/starhub/604_1920x1080_HTV.png",
     "HBO_Hits.png": "https://tvlogo-282.pages.dev/logos/starhub/605_1920x1080_HTV.png",
-   
+    "big-ten-network-us.png": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",
+    "NBC_NEW_NOW.png": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/14F5D3B6-FA2C-4E41-91AD-CD037209D874/3-1x1.png",
     "TVB功夫.png": "https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png",
 }
 
