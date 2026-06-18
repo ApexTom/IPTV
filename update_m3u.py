@@ -1,6 +1,5 @@
 import requests
 import re
-import os
 import time
 
 # 原始直播源 URL
@@ -14,29 +13,47 @@ SOURCES = [
 #  考虑到台标图片对实时性要求不高、客户端会本地缓存，直接用 raw 更省事，
 #  代价是国内访问偶尔会慢，但容错率高，不影响播放本身）
 LOGO_MAP = {
+    # === 央视 CCTV 系列（CCTV5+ 必须排在 CCTV5 之前，否则会被 CCTV5 提前命中）===
+    "CCTV5+": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
+    "CCTV1": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV1.png",
+    "CCTV2": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV2.png",
+    "CCTV3": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV3.png",
+    "CCTV4": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV4.png",
+    "CCTV5": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5.png",
+    "CCTV6": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV6.png",
+    "CCTV7": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV7.png",
+    "CCTV8": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV8.png",
+    "CCTV9": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV9.png",
+    "CCTV10": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV10.png",
+    "CCTV11": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV11.png",
+    "CCTV12": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV12.png",
+    "CCTV13": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV13.png",
+    "CCTV14": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV14.png",
+    "CCTV15": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV15.png",
+    "CCTV16": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV16.png",
+    "CCTV17": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV17.png",
     # === 境外核心频道（本地重命名规范化后的图标）===
     "Astro AOD": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Astro_AOD.png",
     "tvN": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/tvN.png",
     "HBO喜剧": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO_Comedy.png",
     "CH5": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CH5.png",
     "CH8": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CH8.png",
-    # 后续新增频道，只需在此处添加映射，并在 sync_logos() 里补上对应的远程下载源即可
+    # 后续新增频道，只需在此处添加映射，并在 sync_logos.py 里补上对应的远程下载源即可
 }
 
 
 def _keyword_matches(keyword, text):
-    """LOGO_MAP 关键词匹配，按关键词是否含中文字符分流：
+    """LOGO_MAP 关键词匹配：只把 ASCII 字母/数字/下划线当作"词字符"来判断边界，
+    汉字、空格、符号（包括 "+"）一律视为边界。这一条规则同时解决两类问题：
 
-    - 纯英文/数字关键词（如 "CH5", "tvN"）：用 \\b 词边界，避免误伤
-      "CH52" 这种相邻字符拼接成的不同频道名。
-    - 含中文字符的关键词（如 "HBO喜剧"）：汉字本身在 Unicode 下也算
-      \\w 字符，两个汉字之间不存在词边界，\\b 会失效（例如 "HBO喜剧高清"
-      匹配不到 \\bHBO喜剧\\b）。这种情况改用简单包含匹配；误判风险用
-      关键词本身写得足够具体来控制（如带上 "HBO" 前缀而不是只写"喜剧"）。
+    - "CH5" 不会误匹配 "CH52"（5 后面紧跟数字 2，仍是词字符，不构成边界，不匹配）
+    - "CCTV2" 能匹配 "CCTV2财经"（2 后面紧跟汉字，汉字不算 ASCII 词字符，构成边界，匹配成功）
+    - "HBO喜剧" 能匹配 "HBO喜剧高清"（剧后面紧跟"高"，同理构成边界，匹配成功）
+    - "CCTV5" 不会抢先匹配 "CCTV5+体育赛事" 里的内容，只要 "CCTV5+" 在字典里排在
+      "CCTV5" 前面，循环会先命中更精确的 "CCTV5+"
     """
-    if re.search(r'[\u4e00-\u9fa5]', keyword):
-        return keyword.lower() in text.lower()
-    return re.search(r'\b' + re.escape(keyword) + r'\b', text, re.IGNORECASE) is not None
+    pattern = r'(?<![A-Za-z0-9_])' + re.escape(keyword) + r'(?![A-Za-z0-9_])'
+    return re.search(pattern, text, re.IGNORECASE) is not None
 
 
 def fetch_with_retry(url, retries=2, timeout=30):
@@ -94,34 +111,15 @@ def process_and_save(channels, output_file="YueChan.m3u"):
         for extinf, url in channels:
             logo_url = None
 
-            # --- 1. 正则匹配 CCTV 系列 ---
-            # APTV 内置台标库要求频道名是纯净的 "CCTV2" 这种格式，
-            # 带上"财经"/"高清"等后缀反而匹配不到（实测 "CCTV2财经" 识别失败，
-            # "CCTV2" 识别成功），所以这里把频道名截断为纯 "CCTV{数字}"。
-            # epg.pw 的台标链接已实测失效（404），不再依赖这个第三方台标源；
-            # CCTV 台标改由 APTV 播放器内置台标库按频道名自动识别。
-            cctv_match = re.search(r'CCTV[-_ ]*(\d+\+?)', extinf, re.IGNORECASE)
-            if cctv_match:
-                num_str = cctv_match.group(1)
-                extinf = re.sub(
-                    r',CCTV[-_ ]*\d+\+?[^,]*$',
-                    f',CCTV{num_str}',
-                    extinf,
-                    flags=re.IGNORECASE
-                )
-                extinf = re.sub(r'tvg-logo="[^"]*"', '', extinf)
-                extinf = re.sub(r'\s+', ' ', extinf).replace(' ,', ',').strip()
-
-            # --- 2. 匹配自定义频道的 LOGO_MAP ---
+            # --- 1. 匹配 LOGO_MAP（含 CCTV 系列 + 境外频道，统一逻辑）---
             # 只在频道名称字段（最后一个逗号后面的部分）里匹配
-            if not logo_url:
-                channel_name = extinf.split(',')[-1] if ',' in extinf else extinf
-                for keyword, l_url in LOGO_MAP.items():
-                    if _keyword_matches(keyword, channel_name):
-                        logo_url = l_url
-                        break
+            channel_name = extinf.split(',')[-1] if ',' in extinf else extinf
+            for keyword, l_url in LOGO_MAP.items():
+                if _keyword_matches(keyword, channel_name):
+                    logo_url = l_url
+                    break
 
-            # --- 3. 注入 tvg-logo ---
+            # --- 2. 注入 tvg-logo ---
             # 用正则匹配 #EXTINF: 后面的数字（不管是 -1 还是 0 或其他），
             # 不再硬编码 "#EXTINF:-1"，避免源格式不同时静默注入失败
             if logo_url:
@@ -139,38 +137,13 @@ def process_and_save(channels, output_file="YueChan.m3u"):
     print(f"合并完成！已成功保存至 {output_file}，共 {len(channels)} 个频道。")
 
 
-# --- 4. 自动化下载：把对方的命名，下载时规范化为自己的标准名字 ---
-def sync_logos():
-    os.makedirs("logos", exist_ok=True)
-
-    LOGOS_TO_DOWNLOAD = {
-        "logos/Astro_AOD.png": "https://tvlogo-282.pages.dev/logos/astro/AstroAOD_2024.png",
-        "logos/tvN.png": "https://tvlogo-282.pages.dev/logos/astro/tvN_2021.png",
-        "logos/HBO_Comedy.png": "https://tvlogo-282.pages.dev/logos/starhub/602_1920x1080_HTV.png",
-        "logos/CH5.png": "https://tvlogo-282.pages.dev/logos/starhub/102_1920x1080_HTV.png",
-        "logos/CH8.png": "https://tvlogo-282.pages.dev/logos/starhub/103_1920x1080_HTV.png",
-    }
-
-    for local_path, remote_url in LOGOS_TO_DOWNLOAD.items():
-        print(f"正在尝试同步远程台标: {remote_url}")
-        r = fetch_with_retry(remote_url, retries=2, timeout=10)
-
-        if r is not None:
-            with open(local_path, "wb") as f:
-                f.write(r.content)
-            print(f"【成功】台标已同步并安全覆盖: {local_path}")
-        else:
-            # 远程台标失效、改名或网络异常，触发保护机制
-            if os.path.exists(local_path):
-                print(f"保护机制生效：已拒绝覆盖，保留仓库原有的历史图标：{local_path}")
-            else:
-                print(f"本地暂无此图标备份，请检查远程链接是否正确：{remote_url}")
+# 注：台标下载已分离到独立的 sync_logos.py，需要更新台标时手动运行该脚本，
+# 不再随每日自动合并任务一起执行，避免远程台标源的变动影响日常稳定运行。
 
 
 if __name__ == "__main__":
     channels = fetch_and_merge()
     if channels:
         process_and_save(channels)
-        sync_logos()
     else:
         print("未获取到任何有效的直播源数据。")
