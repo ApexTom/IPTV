@@ -28,8 +28,16 @@ LOGOS_TO_DOWNLOAD = {
     "Astro AEC.png": "https://tvlogo-282.pages.dev/logos/astro/AstroAOD_2024.png",
     "tvN.png": "https://tvlogo-282.pages.dev/logos/astro/tvN_2021.png",
     "HBO_Comedy.png": "https://tvlogo-282.pages.dev/logos/starhub/602_1920x1080_HTV.png",
+    "8TV.png": "https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png",
     "CH5.png": "https://tvlogo-282.pages.dev/logos/starhub/102_1920x1080_HTV.png",
     "CH8.png": "https://tvlogo-282.pages.dev/logos/starhub/103_1920x1080_HTV.png",
+    "澳门体育.png": "https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门体育.png",
+    "澳门综艺.png": "https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门综艺.png",
+    "CHU.png": "https://tvlogo-282.pages.dev/logos/starhub/107_1920x1080_HTV.png",
+    "天映.png": "https://gcore.jsdelivr.net/gh/luoluowoaini/smt-logo@main/天映.png",
+    "HOY.png": "https://tvlogo-282.pages.dev/logos/HOY/HOY.png",
+    "IQIYI.png": "https://tvlogo-282.pages.dev/logos/astro/IQIYI_2022.png",
+    "TVB功夫.png": "https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png",
 }
 
 def fetch_with_retry(url, retries=2, timeout=10):
