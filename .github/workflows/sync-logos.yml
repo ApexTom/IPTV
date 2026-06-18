@@ -1,0 +1,40 @@
+name: Manual Sync Logos Backup
+
+on:
+  workflow_dispatch: # 🌟 关键：这代表支持在网页上点击按钮手动触发
+
+permissions:
+  contents: write # 给予 Action 把下载好的备份文件推回仓库的权限
+
+jobs:
+  download-logos:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run Sync Logos Script
+      run: |
+        python sync_logos.py
+
+    - name: Commit and Push Backup
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        
+        # 🌟 只把生成的 logos_backup 文件夹加进来，绝不碰正式的 logos 文件夹
+        git add logos_backup/
+        
+        git commit -m "Actions: Manual downloaded remote logos to backup" || echo "No changes to commit"
+        git push
