@@ -33,7 +33,7 @@ http://207.56.13.146:81/cdnlive/cctv15.m3u8
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV17.png" group-title="央视频道",CCTV-17农业农村
 http://207.56.13.146:81/cdnlive/cctv17.m3u8
-#EXTINF:-1 group-title="央视频道",体育赛事
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png" group-title="央视频道",体育赛事
 http://207.56.13.146:81/cdnlive/cctv5p.m3u8
 #EXTINF:-1 group-title="央视频道",兵器科技
 http://207.56.13.146:81/cdnlive/gfjs.m3u8
@@ -209,9 +209,9 @@ https://o11.163189.xyz/stream/tvb/tvbp/
 https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/天映.png" group-title="港台频道",天映频道
 https://o11.163189.xyz/stream/live/typd/
-#EXTINF:-1 group-title="港台频道",HOY77
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HOY.png" group-title="港台频道",HOY77
 http://cdn6.163189.xyz/163189/hoy
-#EXTINF:-1 group-title="港台频道",HOY78
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HOY.png" group-title="港台频道",HOY78
 http://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 group-title="港台频道",RTHK 32
 http://cdn.163189.xyz/163189/rthk32
@@ -239,9 +239,9 @@ http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="港台频道",LMN
 http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="港台频道",HBO精选
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO王牌.png" group-title="港台频道",HBO精选
 http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="港台频道",Cinemax精选
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-classics-us.png?" group-title="港台频道",Cinemax精选
 http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
 #EXTINF:-1 group-title="港台频道",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
