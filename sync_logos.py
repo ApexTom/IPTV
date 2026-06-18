@@ -6,6 +6,8 @@ import time
 LOGOS_TO_DOWNLOAD = {
     # === 央视 CCTV 系列：来自 fanmingming/live 公益台标库 ===
     "东方卫视4K.png": "https://epg.yang-1989.eu.org/logo/东方卫视4K.png",
+    "Sony_One_Comedy.png": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ComedyHits_ChannelLogo_Horizontal.png",
+    "Sony_One_Action.png": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ActionHits_ChannelLogo_Horizontal.png",
 }
 
 def fetch_with_retry(url, retries=2, timeout=10):
