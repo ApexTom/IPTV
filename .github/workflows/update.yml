@@ -35,10 +35,10 @@ jobs:
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
-        
+
         # 使用 git add . 把新生成的 .m3u 和 logos 文件夹全加进来
         git add .
-        
+
         # 只有在有文件变动时才提交，防止没有更新时报错导致 Action 变红
         git commit -m "Auto Update M3U and backup logos" || echo "No changes to commit"
         git push
