@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV1
+#EXTINF:-1 group-title="央视频道",CCTV-1综合
 http://207.56.13.146:81/cdnlive/cctv1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV2
+#EXTINF:-1 group-title="央视频道",CCTV-2财经
 http://207.56.13.146:81/cdnlive/cctv2.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV3
+#EXTINF:-1 group-title="央视频道",CCTV-3综艺
 http://207.56.13.146:81/cdnlive/cctv3.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV4
+#EXTINF:-1 group-title="央视频道",CCTV-4中文国际
 http://207.56.13.146:81/cdnlive/cctv4.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV5
+#EXTINF:-1 group-title="央视频道",CCTV-5体育
 http://207.56.13.146:81/cdnlive/cctv5.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV6
+#EXTINF:-1 group-title="央视频道",CCTV-6电影
 http://207.56.13.146:81/cdnlive/cctv6.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV7
+#EXTINF:-1 group-title="央视频道",CCTV-7国防军事
 http://207.56.13.146:81/cdnlive/cctv7.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV8
+#EXTINF:-1 group-title="央视频道",CCTV-8电视剧
 http://207.56.13.146:81/cdnlive/cctv8.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV9
+#EXTINF:-1 group-title="央视频道",CCTV-9纪录
 http://207.56.13.146:81/cdnlive/cctv9.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV10
+#EXTINF:-1 group-title="央视频道",CCTV-10科教
 http://207.56.13.146:81/cdnlive/cctv10.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV11
+#EXTINF:-1 group-title="央视频道",CCTV-11戏曲
 http://207.56.13.146:81/cdnlive/cctv11.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV12
+#EXTINF:-1 group-title="央视频道",CCTV-12社会与法
 http://207.56.13.146:81/cdnlive/cctv12.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV13
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻
 http://207.56.13.146:81/cdnlive/cctv13.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV14
+#EXTINF:-1 group-title="央视频道",CCTV-14少儿
 http://207.56.13.146:81/cdnlive/cctv14.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV15
+#EXTINF:-1 group-title="央视频道",CCTV-15音乐
 http://207.56.13.146:81/cdnlive/cctv15.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV16
+#EXTINF:-1 group-title="央视频道",CCTV-16奥林匹克
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV17
+#EXTINF:-1 group-title="央视频道",CCTV-17农业农村
 http://207.56.13.146:81/cdnlive/cctv17.m3u8
 #EXTINF:-1 group-title="央视频道",体育赛事
 http://207.56.13.146:81/cdnlive/cctv5p.m3u8
