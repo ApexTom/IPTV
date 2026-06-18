@@ -153,7 +153,7 @@ def process_and_save(channels, output_file="YueChan.m3u"):
         for extinf, url in channels:
             logo_url = None
             if "体育赛事" in extinf:
-                extinf = '#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV5+'
+                extinf = '#EXTINF:-1 tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事'
 
             # --- 1. 匹配 LOGO_MAP（含 CCTV 系列 + 境外频道，统一 logic）---
             channel_name = extinf.split(',')[-1] if ',' in extinf else extinf
