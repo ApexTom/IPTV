@@ -49,8 +49,11 @@ LOGO_MAP = {
     "ASTRO爱奇艺": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/IQIYI.png",
     "HOY77": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HOY.png",
     "HOY78": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HOY.png",
-    "HBO精选": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO王牌.png",
+    "HBO精选": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO_Comedy.png",
+    "HBO王牌": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO王牌.png",
     "Cinemax精选": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-classics-us.png?",
+    "NBC News Now": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/NBC_NEW_NOW.png",
+    "Big Ten Network": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/big-ten-network-us.png",
     # 后续新增频道，只需在此处添加映射，并在 sync_logos.py 里补上对应的远程下载源即可
 }
 
