@@ -239,13 +239,13 @@ http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="港台频道",LMN
 http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO王牌.png" group-title="港台频道",HBO精选
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO_Comedy.png" group-title="港台频道",HBO精选
 http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-classics-us.png?" group-title="港台频道",Cinemax精选
 http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
 #EXTINF:-1 group-title="港台频道",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="港台频道",HBO王牌
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO王牌.png" group-title="港台频道",HBO王牌
 http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="地方频道",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -339,7 +339,7 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际",TRT World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/TRT_World.png" group-title="国际",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
@@ -347,7 +347,7 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8
 #EXTINF:-1 group-title="国际",Global News
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
-#EXTINF:-1 group-title="国际",NBC News Now
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/NBC_NEW_NOW.png" group-title="国际",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 group-title="国际",One American News
 https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
@@ -363,7 +363,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2179.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2182.ts
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-name="Sportsnet 360" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="国际",Sportsnet 360
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3073.ts
-#EXTINF:-1 group-title="国际",Big Ten Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/big-ten-network-us.png" group-title="国际",Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 group-title="国际",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -387,7 +387,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",Newsy
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
-#EXTINF:-1 group-title="国际",Redbull
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Redbull.png" group-title="国际",Redbull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="国际",HollyWire
 https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
