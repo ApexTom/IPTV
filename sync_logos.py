@@ -25,6 +25,7 @@ LOGOS_TO_DOWNLOAD = {
     "CCTV17.png": "https://live.fanmingming.com/tv/CCTV17.png",
     # === 境外频道 ===
     "Astro_AOD.png": "https://tvlogo-282.pages.dev/logos/astro/AstroAOD_2024.png",
+    "Astro AEC.png": "https://tvlogo-282.pages.dev/logos/astro/AstroAOD_2024.png",
     "tvN.png": "https://tvlogo-282.pages.dev/logos/astro/tvN_2021.png",
     "HBO_Comedy.png": "https://tvlogo-282.pages.dev/logos/starhub/602_1920x1080_HTV.png",
     "CH5.png": "https://tvlogo-282.pages.dev/logos/starhub/102_1920x1080_HTV.png",
