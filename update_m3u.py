@@ -20,6 +20,7 @@ LOGO_MAP = {
     "CCTV3": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV3.png",
     "CCTV4": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV4.png",
     "CCTV5": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5.png",
+    "CCTV5+": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus",
     "CCTV6": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV6.png",
     "CCTV7": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV7.png",
     "CCTV8": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV8.png",
