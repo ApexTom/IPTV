@@ -237,11 +237,11 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="港台频道",CN卡通
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="港台频道",LMN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/LMN.png" group-title="港台频道",LMN
 http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO_Comedy.png" group-title="港台频道",HBO精选
 http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-classics-us.png?" group-title="港台频道",Cinemax精选
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/Cinemax.png" group-title="港台频道",Cinemax精选
 http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
 #EXTINF:-1 group-title="港台频道",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
