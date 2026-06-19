@@ -219,16 +219,6 @@ https://o11.163189.xyz/stream/live/iqiyi/
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 group-title="港台频道",ViuTVsix
 https://cdn10.163189.xyz/stream/163189/viu6/
-#EXTINF:-1 group-title="港台频道",邵氏动作
-http://feilong123.vip/409990236/tv.php?id=ssdz
-#EXTINF:-1 group-title="港台频道",邵氏电影
-http://feilong123.vip/409990236/tv.php?id=ssdy
-#EXTINF:-1 group-title="港台频道",邵氏武侠
-http://feilong123.vip/409990236/tv.php?id=sswx
-#EXTINF:-1 group-title="港台频道",邵氏喜剧
-http://feilong123.vip/409990236/tv.php?id=ssxj
-#EXTINF:-1 group-title="港台频道",AMC电影台
-https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO_Comedy.png" group-title="港台频道",HBO喜剧
 http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="港台频道",HBO
@@ -245,22 +235,6 @@ http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/HBO王牌.png" group-title="港台频道",HBO王牌
 http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/东方卫视4K.png" group-title="地方频道",看东方4K
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 group-title="地方频道",苏州4K
-https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="地方频道",钱江都市
-http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-#EXTINF:-1 group-title="地方频道",浙江新闻
-http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-#EXTINF:-1 group-title="地方频道",浙江国际
-http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-#EXTINF:-1 group-title="地方频道",之江纪录
-http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
-#EXTINF:-1 group-title="地方频道",广州影视
-http://r.jdshipin.com/sFw4S
-#EXTINF:-1 group-title="地方频道",广州综合
-https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
 #EXTINF:-1 group-title="国际",CNN
 http://lordstreams.live:80/Alicia42/1915991510/277193
 #EXTINF:-1 group-title="国际",BBC News
