@@ -8,12 +8,12 @@ SOURCES = [
     "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
 ]
 
-# === 🌟 全局黑名单配置（在此处直接增删你想过滤的频道） ===
-# 只要频道名称包含以下关键词（忽略大小写），就会在合并时被自动过滤掉
+# === 🌟 全局黑名单配置（在此处直接增删你想过滤的频道或分组） ===
+# 只要 频道名称 或 分组名称(group-title) 包含以下关键词（忽略大小写），就会在合并时被自动过滤掉
 BLACKLIST = {
     "CCTV-18",      # 举例：不存在的测试台
     "香港面包",      # 举例：购物台
-    "南宁新闻",         # 过滤带有"测试"字样的频道
+    "南宁新闻",      # 过滤带有"测试"字样的频道
     "南宁公共",
     "南宁文旅",
     "南宁娱乐",
@@ -46,6 +46,10 @@ BLACKLIST = {
     "邵氏喜剧",
     "AMC电影台",
     "TEST",
+    
+    # 🌟 分组一刀切过滤（后续不需要的分组名字直接往这加，例如：）
+    "地方频道",     
+    "数字付费",     
     # 后续不想看的频道，直接在这里追加字符串，记得用逗号隔开即可
 }
 
@@ -55,7 +59,6 @@ BLACKLIST = {
 #  代价是国内访问偶尔会慢，但容错率高，不影响播放本身）
 LOGO_MAP = {
     # === 央视 CCTV 系列（CCTV5+ 必须排在 CCTV5 之前，否则会被 CCTV5 提前命中）===
-    #"体育赛事": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV5plus.png",
     "CCTV5+": "https://static.tv.darwinchow.com/logo/CCTV5+.png",
     "CCTV-1": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV1.png",
     "CCTV-2": "https://raw.githubusercontent.com/Jack123liang/iptv-proxy/main/logos/CCTV2.png",
@@ -155,17 +158,22 @@ def fetch_and_merge():
             elif current_extinf and (line.startswith("http://") or line.startswith("https://") or line.startswith("rtmp://")):
                 if line not in seen_urls:
                     
-                    # 🌟 核心拦截修改点：提取名字并跑黑名单检测
+                    # 🌟 核心修改点：同时提取 频道名称 和 分组名称(group-title) 并运行黑名单匹配
                     channel_name = current_extinf.split(',')[-1] if ',' in current_extinf else current_extinf
+                    
+                    # 正则匹配捕获 group-title="xxx"
+                    group_match = re.search(r'group-title="([^"]+)"', current_extinf, re.IGNORECASE)
+                    group_name = group_match.group(1) if group_match else ""
                     
                     is_blacklisted = False
                     for black_word in BLACKLIST:
-                        if _keyword_matches(black_word, channel_name):
+                        # 只要黑名单关键词命中了频道名字，或者命中了分组名字，一律拦截
+                        if _keyword_matches(black_word, channel_name) or (group_name and _keyword_matches(black_word, group_name)):
                             is_blacklisted = True
                             break
                     
                     if is_blacklisted:
-                        print(f"【黑名单拦截】已自动剔除该频道: {channel_name.strip()}")
+                        print(f"【黑名单拦截】已自动剔除该频道: {channel_name.strip()} (分组: {group_name})")
                         current_extinf = None  # 拦截后重置变量，继续看下一行
                         continue
 
