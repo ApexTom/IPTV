@@ -29,8 +29,8 @@ jobs:
       
       - name: Save generated file to GitHub
         run: |
-          git config --global user.email "bsexing@gmail.com"
-          git config --global user.name "xiaotan8"
-          git add mytvsuper.m3u
-          git commit -m "Update mytvsuper.m3u"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --global user.name "Jack123liang"
+          git add mytv.m3u
+          git commit -m "Update mytv.m3u"
           git push -f
