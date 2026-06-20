@@ -37,9 +37,9 @@ jobs:
           # 防止文件没变化时出错
           if git diff --cached --quiet; then
             echo "No changes detected, creating empty commit."
-            git commit --allow-empty -m "Update mytv.m3u"
+            git commit --allow-empty -m "Update mytvsuper.m3u"
           else
-            git commit -m "Update mytv.m3u"
+            git commit -m "Update mytvsuper.m3u"
           fi
           
           git push -f
