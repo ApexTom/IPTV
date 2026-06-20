@@ -119,11 +119,6 @@ CHANNEL_LIST = {
         'license': 'a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2',
         'logo': 'https://epg.yang-1989.eu.org/logo/北京卫视.png'  
     },
-    'GXTV': {
-        'name': '廣西電視台國際頻道',
-        'license': 'e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853',
-        'logo': 'https://epg.yang-1989.eu.org/logo/广西卫视.png'  
-    },
     'FJTV': {
         'name': '福建海峽衛視國際頻道',
         'license': '3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb',
