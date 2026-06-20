@@ -32,7 +32,7 @@ jobs:
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git config --global user.name "${{ github.actor }}"
           
-          git add mytv.m3u
+          git add mytvsuper.m3u
           
           # 防止文件没变化时出错
           if git diff --cached --quiet; then
