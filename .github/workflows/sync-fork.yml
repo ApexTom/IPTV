@@ -2,7 +2,7 @@ name: Sync MyTV M3U Local
 
 on:
   schedule:
-    - cron: "10 */6 * * *"
+    - cron: "#10 */6 * * *"
   workflow_dispatch:
 
 permissions:
