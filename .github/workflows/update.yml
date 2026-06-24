@@ -3,7 +3,7 @@ name: Auto Merge and Fix IPTV M3U
 on:
   schedule:
     # 每天 UTC 20:00 运行（对应北京时间凌晨 04:00）
-    - cron: '0 20 * * *'
+    - cron: '#0 20 * * *'
   workflow_dispatch: # 支持手动点击按钮触发
 
 permissions:
