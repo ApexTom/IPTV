@@ -560,12 +560,18 @@ http://192.168.3.100:9100/live/stream-f725efd6-78ce-42e9-a6d3-3f233fc7fda4/index
 http://192.168.3.100:9100/live/stream-4b3f6430-3590-4ca7-86ef-c4b75000e02c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 
 
-#EXTINF:-1 tvg-id="stream-d616c1c9-6ac0-4863-9676-8dfadf078034" tvg-name="凤凰资讯" group-title="凤凰秀",凤凰资讯
-http://192.168.3.100:9100/live/stream-d616c1c9-6ac0-4863-9676-8dfadf078034/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-20f61720-3e2e-4ddd-9ce1-95766bb97023" tvg-name="凤凰中文" group-title="凤凰秀",凤凰中文
-http://192.168.3.100:9100/live/stream-20f61720-3e2e-4ddd-9ce1-95766bb97023/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-1ab8daeb-fcb6-4077-a7c5-daf8e0180655" tvg-name="凤凰香港" group-title="凤凰秀",凤凰香港
-http://192.168.3.100:9100/live/stream-1ab8daeb-fcb6-4077-a7c5-daf8e0180655/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://material.yang-1989.xyz/logo/凤凰资讯.png" group-title="鳳凰秀" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視資訊台
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://192.168.3.100/fengshows.php?id=fhzx
+
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://material.yang-1989.xyz/logo/凤凰中文.png" group-title="鳳凰秀" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視中文台
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://192.168.3.100/fengshows.php?id=fhzw
+
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://material.yang-1989.xyz/logo/凤凰香港.png" group-title="鳳凰秀" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="okhttp/3.14.9",鳳凰衛視香港台
+#EXTVLCOPT:http-user-agent=okhttp/3.14.9
+http://192.168.3.100/fengshows.php?id=fhhk
+
 #EXTINF:-1 tvg-id="stream-0a0b5453-0609-4a3d-85e5-f821ef5c4612" tvg-name="东方卫视" group-title="kkxw",东方卫视
 http://192.168.3.100:9100/live/stream-0a0b5453-0609-4a3d-85e5-f821ef5c4612/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-e7a24d0e-102d-4532-87e7-578f886d182f" tvg-name="上海新闻综合" group-title="kkxw",上海新闻综合
