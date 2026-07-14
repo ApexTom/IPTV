@@ -574,6 +574,130 @@ http://192.168.3.100/fengshows.php?id=fhzw
 #EXTVLCOPT:http-user-agent=okhttp/3.14.9
 http://192.168.3.100/fengshows.php?id=fhhk
 
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-1.png" group-title="央视(iptvtop)",CCTV-1 综合
+http://192.168.3.100:8787/live/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-2.png" group-title="央视(iptvtop)",CCTV-2 财经
+http://192.168.3.100:8787/live/cctv2.m3u8
+#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-3.png" group-title="央视(iptvtop)",CCTV-3 综艺
+http://192.168.3.100:8787/live/cctv3.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-4.png" group-title="央视(iptvtop)",CCTV-4 中文国际
+http://192.168.3.100:8787/live/cctv4.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="央视(iptvtop)",CCTV-5 体育
+http://192.168.3.100:8787/live/cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="央视(iptvtop)",CCTV-5+ 体育赛事
+http://192.168.3.100:8787/live/cctv5plus.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-6.png" group-title="央视(iptvtop)",CCTV-6 电影
+http://192.168.3.100:8787/live/cctv6.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-7.png" group-title="央视(iptvtop)",CCTV-7 国防军事
+http://192.168.3.100:8787/live/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-8.png" group-title="央视(iptvtop)",CCTV-8 电视剧
+http://192.168.3.100:8787/live/cctv8.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-9.png" group-title="央视(iptvtop)",CCTV-9 纪录
+http://192.168.3.100:8787/live/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-10.png" group-title="央视(iptvtop)",CCTV-10 科教
+http://192.168.3.100:8787/live/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-11.png" group-title="央视(iptvtop)",CCTV-11 戏曲
+http://192.168.3.100:8787/live/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-12.png" group-title="央视(iptvtop)",CCTV-12 社会与法
+http://192.168.3.100:8787/live/cctv12.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-13.png" group-title="央视(iptvtop)",CCTV-13 新闻
+http://192.168.3.100:8787/live/cctv13.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-14.png" group-title="央视(iptvtop)",CCTV-14 少儿
+http://192.168.3.100:8787/live/cctv14.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-15.png" group-title="央视(iptvtop)",CCTV-15 音乐
+http://192.168.3.100:8787/live/cctv15.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-16.png" group-title="央视(iptvtop)",CCTV-16 奥林匹克
+http://192.168.3.100:8787/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-17.png" group-title="央视(iptvtop)",CCTV-17 农业农村
+http://192.168.3.100:8787/live/cctv17.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-4K.png" group-title="央视(iptvtop)",CCTV-4K 
+http://192.168.3.100:8787/live/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-8K.png" group-title="央视(iptvtop)",CCTV-8K 
+http://192.168.3.100:8787/live/cctv8k.m3u8
+
+#EXTINF:-1 tvg-name="CGTN 英语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTN.png" group-title="央视(iptvtop)",CGTN 英语
+http://192.168.3.100:8787/live/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN 法语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNfr.png" group-title="央视(iptvtop)",CGTN 法语
+http://192.168.3.100:8787/live/cgtnfayu.m3u8
+#EXTINF:-1 tvg-name="CGTN 俄语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNru.png" group-title="央视(iptvtop)",CGTN 俄语
+http://192.168.3.100:8787/live/cgtneyu.m3u8
+#EXTINF:-1 tvg-name="CGTN 阿拉伯语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNar.png" group-title="央视(iptvtop)",CGTN 阿拉伯语
+http://192.168.3.100:8787/live/cgtnalaboyu.m3u8
+#EXTINF:-1 tvg-name="CGTN 西班牙语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNsp.png" group-title="央视(iptvtop)",CGTN 西班牙语
+http://192.168.3.100:8787/live/cgtnxibanyayu.m3u8
+#EXTINF:-1 tvg-name="CGTN 纪录" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNdoc.png" group-title="央视(iptvtop)",CGTN 纪录
+http://192.168.3.100:8787/live/cgtnwaiyujilu.m3u8
+#EXTINF:-1 tvg-name="CCTV 风云剧场" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/风云剧场.png" group-title="央视(iptvtop)",CCTV 风云剧场
+http://192.168.3.100:8787/live/cctvfengyunjuchang.m3u8
+#EXTINF:-1 tvg-name="CCTV 第一剧场" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/第一剧场.png" group-title="央视(iptvtop)",CCTV 第一剧场
+http://192.168.3.100:8787/live/cctvdiyijuchang.m3u8
+#EXTINF:-1 tvg-name="CCTV 怀旧剧场" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/怀旧剧场.png" group-title="央视(iptvtop)",CCTV 怀旧剧场
+http://192.168.3.100:8787/live/cctvhuaijiujuchang.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/北京卫视.png" group-title="央视(iptvtop)",北京卫视
+http://192.168.3.100:8787/live/beijingws.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/江苏卫视.png" group-title="央视(iptvtop)",江苏卫视
+http://192.168.3.100:8787/live/jiangsuws.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/东方卫视.png" group-title="央视(iptvtop)",东方卫视
+http://192.168.3.100:8787/live/dongfangws.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/浙江卫视.png" group-title="央视(iptvtop)",浙江卫视
+http://192.168.3.100:8787/live/zhejiangws.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖南卫视.png" group-title="央视(iptvtop)",湖南卫视
+http://192.168.3.100:8787/live/hunanws.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖北卫视.png" group-title="央视(iptvtop)",湖北卫视
+http://192.168.3.100:8787/live/hubeiws.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/广东卫视.png" group-title="央视(iptvtop)",广东卫视
+http://192.168.3.100:8787/live/guangdongws.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/广西卫视.png" group-title="央视(iptvtop)",广西卫视
+http://192.168.3.100:8787/live/guangxiws.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/黑龙江卫视.png" group-title="央视(iptvtop)",黑龙江卫视
+http://192.168.3.100:8787/live/heilongjiangws.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/海南卫视.png" group-title="央视(iptvtop)",海南卫视
+http://192.168.3.100:8787/live/hainanws.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/重庆卫视.png" group-title="央视(iptvtop)",重庆卫视
+http://192.168.3.100:8787/live/chongqingws.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/深圳卫视.png" group-title="央视(iptvtop)",深圳卫视
+http://192.168.3.100:8787/live/shenzhenws.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/四川卫视.png" group-title="央视(iptvtop)",四川卫视
+http://192.168.3.100:8787/live/sichuanws.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/河南卫视.png" group-title="央视(iptvtop)",河南卫视
+http://192.168.3.100:8787/live/henanws.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/东南卫视.png" group-title="央视(iptvtop)",东南卫视
+http://192.168.3.100:8787/live/fujiandongnanws.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/贵州卫视.png" group-title="央视(iptvtop)",贵州卫视
+http://192.168.3.100:8787/live/guizhouws.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/江西卫视.png" group-title="央视(iptvtop)",江西卫视
+http://192.168.3.100:8787/live/jiangxiws.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/辽宁卫视.png" group-title="央视(iptvtop)",辽宁卫视
+http://192.168.3.100:8787/live/liaoningws.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/安徽卫视.png" group-title="央视(iptvtop)",安徽卫视
+http://192.168.3.100:8787/live/anhuiws.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/河北卫视.png" group-title="央视(iptvtop)",河北卫视
+http://192.168.3.100:8787/live/hebeiws.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/山东卫视.png" group-title="央视(iptvtop)",山东卫视
+http://192.168.3.100:8787/live/shandongws.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/天津卫视.png" group-title="央视(iptvtop)",天津卫视
+http://192.168.3.100:8787/live/tianjinws.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/吉林卫视.png" group-title="央视(iptvtop)",吉林卫视
+http://192.168.3.100:8787/live/jilinws.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/陕西卫视.png" group-title="央视(iptvtop)",陕西卫视
+http://192.168.3.100:8787/live/shannxiws.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/宁夏卫视.png" group-title="央视(iptvtop)",宁夏卫视
+http://192.168.3.100:8787/live/ningxiaws.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/内蒙古卫视.png" group-title="央视(iptvtop)",内蒙古卫视
+http://192.168.3.100:8787/live/neimengguws.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/云南卫视.png" group-title="央视(iptvtop)",云南卫视
+http://192.168.3.100:8787/live/yunnanws.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/山西卫视.png" group-title="央视(iptvtop)",山西卫视
+http://192.168.3.100:8787/live/shanxiws.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/青海卫视.png" group-title="央视(iptvtop)",青海卫视
+http://192.168.3.100:8787/live/qinghaiws.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/西藏卫视.png" group-title="央视(iptvtop)",西藏卫视
+http://192.168.3.100:8787/live/xizangws.m3u8
+#EXTINF:-1 tvg-name="中国教育电视台一套" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/中国教育电视台一套.png" group-title="央视(iptvtop)",中国教育电视台1
+http://192.168.3.100:8787/live/cetv1.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/新疆卫视.png" group-title="央视(iptvtop)",新疆卫视
+http://192.168.3.100:8787/live/xinjiangws.m3u8
+EOF
 #EXTINF:-1 tvg-id="stream-0a0b5453-0609-4a3d-85e5-f821ef5c4612" tvg-name="东方卫视" group-title="kkxw",东方卫视
 http://192.168.3.100:9100/live/stream-0a0b5453-0609-4a3d-85e5-f821ef5c4612/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-e7a24d0e-102d-4532-87e7-578f886d182f" tvg-name="上海新闻综合" group-title="kkxw",上海新闻综合
