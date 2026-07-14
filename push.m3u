@@ -1,6 +1,14 @@
 #EXTM3U x-tvg-url="https://material.yang-1989.xyz/epg.xml.gz"
 #EXT-X-APTV-PREVIEW: FALSE
 #EXT-X-APTV-LATENCY: FALSE
+
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="凤凰卫视",凤凰资讯
+https://cdn.qd.je/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰中文" group-title="凤凰卫视",凤凰中文
+https://cdn.qd.je/163189/fhzw
+#EXTINF:-1 tvg-name="凤凰香港" group-title="凤凰卫视",凤凰香港
+https://cdn.qd.je/163189/fhhk
+
 #EXTINF:-1 tvg-id="stream-1c3deb67-49ed-4a5e-bef0-d0a6d62ff90a" tvg-name="TVB Plus" tvg-logo="https://material.yang-1989.xyz/logo/TVBPlus.png" group-title="Mytvsupper",TVB Plus
 http://192.168.3.100:9100/live/stream-1c3deb67-49ed-4a5e-bef0-d0a6d62ff90a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-76b5343f-2ef5-4660-9b04-a52fc541204c" tvg-name="無線新聞台" tvg-logo="https://material.yang-1989.xyz/logo/無綫新聞台.png" group-title="Mytvsupper",無線新聞台
