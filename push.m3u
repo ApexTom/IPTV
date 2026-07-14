@@ -468,7 +468,7 @@ http://192.168.3.100:9100/live/stream-23f92f2d-5bf2-4f54-96fe-6f1f61ba9171/index
 http://192.168.3.100:9100/live/stream-58e02b33-b494-412b-81fd-9be0a03f2890/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-9d54823c-7c2b-484a-a51b-938dc192f209" tvg-name="cctv16-4k(超高清)" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="央视频(php)",cctv16-4k(超高清)
 http://192.168.3.100:9100/live/stream-9d54823c-7c2b-484a-a51b-938dc192f209/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-72726065-4ed5-49b8-b048-2bd348b373d2" tvg-name="cctv4k(超高清)" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="央视频(php)",cctv4k(超高清)
+#EXTINF:-1 tvg-id="stream-72726065-4ed5-49b8-b048-2bd348b373d2" tvg-name="cctv4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="央视频(php)",cctv4k(超高清)
 http://192.168.3.100:9100/live/stream-72726065-4ed5-49b8-b048-2bd348b373d2/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 #EXTINF:-1 tvg-id="stream-1d3fa0b7-40d4-4a42-93fa-22d05ad0ecea" tvg-name="cctv8k(超高清)" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="央视频(php)",cctv8k(超高清)
 http://192.168.3.100:9100/live/stream-1d3fa0b7-40d4-4a42-93fa-22d05ad0ecea/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
