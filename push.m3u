@@ -442,49 +442,49 @@ http://192.168.3.100:9100/live/stream-bff6c1a5-2f38-4b79-9b08-24ff2e54d445/index
 #EXTINF:-1 tvg-id="stream-2aa7149b-2cf0-41cf-b00c-25210a042a3c" tvg-name="CCTV5" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv5&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV5
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-2aa7149b-2cf0-41cf-b00c-25210a042a3c/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-615d3bda-482e-4b36-89d6-0fe6ff73e78a" tvg-name="CCTV5+" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV5p&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV5+
+#EXTINF:-1 tvg-id="stream-615d3bda-482e-4b36-89d6-0fe6ff73e78a" tvg-name="CCTV5+" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv5p&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV5+
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-615d3bda-482e-4b36-89d6-0fe6ff73e78a/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-5fd580b3-5147-44a3-a5ec-1053c77c99aa" tvg-name="CCTV6" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV6&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV6
+#EXTINF:-1 tvg-id="stream-5fd580b3-5147-44a3-a5ec-1053c77c99aa" tvg-name="CCTV6" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV6
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-5fd580b3-5147-44a3-a5ec-1053c77c99aa/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-8b4c548b-4bb4-4531-94f5-526fcf489918" tvg-name="CCTV7" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV7&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV7
+#EXTINF:-1 tvg-id="stream-8b4c548b-4bb4-4531-94f5-526fcf489918" tvg-name="CCTV7" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv7&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV7
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-8b4c548b-4bb4-4531-94f5-526fcf489918/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-0f9f63d2-8936-4827-9151-75a6647521dd" tvg-name="CCTV8" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV8&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV8
+#EXTINF:-1 tvg-id="stream-0f9f63d2-8936-4827-9151-75a6647521dd" tvg-name="CCTV8" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv8&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV8
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-0f9f63d2-8936-4827-9151-75a6647521dd/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-322b6acd-a527-4a77-afe8-bed6440f0c6b" tvg-name="CCTV9" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV9&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV9
+#EXTINF:-1 tvg-id="stream-322b6acd-a527-4a77-afe8-bed6440f0c6b" tvg-name="CCTV9" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv9&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV9
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-322b6acd-a527-4a77-afe8-bed6440f0c6b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-5da5de0d-3671-4570-a771-01c7e971b518" tvg-name="CCTV10" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV10&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV10
+#EXTINF:-1 tvg-id="stream-5da5de0d-3671-4570-a771-01c7e971b518" tvg-name="CCTV10" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv10&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV10
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-5da5de0d-3671-4570-a771-01c7e971b518/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-661b464b-4e95-4f4d-b393-538ae7c22d10" tvg-name="CCTV11" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV11&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV11
+#EXTINF:-1 tvg-id="stream-661b464b-4e95-4f4d-b393-538ae7c22d10" tvg-name="CCTV11" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv11&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV11
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-661b464b-4e95-4f4d-b393-538ae7c22d10/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-5bc5be4e-eaf1-49f9-9466-d59b8b1899f1" tvg-name="CCTV12" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV12&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV12
+#EXTINF:-1 tvg-id="stream-5bc5be4e-eaf1-49f9-9466-d59b8b1899f1" tvg-name="CCTV12" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv12&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV12
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-5bc5be4e-eaf1-49f9-9466-d59b8b1899f1/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-bf62d667-b070-4123-87f9-4b1c3340fe6f" tvg-name="CCTV13" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV13&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV13
+#EXTINF:-1 tvg-id="stream-bf62d667-b070-4123-87f9-4b1c3340fe6f" tvg-name="CCTV13" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv13&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV13
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-bf62d667-b070-4123-87f9-4b1c3340fe6f/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-f2317a6f-aff1-44ca-a634-3532833e395b" tvg-name="CCTV14" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV14&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV14
+#EXTINF:-1 tvg-id="stream-f2317a6f-aff1-44ca-a634-3532833e395b" tvg-name="CCTV14" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv14&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV14
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-f2317a6f-aff1-44ca-a634-3532833e395b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-9d2891ae-9d5e-48e2-b432-57324209c68b" tvg-name="CCTV15" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV15&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV15
+#EXTINF:-1 tvg-id="stream-9d2891ae-9d5e-48e2-b432-57324209c68b" tvg-name="CCTV15" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv15&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV15
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-9d2891ae-9d5e-48e2-b432-57324209c68b/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-f0a3eadd-1612-454e-8531-c03be0d0afe5" tvg-name="CCTV16" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV16&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV16
+#EXTINF:-1 tvg-id="stream-f0a3eadd-1612-454e-8531-c03be0d0afe5" tvg-name="CCTV16" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv16&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV16
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-f0a3eadd-1612-454e-8531-c03be0d0afe5/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-10e56602-861f-4af4-9354-342581b898be" tvg-name="CCTV17" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV17&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV17
+#EXTINF:-1 tvg-id="stream-10e56602-861f-4af4-9354-342581b898be" tvg-name="CCTV17" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv17&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV17
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-10e56602-861f-4af4-9354-342581b898be/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-8cae808b-8d7c-4fd4-9e5a-84672555e282" tvg-name="CCTV4K" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV4k&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV4K(高清)
+#EXTINF:-1 tvg-id="stream-8cae808b-8d7c-4fd4-9e5a-84672555e282" tvg-name="CCTV4K" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv4k&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV4K(高清)
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-8cae808b-8d7c-4fd4-9e5a-84672555e282/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
-#EXTINF:-1 tvg-id="stream-9fcc289a-3e40-40b8-9f92-514e9e2041ad" tvg-name="CCTV8K" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=CCTV8k&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV8K(高清)
+#EXTINF:-1 tvg-id="stream-9fcc289a-3e40-40b8-9f92-514e9e2041ad" tvg-name="CCTV8K" group-title="央视频(php)" catchup="default" catchup-days="3" catchup-source="http://192.168.3.100/yspios.php?id=cctv8k&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="qqlive",CCTV8K(高清)
 #EXTVLCOPT:http-user-agent=qqlive
 http://192.168.3.100:9100/live/stream-9fcc289a-3e40-40b8-9f92-514e9e2041ad/index.m3u8?u=admin&p=f8383e3520d4a9cdd61bb5b50abf75ad88013e3c36c6d07fc0ee2e92b4ff18b4
 
