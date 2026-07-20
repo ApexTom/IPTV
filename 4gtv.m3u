@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.yang-1989.eu.org/epg.xml.gz" tvg-shift=0
+#EXTM3U tvg-shift=0
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="綜合",民視第一台
 http://192.168.3.100:5050/playlist?channel=%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0&token=N1TestToken2026
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="綜合",民視台灣台
