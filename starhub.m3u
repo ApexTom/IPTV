@@ -1,0 +1,256 @@
+#EXTM3U 
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+##############
+# 教育
+##############
+#EXTINF:-1 tvg-id="ABC.Australia.sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia HD
+http://192.168.3.100:8080/ABCAustralia
+#EXTINF:-1 tvg-id="BBC.Earth.(HD).sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png",BBC Earth HD
+http://192.168.3.100:8080/BBCEarthHD
+#EXTINF:-1 tvg-id="BBC.Lifestyle.(HD).sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle
+http://192.168.3.100:8080/BBCLifestyleHD
+#EXTINF:-1 tvg-id="Crime.+.Investigation™.(HD).sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime + Investigation HD
+http://192.168.3.100:8080/CrimeplusInvestigationHD
+#EXTINF:-1 tvg-id="Discovery.Channel.(HD).sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/422_1920x1080_HTV.png",Discovery HD
+http://192.168.3.100:8080/DiscoveryCh
+#EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/443_1920x1080_HTV.png",FashionTV HD
+http://192.168.3.100:8080/FashionTV
+#EXTINF:-1 tvg-id="HBO.Signature.(HD).sg" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/437_1920x1080_HTV.png",HGTV HD
+http://192.168.3.100:8080/HGTV
+#EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",HISTORY HD
+http://192.168.3.100:8080/HistoryHD
+#EXTINF:-1 tvg-id="" group-title="教育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png",Travelxp HD
+http://192.168.3.100:8080/TravelxpHD
+
+##############
+# 国际民族
+##############
+#EXTINF:-1 tvg-id="Adithya.TV.sg" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png",ADITHYA TV
+http://192.168.3.100:8080/ADITHYATV
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png",ANC
+http://192.168.3.100:8080/ANC
+#EXTINF:-1 tvg-id="Asianet.sg" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png",Asianet
+http://192.168.3.100:8080/Asianet
+#EXTINF:-1 tvg-id="Asianet.Movies.sg" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png",Asianet Movies
+http://192.168.3.100:8080/AsianetMov
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",Astro Sensasi HD
+http://192.168.3.100:8080/HubSensasiHD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",Astro Warna HD
+http://192.168.3.100:8080/Astro_warna_new
+#EXTINF:-1 tvg-id="Colors.sg" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/128_1920x1080_HTV.png",COLORS
+http://192.168.3.100:8080/COLORS
+#EXTINF:-1 tvg-id="Colors.Tamil.HD.sg" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png",COLORS Tamil HD
+http://192.168.3.100:8080/COLORSTamilHD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png",Citra Entertainment
+http://192.168.3.100:8080/CitraEntertainment
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png",DW English HD
+http://192.168.3.100:8080/DW
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png",KTV HD
+http://192.168.3.100:8080/KTVHD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png",Karisma
+http://192.168.3.100:8080/Karisma
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/134_1920x1080_HTV.png",Sun Music
+http://192.168.3.100:8080/SunMusic
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png",Sun TV HD
+http://192.168.3.100:8080/SunTV
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria HD
+http://192.168.3.100:8080/Mediacorp_Suria_DASH
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png",sony max
+http://192.168.3.100:8080/SonyMAX
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png",Sony Entertainment Television
+http://192.168.3.100:8080/SonyEntertainmentTelevision
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/152_1920x1080_HTV.png",TV5MONDE HD
+http://192.168.3.100:8080/TV5MONDEAsieHD
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",Vasantham HD
+http://192.168.3.100:8080/Mediacorp_Vasantham_DASH
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png",Vijay TV HD
+http://192.168.3.100:8080/VijayTV
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/138_1920x1080_HTV.png",Zee Tamil HD
+http://192.168.3.100:8080/ZeeTamil
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png",Zee TV HD
+http://192.168.3.100:8080/ZeeTV
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png",Zee Thirai
+http://192.168.3.100:8080/ZeeThirai
+#EXTINF:-1 tvg-id="" group-title="国际民族" tvg-logo="https://poster.starhubgo.com/Linear_channels2/130_1920x1080_HTV.png",Zee Cinema
+http://192.168.3.100:8080/ZeeCinema
+
+##############
+# 娱乐
+##############
+#EXTINF:-1 tvg-id="AXN.(HD).sg" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN HD
+http://192.168.3.100:8080/AXNHD
+#EXTINF:-1 tvg-id="Animax.(HD).sg" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png",Animax HD
+http://192.168.3.100:8080/AnimaxHD
+#EXTINF:-1 tvg-id="" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",HITS HD
+http://192.168.3.100:8080/HITSHD
+#EXTINF:-1 tvg-id="" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/514_1920x1080_HTV.png",Lifetime HD
+http://192.168.3.100:8080/LifetimeHD
+#EXTINF:-1 tvg-id="" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png",Preview Channel
+http://192.168.3.100:8080/Preview
+#EXTINF:-1 tvg-id="" group-title="娱乐" tvg-logo="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png",Rock Entertainment
+http://192.168.3.100:8080/BlueAntEntertainmentHD
+
+##############
+# 中文亚洲
+##############
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang TV HD
+http://192.168.3.100:8080/ArirangTV
+#EXTINF:-1 tvg-id="CCTV-4.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png",CCTV-4
+http://192.168.3.100:8080/CCTV4
+#EXTINF:-1 tvg-id="CTI.Asia.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/827_1920x1080_HTV.png",CTI TV HD
+http://192.168.3.100:8080/CTITVHD
+#EXTINF:-1 tvg-id="Ch.5.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 HD
+http://192.168.3.100:8080/Mediacorp_CH5_DASH
+#EXTINF:-1 tvg-id="Ch.8.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png",Channel 8 HD
+http://192.168.3.100:8080/Mediacorp_CH8_DASH
+#EXTINF:-1 tvg-id="Ch.U.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png",Channel U HD
+http://192.168.3.100:8080/Mediacorp_CHU_DASH
+#EXTINF:-1 tvg-id="Dragon.TV.Intl.sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png",Dragon TV
+http://192.168.3.100:8080/DragonTV
+#EXTINF:-1 tvg-id="ETTV.Asia.(HD).sg" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/820_1920x1080_HTV.png",ETTV ASIA HD
+http://192.168.3.100:8080/ETTVHD
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png",Hub E City HD 825
+http://192.168.3.100:8080/HubECityHD825
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png",Hub E City HD
+http://192.168.3.100:8080/HubECityHD
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png",Hub VV Drama HD
+http://192.168.3.100:8080/HubVVDramaHD
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png",KBS World HD
+http://192.168.3.100:8080/KBSWorldHD
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",NHK WORLD - JAPAN HD
+http://192.168.3.100:8080/NHKWORLDJAPAN
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png",ONE HD
+http://192.168.3.100:8080/ONEHD
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png",Phoenix Chinese Channel HD
+http://192.168.3.100:8080/PCCHD
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",TVB Jade HD
+http://192.168.3.100:8080/TVBJadeHD
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png",TVB Xing He HD
+http://192.168.3.100:8080/TVBXingHeChannel
+#EXTINF:-1 tvg-id="" group-title="中文亚洲" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png",TVBS Asia HD
+http://192.168.3.100:8080/TVBSAsia
+
+##############
+# 新闻
+##############
+#EXTINF:-1 tvg-id="BBC.News.sg" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png",BBC World News HD
+http://192.168.3.100:8080/BBCWorldNewsHD
+#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png",Bloomberg Originals
+http://192.168.3.100:8080/Quicktake
+#EXTINF:-1 tvg-id="Bloomberg.Television.(HD).sg" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg Television HD
+http://192.168.3.100:8080/BloombergTelevisionHD
+#EXTINF:-1 tvg-id="CGTN.sg" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png",CGTN
+http://192.168.3.100:8080/CGTN
+#EXTINF:-1 tvg-id="CNBC.Asia.sg" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png",CNBC HD
+http://192.168.3.100:8080/CNBCHD
+#EXTINF:-1 tvg-id="CNN.International.(HD).sg" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png",CNN HD
+http://192.168.3.100:8080/CNNHD
+#EXTINF:-1 tvg-id="CNA.(HD).sg" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia HD
+http://192.168.3.100:8080/Mediacorp_CNA_DASH
+#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/704_1920x1080_HTV.png",Euronews HD
+http://192.168.3.100:8080/Euronews
+#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/702_1920x1080_HTV.png",Fox News Channel
+http://192.168.3.100:8080/FNCHD
+#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/724_1920x1080_HTV.png",France24
+http://192.168.3.100:8080/France24
+#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png",Phoenix InfoNews HD
+http://192.168.3.100:8080/PINCHD
+#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",Sky News HD
+http://192.168.3.100:8080/SkyNewsHD
+#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/720_1920x1080_HTV.png",SEA Today
+http://192.168.3.100:8080/SEAToday
+#EXTINF:-1 tvg-id="" group-title="新闻" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS News HD
+http://192.168.3.100:8080/TVBSNews
+
+##############
+# 电影
+##############
+#EXTINF:-1 tvg-id="CCM.sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",CCM
+http://192.168.3.100:8080/CCM
+#EXTINF:-1 tvg-id="Celestial.Movies.(HD).sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies HD
+http://192.168.3.100:8080/CelestialMoviesHD
+#EXTINF:-1 tvg-id="Cinema.One.Global.sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/145_1920x1080_HTV.png",Cinema One Global
+http://192.168.3.100:8080/CinemaOne
+#EXTINF:-1 tvg-id="CINEMAX.(HD).sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax HD
+http://192.168.3.100:8080/CinemaxHD
+#EXTINF:-1 tvg-id="HBO.Family.(HD).sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family HD
+http://192.168.3.100:8080/HBOFamilyHD
+#EXTINF:-1 tvg-id="HBO.HD.sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO HD
+http://192.168.3.100:8080/HBOHD
+#EXTINF:-1 tvg-id="HBO.Hits.(HD).sg" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits HD
+http://192.168.3.100:8080/HBOHitsHD
+#EXTINF:-1 tvg-id="" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature HD
+http://192.168.3.100:8080/HBOSignatureHD
+#EXTINF:-1 tvg-id="" group-title="电影" tvg-logo="https://poster.starhubgo.com/Linear_channels2/512_1920x1080_HTV.png",HITS MOVIES HD
+http://192.168.3.100:8080/HitsMoviesHD
+
+##############
+# 儿童
+##############
+#EXTINF:-1 tvg-id="Cartoon.Network.(HD).sg" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
+http://192.168.3.100:8080/CartoonNetwork
+#EXTINF:-1 tvg-id="Cartoonito.(HD).sg" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png",Cartoonito HD
+http://192.168.3.100:8080/BoomerangHD
+#EXTINF:-1 tvg-id="CBeebies.(HD).sg" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",Cbeebies HD
+http://192.168.3.100:8080/CbeebiesHD
+#EXTINF:-1 tvg-id="DreamWorks.(HD).sg" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/307_1920x1080_HTV.png",DreamWorks Channel HD
+http://192.168.3.100:8080/DreamworksHD
+#EXTINF:-1 tvg-id="" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/304_1920x1080_HTV.png",Nick Jr.
+http://192.168.3.100:8080/NickJr
+#EXTINF:-1 tvg-id="" group-title="儿童" tvg-logo="https://poster.starhubgo.com/Linear_channels2/314_1920x1080_HTV.png",Nickelodeon HD
+http://192.168.3.100:8080/NickelodeonHD
+
+##############
+# 体育
+##############
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png",FIGHT SPORTS HD
+http://192.168.3.100:8080/FightSportsHD
+#EXTINF:-1 tvg-id="41269" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png",Hub Sports 1 HD
+http://192.168.3.100:8080/HubSports1HDnew1
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/202_1920x1080_HTV.png",Hub Sports 2 HD
+http://192.168.3.100:8080/HubSports2HD
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/203_1920x1080_HTV.png",Hub Sports 3 HD
+http://192.168.3.100:8080/HubSports3HDNEW
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/204_1920x1080_HTV.png",Hub Sports 4 HD
+http://192.168.3.100:8080/HubSports4HDnew
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png",Hub Sports 5 HD
+http://192.168.3.100:8080/HubSports5HD
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png",Hub Sports 6 HD
+http://192.168.3.100:8080/HubSports6
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png",Hub Sports 7 HD
+http://192.168.3.100:8080/HubSports7
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png",Hub Sports 8 HD
+http://192.168.3.100:8080/HubSports8
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/213_1920x1080_HTV.png",beIN Sports HD
+http://192.168.3.100:8080/BeINSportsHD
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/211_1920x1080_HTV.png",beIN Sports 2 HD
+http://192.168.3.100:8080/beINSportsHD2
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png",beIN Sports 3 HD
+http://192.168.3.100:8080/beINSports3NEW
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png",beIN Sports 4 HD
+http://192.168.3.100:8080/beINSports4
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png",beIN Sports 5 HD
+http://192.168.3.100:8080/beINSports5
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/221_1920x1080_HTV.png",Hub Premier 1 HD
+http://192.168.3.100:8080/HubPremier1
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png",Hub Premier 2 HD
+http://192.168.3.100:8080/HubPremier12
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/222_1920x1080_HTV.png",Hub Premier 2 4K
+http://192.168.3.100:8080/HubPremier2_4K
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png",Hub Premier 3 HD
+http://192.168.3.100:8080/HubPremier3
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png",Hub Premier 4 HD
+http://192.168.3.100:8080/HubPremier4
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/225_1920x1080_HTV.png",Hub Premier 5 HD
+http://192.168.3.100:8080/HubPremier5
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/226_1920x1080_HTV.png",Hub Premier 6 HD
+http://192.168.3.100:8080/HubPremier6
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/227_1920x1080_HTV.png",Hub Premier 7 HD
+http://192.168.3.100:8080/HubPremier7
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/228_1920x1080_HTV.png",Hub Premier 8 HD
+http://192.168.3.100:8080/HubPremier8
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png",spotv
+http://192.168.3.100:8080/SPOTVNEW
+#EXTINF:-1 tvg-id="" group-title="体育" tvg-logo="https://poster.starhubgo.com/Linear_channels2/210_1920x1080_HTV.png",spotv2
+http://192.168.3.100:8080/SPOTV2NEW
