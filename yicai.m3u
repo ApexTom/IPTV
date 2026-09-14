@@ -1,3 +1,6 @@
-#EXTM3U
-#EXTINF:-1 group-title="财经",第一财经
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001017/index.m3u8?streamid=3c6cb6f00aa32febab803c0b2304d5d0&streamkey=07xclP9QQ7A17NFFyGEbhztBrnBPP22fyDz7JgHrGkaGlfiIJYqJ7WIkICOIh75P2Sr1mOLAPNr8txwMTSoRVOmBWCLdRzxEjAlOejTDZlAww3eH2CFpDOVA&token=1775755151-4c6f62fc7a060448-0-a3a18d605ac6f792ac52049aeb8f47c5
+#EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cf.tomhm.cc.cd/live/https://static.tv.darwinchow.com/logo/五星体育.png" group-title="上海",五星体育
+http://180.165.1.161:4022/rtp/233.18.204.58:5140
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://cf.tomhm.cc.cd/live/https://static.tv.darwinchow.com/logo/上海第一财经.png" group-title="上海",第一财经
+http://180.165.1.161:4022/rtp/233.18.204.59:5140
+
