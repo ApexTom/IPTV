@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://static.tv.darwinchow.com/logo/上海第一财经.png" group-title="上海" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",第一财经
+#EXTM3U
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://static.tv.darwinchow.com/logo/上海第一财经.png" group-title="上海",第一财经
 http://180.165.1.161:4022/rtp/233.18.204.59:5140
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://static.tv.darwinchow.com/logo/五星体育.png" group-title="上海" catchup="append" catchup-days="3" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",五星体育
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://static.tv.darwinchow.com/logo/五星体育.png" group-title="上海",五星体育
 http://180.165.1.161:4022/rtp/233.18.204.58:5140
 
 
