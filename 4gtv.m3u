@@ -95,10 +95,6 @@ http://192.168.3.100/4gtv.php?id=139
 http://192.168.3.100/4gtv.php?id=160
 #EXTINF:-1 tvg-id="169" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="綜合",三立綜合台
 http://192.168.3.100/4gtv.php?id=169
-#EXTINF:-1 tvg-id="170" tvg-name="國會頻道1" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="國會頻道",國會頻道1
-http://192.168.3.100/4gtv.php?id=170
-#EXTINF:-1 tvg-id="171" tvg-name="國會頻道2" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="國會頻道",國會頻道2
-http://192.168.3.100/4gtv.php?id=171
 #EXTINF:-1 tvg-id="172" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="戲劇、電影與紀錄片",八大精彩台
 http://192.168.3.100/4gtv.php?id=172
 #EXTINF:-1 tvg-id="173" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="綜合",東森購物一台
@@ -261,10 +257,6 @@ http://192.168.3.100/4gtv.php?id=495
 http://192.168.3.100/4gtv.php?id=496
 #EXTINF:-1 tvg-id="498" tvg-name="ABC Australia 澳洲公廣頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live167.png" group-title="新聞財經",ABC Australia 澳洲公廣頻道
 http://192.168.3.100/4gtv.php?id=498
-#EXTINF:-1 tvg-id="499" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.webp" group-title="綜合",東森購物二台
-http://192.168.3.100/4gtv.php?id=499
-#EXTINF:-1 tvg-id="500" tvg-name="東森購物四台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.webp" group-title="綜合",東森購物四台
-http://192.168.3.100/4gtv.php?id=500
 #EXTINF:-1 tvg-id="501" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.webp" group-title="綜合",INULTRA
 http://192.168.3.100/4gtv.php?id=501
 #EXTINF:-1 tvg-id="502" tvg-name="OUTtv" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live140.png" group-title="綜合",OUTtv
