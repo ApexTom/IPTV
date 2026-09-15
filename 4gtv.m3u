@@ -1,265 +1,328 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/myhomebox/EPG/main/output/4g.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="綜合",民視第一台
+#EXTINF:-1 tvg-id="1" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",民視第一台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=1
-#EXTINF:-1 tvg-id="2" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="綜合",民視台灣台
+#EXTINF:-1 tvg-id="2" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",民視台灣台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=2
-#EXTINF:-1 tvg-id="3" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="綜合",民視
+#EXTINF:-1 tvg-id="3" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",民視
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=3
-#EXTINF:-1 tvg-id="4" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="綜合",中視
+#EXTINF:-1 tvg-id="4" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",中視
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=4
-#EXTINF:-1 tvg-id="6" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="綜合",華視
+#EXTINF:-1 tvg-id="6" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",華視
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=6
-#EXTINF:-1 tvg-id="7" tvg-name="公視戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="戲劇、電影與紀錄片",公視戲劇
+#EXTINF:-1 tvg-id="7" tvg-name="公視戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",公視戲劇
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=7
-#EXTINF:-1 tvg-id="8" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="綜合",好消息2台
+#EXTINF:-1 tvg-id="8" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",好消息2台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=8
-#EXTINF:-1 tvg-id="9" tvg-name="好消息" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png" group-title="綜合",好消息
+#EXTINF:-1 tvg-id="9" tvg-name="好消息" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",好消息
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=9
-#EXTINF:-1 tvg-id="11" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="兒童與青少年",達文西頻道
+#EXTINF:-1 tvg-id="11" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="兒童與青少年" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",達文西頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=11
-#EXTINF:-1 tvg-id="15" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="兒童與青少年",靖天卡通台
+#EXTINF:-1 tvg-id="15" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="兒童與青少年" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",靖天卡通台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=15
-#EXTINF:-1 tvg-id="16" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="音樂綜藝",民視綜藝台
+#EXTINF:-1 tvg-id="16" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",民視綜藝台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=16
-#EXTINF:-1 tvg-id="21" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="綜合",靖天綜合台
+#EXTINF:-1 tvg-id="21" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",靖天綜合台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=21
-#EXTINF:-1 tvg-id="22" tvg-name="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="音樂綜藝",靖天日本台
+#EXTINF:-1 tvg-id="22" tvg-name="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",靖天日本台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=22
-#EXTINF:-1 tvg-id="24" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="戲劇、電影與紀錄片",民視影劇台
+#EXTINF:-1 tvg-id="24" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",民視影劇台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=24
-#EXTINF:-1 tvg-id="25" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="戲劇、電影與紀錄片",采昌影劇台
+#EXTINF:-1 tvg-id="25" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",采昌影劇台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=25
-#EXTINF:-1 tvg-id="31" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="新聞財經",民視新聞台
+#EXTINF:-1 tvg-id="31" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",民視新聞台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=31
-#EXTINF:-1 tvg-id="33" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="新聞財經",中視新聞
+#EXTINF:-1 tvg-id="33" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",中視新聞
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=33
-#EXTINF:-1 tvg-id="34" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="新聞財經",華視新聞
+#EXTINF:-1 tvg-id="34" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",華視新聞
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=34
-#EXTINF:-1 tvg-id="36" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14.png" group-title="新聞財經",寰宇新聞台
+#EXTINF:-1 tvg-id="36" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",寰宇新聞台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=36
-#EXTINF:-1 tvg-id="38" tvg-name="視納華仁紀實頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png" group-title="戲劇、電影與紀錄片",視納華仁紀實頻道
+#EXTINF:-1 tvg-id="38" tvg-name="視納華仁紀實頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",視納華仁紀實頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=38
-#EXTINF:-1 tvg-id="39" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="戲劇、電影與紀錄片",amc電影台
+#EXTINF:-1 tvg-id="39" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",amc電影台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=39
-#EXTINF:-1 tvg-id="40" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="戲劇、電影與紀錄片",影迷數位電影台
+#EXTINF:-1 tvg-id="40" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",影迷數位電影台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=40
-#EXTINF:-1 tvg-id="42" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="戲劇、電影與紀錄片",靖天映畫
+#EXTINF:-1 tvg-id="42" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",靖天映畫
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=42
-#EXTINF:-1 tvg-id="57" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="運動健康生活",TRACE Sport Stars
+#EXTINF:-1 tvg-id="57" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",TRACE Sport Stars
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=57
-#EXTINF:-1 tvg-id="58" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="運動健康生活",智林體育台
+#EXTINF:-1 tvg-id="58" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",智林體育台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=58
-#EXTINF:-1 tvg-id="59" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="兒童與青少年",靖洋卡通Nice Bingo
+#EXTINF:-1 tvg-id="59" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="兒童與青少年" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",靖洋卡通Nice Bingo
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=59
-#EXTINF:-1 tvg-id="61" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="生活旅遊時尚",民視旅遊台
+#EXTINF:-1 tvg-id="61" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="生活旅遊時尚" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",民視旅遊台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=61
-#EXTINF:-1 tvg-id="69" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="運動健康生活",時尚運動X
+#EXTINF:-1 tvg-id="69" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",時尚運動X
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=69
-#EXTINF:-1 tvg-id="78" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="音樂綜藝",TRACE Urban
+#EXTINF:-1 tvg-id="78" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",TRACE Urban
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=78
-#EXTINF:-1 tvg-id="79" tvg-name="Mezzo Live HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv083_mobile.png" group-title="音樂綜藝",Mezzo Live HD
+#EXTINF:-1 tvg-id="79" tvg-name="Mezzo Live HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv083_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",Mezzo Live HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=79
-#EXTINF:-1 tvg-id="80" tvg-name="CLASSICA 古典樂" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png" group-title="音樂綜藝",CLASSICA 古典樂
+#EXTINF:-1 tvg-id="80" tvg-name="CLASSICA 古典樂" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",CLASSICA 古典樂
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=80
-#EXTINF:-1 tvg-id="82" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="戲劇、電影與紀錄片",靖天電影台
+#EXTINF:-1 tvg-id="82" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",靖天電影台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=82
-#EXTINF:-1 tvg-id="83" tvg-name="靖天育樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="音樂綜藝",靖天育樂台
+#EXTINF:-1 tvg-id="83" tvg-name="靖天育樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",靖天育樂台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=83
-#EXTINF:-1 tvg-id="84" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="音樂綜藝",KLT-靖天國際台
+#EXTINF:-1 tvg-id="84" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",KLT-靖天國際台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=84
-#EXTINF:-1 tvg-id="88" tvg-name="靖天資訊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="音樂綜藝",靖天資訊台
+#EXTINF:-1 tvg-id="88" tvg-name="靖天資訊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",靖天資訊台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=88
-#EXTINF:-1 tvg-id="93" tvg-name="getwin sport運動台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/getwin頻道LOGO.png" group-title="運動健康生活",getwin sport運動台
+#EXTINF:-1 tvg-id="93" tvg-name="getwin sport運動台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/getwin頻道LOGO.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",getwin sport運動台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=93
-#EXTINF:-1 tvg-id="94" tvg-name="香蕉直擊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv038_mobile.png" group-title="現場直擊",香蕉直擊台
+#EXTINF:-1 tvg-id="94" tvg-name="香蕉直擊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv038_mobile.png" group-title="現場直擊" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",香蕉直擊台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=94
-#EXTINF:-1 tvg-id="107" tvg-name="客家電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="綜合",客家電視台
+#EXTINF:-1 tvg-id="107" tvg-name="客家電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",客家電視台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=107
-#EXTINF:-1 tvg-id="113" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="音樂綜藝",豬哥亮歌廳秀
+#EXTINF:-1 tvg-id="113" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",豬哥亮歌廳秀
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=113
-#EXTINF:-1 tvg-id="114" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="綜合",八大綜藝台
+#EXTINF:-1 tvg-id="114" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",八大綜藝台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=114
-#EXTINF:-1 tvg-id="116" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="戲劇、電影與紀錄片",靖天戲劇台
+#EXTINF:-1 tvg-id="116" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",靖天戲劇台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=116
-#EXTINF:-1 tvg-id="118" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="戲劇、電影與紀錄片",靖洋戲劇台
+#EXTINF:-1 tvg-id="118" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",靖洋戲劇台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=118
-#EXTINF:-1 tvg-id="119" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="綜合",Nice TV 靖天歡樂台
+#EXTINF:-1 tvg-id="119" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",Nice TV 靖天歡樂台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=119
-#EXTINF:-1 tvg-id="123" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.webp" group-title="生活旅遊時尚",幸福空間居家台
+#EXTINF:-1 tvg-id="123" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.webp" group-title="生活旅遊時尚" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",幸福空間居家台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=123
-#EXTINF:-1 tvg-id="124" tvg-name="原住民族電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.webp" group-title="綜合",原住民族電視台
+#EXTINF:-1 tvg-id="124" tvg-name="原住民族電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.webp" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",原住民族電視台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=124
-#EXTINF:-1 tvg-id="139" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="生活旅遊時尚",Love Nature
+#EXTINF:-1 tvg-id="139" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="生活旅遊時尚" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",Love Nature
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=139
-#EXTINF:-1 tvg-id="160" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="運動健康生活",車迷TV
+#EXTINF:-1 tvg-id="160" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",車迷TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=160
-#EXTINF:-1 tvg-id="169" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="綜合",三立綜合台
+#EXTINF:-1 tvg-id="169" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",三立綜合台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=169
-#EXTINF:-1 tvg-id="172" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="戲劇、電影與紀錄片",八大精彩台
+#EXTINF:-1 tvg-id="172" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",八大精彩台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=172
-#EXTINF:-1 tvg-id="173" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="綜合",東森購物一台
-http://192.168.3.100/4gtv.php?id=173
-#EXTINF:-1 tvg-id="175" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="生活旅遊時尚",LUXE TV Channel
+#EXTINF:-1 tvg-id="175" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="生活旅遊時尚" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",LUXE TV Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=175
-#EXTINF:-1 tvg-id="178" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="生活旅遊時尚",TV5MONDE STYLE HD 生活時尚
+#EXTINF:-1 tvg-id="178" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="生活旅遊時尚" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",TV5MONDE STYLE HD 生活時尚
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=178
-#EXTINF:-1 tvg-id="179" tvg-name="GINX Esports TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv053_mobile.png" group-title="運動健康生活",GINX Esports TV
-http://192.168.3.100/4gtv.php?id=179
-#EXTINF:-1 tvg-id="180" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="戲劇、電影與紀錄片",ROCK Action
+#EXTINF:-1 tvg-id="180" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",ROCK Action
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=180
-#EXTINF:-1 tvg-id="183" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="新聞財經",TVBS
-http://192.168.3.100/4gtv.php?id=183
-#EXTINF:-1 tvg-id="184" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="音樂綜藝",TVBS歡樂台
+#EXTINF:-1 tvg-id="184" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",TVBS歡樂台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=184
-#EXTINF:-1 tvg-id="185" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="兒童與青少年",尼克兒童頻道
+#EXTINF:-1 tvg-id="185" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="兒童與青少年" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",尼克兒童頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=185
-#EXTINF:-1 tvg-id="186" tvg-name="HITS頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="戲劇、電影與紀錄片",HITS頻道
+#EXTINF:-1 tvg-id="186" tvg-name="HITS頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",HITS頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=186
-#EXTINF:-1 tvg-id="188" tvg-name="LiveABC互動英語頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png" group-title="兒童與青少年",LiveABC互動英語頻道
+#EXTINF:-1 tvg-id="188" tvg-name="LiveABC互動英語頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png" group-title="兒童與青少年" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",LiveABC互動英語頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=188
-#EXTINF:-1 tvg-id="189" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="綜合",ARIRANG阿里郎頻道
+#EXTINF:-1 tvg-id="189" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",ARIRANG阿里郎頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=189
-#EXTINF:-1 tvg-id="201" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="戲劇、電影與紀錄片",經典電影台
+#EXTINF:-1 tvg-id="201" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",經典電影台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=201
-#EXTINF:-1 tvg-id="202" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="兒童與青少年",經典卡通台
+#EXTINF:-1 tvg-id="202" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="兒童與青少年" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",經典卡通台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=202
-#EXTINF:-1 tvg-id="204" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="兒童與青少年",精選動漫台
+#EXTINF:-1 tvg-id="204" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="兒童與青少年" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",精選動漫台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=204
-#EXTINF:-1 tvg-id="209" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="綜合",大愛電視
+#EXTINF:-1 tvg-id="209" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",大愛電視
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=209
-#EXTINF:-1 tvg-id="210" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="綜合",人間衛視
+#EXTINF:-1 tvg-id="210" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",人間衛視
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=210
-#EXTINF:-1 tvg-id="211" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live019_mobile.png" group-title="新聞財經",東森財經新聞台
-http://192.168.3.100/4gtv.php?id=211
-#EXTINF:-1 tvg-id="214" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="生活旅遊時尚",History 歷史頻道
+#EXTINF:-1 tvg-id="214" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="生活旅遊時尚" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",History 歷史頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=214
-#EXTINF:-1 tvg-id="215" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="生活旅遊時尚",CI 罪案偵查頻道
+#EXTINF:-1 tvg-id="215" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="生活旅遊時尚" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",CI 罪案偵查頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=215
-#EXTINF:-1 tvg-id="217" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="音樂綜藝",Lifetime 娛樂頻道
+#EXTINF:-1 tvg-id="217" tvg-name="Fashion 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",Fashion 娛樂頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=217
-#EXTINF:-1 tvg-id="218" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="音樂綜藝",電影原聲台CMusic
+#EXTINF:-1 tvg-id="218" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="音樂綜藝" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",電影原聲台CMusic
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=218
-#EXTINF:-1 tvg-id="219" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png" group-title="兒童與青少年",Nick Jr. 兒童頻道
+#EXTINF:-1 tvg-id="219" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png" group-title="兒童與青少年" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",Nick Jr. 兒童頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=219
-#EXTINF:-1 tvg-id="224" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="新聞財經",SBN全球財經台
+#EXTINF:-1 tvg-id="224" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",SBN全球財經台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=224
-#EXTINF:-1 tvg-id="225" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="戲劇、電影與紀錄片",CinemaWorld
+#EXTINF:-1 tvg-id="225" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",CinemaWorld
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=225
-#EXTINF:-1 tvg-id="226" tvg-name="DW德國之聲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live071_mobile.png" group-title="新聞財經",DW德國之聲
+#EXTINF:-1 tvg-id="226" tvg-name="DW德國之聲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live071_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",DW德國之聲
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=226
-#EXTINF:-1 tvg-id="227" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="綜合",TVBS精采台
+#EXTINF:-1 tvg-id="227" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",TVBS精采台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=227
-#EXTINF:-1 tvg-id="229" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="新聞財經",三立新聞iNEWS
+#EXTINF:-1 tvg-id="229" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",三立新聞iNEWS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=229
-#EXTINF:-1 tvg-id="230" tvg-name="大愛二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live106_mobile.png" group-title="綜合",大愛二台
+#EXTINF:-1 tvg-id="230" tvg-name="大愛二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live106_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",大愛二台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=230
-#EXTINF:-1 tvg-id="231" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/4gtv-live107.png" group-title="兒童與青少年",MOMO親子台
+#EXTINF:-1 tvg-id="231" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/4gtv-live107.png" group-title="兒童與青少年" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",MOMO親子台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=231
-#EXTINF:-1 tvg-id="234" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live114_mobile.png" group-title="新聞財經",東森新聞台
-http://192.168.3.100/4gtv.php?id=234
-#EXTINF:-1 tvg-id="235" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv130_mobile.png" group-title="新聞財經",CNBC Asia 財經台
+#EXTINF:-1 tvg-id="235" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv130_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",CNBC Asia 財經台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=235
-#EXTINF:-1 tvg-id="236" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="戲劇、電影與紀錄片",金光布袋戲
+#EXTINF:-1 tvg-id="236" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",金光布袋戲
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=236
-#EXTINF:-1 tvg-id="237" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="生活旅遊時尚",愛爾達生活旅遊台
+#EXTINF:-1 tvg-id="237" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="生活旅遊時尚" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",愛爾達生活旅遊台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=237
-#EXTINF:-1 tvg-id="246" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="綜合",民視
-http://192.168.3.100/4gtv.php?id=246
-#EXTINF:-1 tvg-id="249" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="生活旅遊時尚",滾動力rollor
+#EXTINF:-1 tvg-id="249" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="生活旅遊時尚" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",滾動力rollor
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=249
-#EXTINF:-1 tvg-id="250" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="生活旅遊時尚",亞洲旅遊台
+#EXTINF:-1 tvg-id="250" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="生活旅遊時尚" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",亞洲旅遊台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=250
-#EXTINF:-1 tvg-id="252" tvg-name="Global Trekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="綜合",Global Trekker
+#EXTINF:-1 tvg-id="252" tvg-name="Global Trekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",Global Trekker
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=252
-#EXTINF:-1 tvg-id="254" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="綜合",民視第一台
-http://192.168.3.100/4gtv.php?id=254
-#EXTINF:-1 tvg-id="255" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="綜合",民視台灣台
-http://192.168.3.100/4gtv.php?id=255
-#EXTINF:-1 tvg-id="256" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="新聞財經",華視新聞
-http://192.168.3.100/4gtv.php?id=256
-#EXTINF:-1 tvg-id="257" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="新聞財經",民視新聞台
-http://192.168.3.100/4gtv.php?id=257
-#EXTINF:-1 tvg-id="261" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="生活旅遊時尚",亞洲旅遊台
-http://192.168.3.100/4gtv.php?id=261
-#EXTINF:-1 tvg-id="268" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="新聞財經",鏡電視新聞台
+#EXTINF:-1 tvg-id="268" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",鏡電視新聞台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=268
-#EXTINF:-1 tvg-id="274" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="綜合",fun探索娛樂台
+#EXTINF:-1 tvg-id="274" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",fun探索娛樂台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=274
-#EXTINF:-1 tvg-id="275" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png" group-title="綜合",ROCK Entertainment
+#EXTINF:-1 tvg-id="275" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",ROCK Entertainment
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=275
-#EXTINF:-1 tvg-id="276" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv410_mobile.png" group-title="綜合",八大綜藝台
-http://192.168.3.100/4gtv.php?id=276
-#EXTINF:-1 tvg-id="277" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv411_mobile.png" group-title="運動健康生活",時尚運動X
-http://192.168.3.100/4gtv.php?id=277
-#EXTINF:-1 tvg-id="280" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv156.png" group-title="新聞財經",寰宇新聞台灣台
+#EXTINF:-1 tvg-id="280" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv156.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",寰宇新聞台灣台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=280
-#EXTINF:-1 tvg-id="281" tvg-name="寰宇財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv158.png" group-title="新聞財經",寰宇財經台
-http://192.168.3.100/4gtv.php?id=281
-#EXTINF:-1 tvg-id="282" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="兒童與青少年",DreamWorks 夢工廠動畫
+#EXTINF:-1 tvg-id="282" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="兒童與青少年" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",DreamWorks 夢工廠動畫
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=282
-#EXTINF:-1 tvg-id="283" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="新聞財經",Bloomberg TV
+#EXTINF:-1 tvg-id="283" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",Bloomberg TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=283
-#EXTINF:-1 tvg-id="287" tvg-name="東森購物三台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="綜合",東森購物三台
-http://192.168.3.100/4gtv.php?id=287
-#EXTINF:-1 tvg-id="291" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="新聞財經",TVBS新聞
+#EXTINF:-1 tvg-id="291" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",TVBS新聞
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=291
-#EXTINF:-1 tvg-id="292" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="新聞財經",東森新聞台
+#EXTINF:-1 tvg-id="292" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",東森新聞台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=292
-#EXTINF:-1 tvg-id="293" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="新聞財經",東森財經新聞台
+#EXTINF:-1 tvg-id="293" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",東森財經新聞台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=293
-#EXTINF:-1 tvg-id="316" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png" group-title="新聞財經",FRANCE24 英文台
+#EXTINF:-1 tvg-id="316" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",FRANCE24 英文台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=316
-#EXTINF:-1 tvg-id="445" tvg-name="影迷數位紀實台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live023_mobile.png" group-title="戲劇、電影與紀錄片",影迷數位紀實台
+#EXTINF:-1 tvg-id="445" tvg-name="影迷數位紀實台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live023_mobile.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",影迷數位紀實台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=445
-#EXTINF:-1 tvg-id="446" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="綜合",韓國娛樂台 KMTV
+#EXTINF:-1 tvg-id="446" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",韓國娛樂台 KMTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=446
-#EXTINF:-1 tvg-id="450" tvg-name="MagellanTV頻道 (麥哲倫頻道) " tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="生活旅遊時尚",MagellanTV頻道 (麥哲倫頻道) 
-http://192.168.3.100/4gtv.php?id=450
-#EXTINF:-1 tvg-id="461" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png" group-title="新聞財經",NHK WORLD-JAPAN
+#EXTINF:-1 tvg-id="461" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",NHK WORLD-JAPAN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=461
-#EXTINF:-1 tvg-id="462" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="新聞財經",半島國際新聞台
+#EXTINF:-1 tvg-id="462" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",半島國際新聞台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=462
-#EXTINF:-1 tvg-id="463" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="戲劇、電影與紀錄片",My Cinema Europe HD 我的歐洲電影
+#EXTINF:-1 tvg-id="463" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",My Cinema Europe HD 我的歐洲電影
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=463
-#EXTINF:-1 tvg-id="464" tvg-name="Pet Club TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png" group-title="運動健康生活",Pet Club TV
-http://192.168.3.100/4gtv.php?id=464
-#EXTINF:-1 tvg-id="467" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_pc.webp" group-title="新聞財經",民視新聞台
-http://192.168.3.100/4gtv.php?id=467
-#EXTINF:-1 tvg-id="468" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_pc.webp" group-title="綜合",民視
-http://192.168.3.100/4gtv.php?id=468
-#EXTINF:-1 tvg-id="469" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_pc.webp" group-title="綜合",民視台灣台
-http://192.168.3.100/4gtv.php?id=469
-#EXTINF:-1 tvg-id="470" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_pc.webp" group-title="綜合",民視第一台
-http://192.168.3.100/4gtv.php?id=470
-#EXTINF:-1 tvg-id="472" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png" group-title="新聞財經",TVBS
+#EXTINF:-1 tvg-id="472" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",TVBS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=472
-#EXTINF:-1 tvg-id="473" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live072_mobile.png" group-title="新聞財經",TVBS新聞
+#EXTINF:-1 tvg-id="473" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live072_mobile.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",TVBS新聞
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=473
-#EXTINF:-1 tvg-id="485" tvg-name="ROCK Xstream搖滾極限頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live124.png" group-title="戲劇、電影與紀錄片",ROCK Xstream搖滾極限頻道
+#EXTINF:-1 tvg-id="485" tvg-name="ROCK Xstream搖滾極限頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live124.png" group-title="戲劇、電影與紀錄片" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",ROCK Xstream搖滾極限頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=485
-#EXTINF:-1 tvg-id="486" tvg-name="博斯高球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png" group-title="運動健康生活",博斯高球台
+#EXTINF:-1 tvg-id="486" tvg-name="博斯高球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",博斯高球台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=486
-#EXTINF:-1 tvg-id="487" tvg-name="博斯運動一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn07_mobile.png" group-title="運動健康生活",博斯運動一台
+#EXTINF:-1 tvg-id="487" tvg-name="博斯運動一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn07_mobile.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",博斯運動一台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=487
-#EXTINF:-1 tvg-id="488" tvg-name="博斯網球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="運動健康生活",博斯網球台
+#EXTINF:-1 tvg-id="488" tvg-name="博斯網球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",博斯網球台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=488
-#EXTINF:-1 tvg-id="489" tvg-name="博斯無限台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn10_mobile.png" group-title="運動健康生活",博斯無限台
+#EXTINF:-1 tvg-id="489" tvg-name="博斯無限台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn10_mobile.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",博斯無限台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=489
-#EXTINF:-1 tvg-id="490" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.webp" group-title="兒童與青少年",ELTV生活英語台
+#EXTINF:-1 tvg-id="490" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.webp" group-title="兒童與青少年" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",ELTV生活英語台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=490
-#EXTINF:-1 tvg-id="493" tvg-name="博斯魅力台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang04.png" group-title="運動健康生活",博斯魅力台
+#EXTINF:-1 tvg-id="493" tvg-name="博斯魅力台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang04.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",博斯魅力台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=493
-#EXTINF:-1 tvg-id="494" tvg-name="博斯高球二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang06.png" group-title="運動健康生活",博斯高球二台
+#EXTINF:-1 tvg-id="494" tvg-name="博斯高球二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang06.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",博斯高球二台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=494
-#EXTINF:-1 tvg-id="495" tvg-name="博斯運動二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang08.png" group-title="運動健康生活",博斯運動二台
+#EXTINF:-1 tvg-id="495" tvg-name="博斯運動二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang08.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",博斯運動二台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=495
-#EXTINF:-1 tvg-id="496" tvg-name="博斯無限二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang13.png" group-title="運動健康生活",博斯無限二台
+#EXTINF:-1 tvg-id="496" tvg-name="博斯無限二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang13.png" group-title="運動健康生活" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",博斯無限二台
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=496
-#EXTINF:-1 tvg-id="498" tvg-name="ABC Australia 澳洲公廣頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live167.png" group-title="新聞財經",ABC Australia 澳洲公廣頻道
+#EXTINF:-1 tvg-id="498" tvg-name="ABC Australia 澳洲公廣頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live167.png" group-title="新聞財經" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",ABC Australia 澳洲公廣頻道
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=498
-#EXTINF:-1 tvg-id="501" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.webp" group-title="綜合",INULTRA
+#EXTINF:-1 tvg-id="501" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.webp" group-title="綜合" http-user-agent="Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)",INULTRA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Android TV Build/TP1A.220624.014)
 http://192.168.3.100/4gtv.php?id=501
-#EXTINF:-1 tvg-id="502" tvg-name="OUTtv" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live140.png" group-title="綜合",OUTtv
-http://192.168.3.100/4gtv.php?id=502
-#EXTINF:-1 tvg-id="503" tvg-name="wedotv Movies" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live148.png" group-title="戲劇、電影與紀錄片",wedotv Movies
-http://192.168.3.100/4gtv.php?id=503
