@@ -9,9 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: 拉取仓库（不使用第三方 action）
+        env:
+          TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          git clone --depth 1 "https://x-access-token:${TOKEN}@github.com/${REPO}.git" repo
 
       - name: 抓公告页里的最新订阅链接
+        working-directory: repo
         run: |
           curl -sSL -m 30 -A "Mozilla/5.0 (iPad; CPU OS 18_0 like Mac OS X) AppleWebKit/605.1.15 Safari/604.1" \
             https://mpd.cc.cd -o page.html || { echo "公告页访问失败"; exit 1; }
@@ -22,6 +28,7 @@ jobs:
           echo "$LINK" > /tmp/link.txt
 
       - name: 下载直播源并过滤
+        working-directory: repo
         run: |
           curl -fsSL -m 120 -A "Mozilla/5.0" "$(cat /tmp/link.txt)" -o src.m3u || { echo "直播源下载失败"; exit 1; }
           wc -c src.m3u
@@ -33,6 +40,7 @@ jobs:
           rm -f src.m3u
 
       - name: 有变化才提交
+        working-directory: repo
         run: |
           git config user.name "bot"
           git config user.email "bot@users.noreply.github.com"
